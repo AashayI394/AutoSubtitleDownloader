@@ -1,0 +1,1644 @@
+    <!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+
+	<!-- Activates Media Queries -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+<!-- Static Meta Tags -->
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta name="theme-color" content="#3c3c3c" >
+
+
+
+<!-- Favicon -->
+
+	<title>Thor subtitles English | opensubtitles.com</title>
+<meta name="description" content="Thor subtitles - Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights - English">
+<meta name="keywords" content="2011 - thor, thor.2011.hybrid.2160p.bluray.remux.hevc.dv.truehd.atmos.7.1-flights.srt, subtitles, movie subtitles, download subtitles, english subtitles, fansub, subs, tv subtitles, series subtitles">
+<link rel="canonical" href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">
+<meta property="og:title" content="Thor subtitles English ">
+<meta property="og:image" content="https://s9.opensubtitles.com/features/0/4/6/552640.jpg">
+<meta property="og:description" content="Thor subtitles - Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights -  English ">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">
+<meta name="twitter:site_name" content="opensubtitles.com">
+<meta name="twitter:site" content="opensubtitles.com">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Thor subtitles - Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights -  English ">
+<meta name="twitter:image" content="https://s9.opensubtitles.com/features/0/4/6/552640.jpg">
+<meta name="twitter:title" content="Thor subtitles English ">
+
+
+
+
+	<link rel="apple-touch-icon" sizes="76x76"        href="/assets/ui/favicons/apple-touch-icon-76x76-precomposed-c2ad020da0a115a58f669bdb1d7e05300b8927709157d0de1b96e5913e583876.png">
+	<link rel="apple-touch-icon" sizes="120x120"      href="/assets/ui/favicons/apple-touch-icon-120x120-precomposed-adac1dae423a2b140d8f33fd84062c30fa244cc7bb6a96130f1746950d430175.png">
+	<link rel="apple-touch-icon" sizes="144x144"      href="/assets/ui/favicons/apple-touch-icon-144x144-precomposed-8ae369ca44dd8aa523c386a88989070b657c7ea6f307748959a0a5b7ed3fa7e2.png">
+	<link rel="apple-touch-icon" sizes="152x152"      href="/assets/ui/favicons/apple-touch-icon-152x152-precomposed-acb0bcd75e874eede33ccb1918a755f3360eef07c40e30e9612732b8955fb193.png">
+	<link rel="apple-touch-icon" sizes="180x180"      href="/assets/ui/favicons/apple-touch-icon-180x180-precomposed-001c1090cc7ca582266c53ef080eeb2a4c77db9bf0e84009448b7990d1b1b1c2.png">
+	<link rel="icon" type="image/png" sizes="64x64"   href="/assets/ui/favicons/favicon-64x64-e8e9f196985f98cfaa08b1e0159a1030cfc9b014c464fab6693cd0573382a702.png">
+	<link rel="icon" type="image/png" sizes="16x16"   href="/assets/ui/favicons/favicon-16x16-3afca9a5ea1c16ad6a9579a151278c827fda2f96b3c90921e8d8cdff1fee4b95.png">
+
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;1,400&display=swap"
+  rel="stylesheet">
+
+
+
+
+<!-- Initialise all scripts -->
+    <script src="/assets/application-legacy-fae7490621dd52f76a759a0535040d18d9860c46c007245396de9b9298434f7f.js" data-turbolinks-track="true" data-turbolinks-suppress-warning="true" integrity="sha256-3AhYTgjHMJCepdhzGirTBxMkZkpx+D8Nxj7Q5EKFztQ="></script>
+<link rel="stylesheet" media="all" href="/assets/application-legacy-3dc4482c223e117918083e3f0d45b5e51a2afc7defe18cd1d199f6dc52122688.css" data-turbolinks-track="true" integrity="sha256-BmuDyH5vnj8ldy52MTX+6aas/dQqvh815hS/Xdjear0=" />
+
+<script src="/en/nujs.js" data-turbolinks-track="true" data-turbolinks-suppress-warning="true"></script>
+
+  <link rel="alternate" href="https://www.opensubtitles.com/sq/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="sq" /><link rel="alternate" href="https://www.opensubtitles.com/ar/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="ar" /><link rel="alternate" href="https://www.opensubtitles.com/an/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="an" /><link rel="alternate" href="https://www.opensubtitles.com/hy/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="hy" /><link rel="alternate" href="https://www.opensubtitles.com/at/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="at" /><link rel="alternate" href="https://www.opensubtitles.com/eu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="eu" /><link rel="alternate" href="https://www.opensubtitles.com/br/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="br" /><link rel="alternate" href="https://www.opensubtitles.com/bg/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="bg" /><link rel="alternate" href="https://www.opensubtitles.com/ca/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="ca" /><link rel="alternate" href="https://www.opensubtitles.com/zh-CN/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="zh-CN" /><link rel="alternate" href="https://www.opensubtitles.com/zh-TW/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="zh-TW" /><link rel="alternate" href="https://www.opensubtitles.com/hr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="hr" /><link rel="alternate" href="https://www.opensubtitles.com/cs/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="cs" /><link rel="alternate" href="https://www.opensubtitles.com/da/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="da" /><link rel="alternate" href="https://www.opensubtitles.com/nl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="nl" /><link rel="alternate" href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="en" /><link rel="alternate" href="https://www.opensubtitles.com/eo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="eo" /><link rel="alternate" href="https://www.opensubtitles.com/et/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="et" /><link rel="alternate" href="https://www.opensubtitles.com/fi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="fi" /><link rel="alternate" href="https://www.opensubtitles.com/fr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="fr" /><link rel="alternate" href="https://www.opensubtitles.com/gl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="gl" /><link rel="alternate" href="https://www.opensubtitles.com/ka/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="ka" /><link rel="alternate" href="https://www.opensubtitles.com/de/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="de" /><link rel="alternate" href="https://www.opensubtitles.com/el/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="el" /><link rel="alternate" href="https://www.opensubtitles.com/he/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="he" /><link rel="alternate" href="https://www.opensubtitles.com/hi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="hi" /><link rel="alternate" href="https://www.opensubtitles.com/hu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="hu" /><link rel="alternate" href="https://www.opensubtitles.com/is/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="is" /><link rel="alternate" href="https://www.opensubtitles.com/id/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="id" /><link rel="alternate" href="https://www.opensubtitles.com/it/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="it" /><link rel="alternate" href="https://www.opensubtitles.com/ja/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="ja" /><link rel="alternate" href="https://www.opensubtitles.com/km/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="km" /><link rel="alternate" href="https://www.opensubtitles.com/kr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="kr" /><link rel="alternate" href="https://www.opensubtitles.com/mk/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="mk" /><link rel="alternate" href="https://www.opensubtitles.com/ms/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="ms" /><link rel="alternate" href="https://www.opensubtitles.com/no/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="no" /><link rel="alternate" href="https://www.opensubtitles.com/oc/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="oc" /><link rel="alternate" href="https://www.opensubtitles.com/fa/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="fa" /><link rel="alternate" href="https://www.opensubtitles.com/pl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="pl" /><link rel="alternate" href="https://www.opensubtitles.com/pt-PT/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="pt-PT" /><link rel="alternate" href="https://www.opensubtitles.com/pt-BR/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="pt-BR" /><link rel="alternate" href="https://www.opensubtitles.com/ro/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="ro" /><link rel="alternate" href="https://www.opensubtitles.com/ru/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="ru" /><link rel="alternate" href="https://www.opensubtitles.com/sr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="sr" /><link rel="alternate" href="https://www.opensubtitles.com/si/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="si" /><link rel="alternate" href="https://www.opensubtitles.com/sk/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="sk" /><link rel="alternate" href="https://www.opensubtitles.com/sl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="sl" /><link rel="alternate" href="https://www.opensubtitles.com/es/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="es" /><link rel="alternate" href="https://www.opensubtitles.com/sv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="sv" /><link rel="alternate" href="https://www.opensubtitles.com/tl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="tl" /><link rel="alternate" href="https://www.opensubtitles.com/tt/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="tt" /><link rel="alternate" href="https://www.opensubtitles.com/th/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="th" /><link rel="alternate" href="https://www.opensubtitles.com/tr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="tr" /><link rel="alternate" href="https://www.opensubtitles.com/uk/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="uk" /><link rel="alternate" href="https://www.opensubtitles.com/uz/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="uz" /><link rel="alternate" href="https://www.opensubtitles.com/vi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" hreflang="vi" />
+  <link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#efefef",
+      "text": "#404040"
+    },
+    "button": {
+      "background": "#8ec760",
+      "text": "#ffffff"
+    }
+  },
+  "theme": "edgeless",
+  "content": {
+    "href": "/privacy"
+  },
+  "position": "bottom"
+})});
+</script>
+
+<!--[if lt IE 9]>
+<![endif]-->
+
+<!--
+load HTML5.js from the web after production:
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+-->
+
+<!--[if IE 8]>
+	<link rel="stylesheet" media="all" href="/assets/lte-ie-9-1f3b3faa717ae07b64e4cbf64277060cd34ebed693c1c9540801e8d08294f56c.css" data-turbolinks-track="true" />
+<![endif]-->
+
+<!--[if IE 7]>
+	<link rel="stylesheet" media="all" href="/assets/lte-ie-9-1f3b3faa717ae07b64e4cbf64277060cd34ebed693c1c9540801e8d08294f56c.css" data-turbolinks-track="true" />
+<![endif]-->
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-436756-19"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-436756-19');
+</script>
+
+
+
+  
+
+</head>
+
+<body class="ltr"  >
+<!--
+<pre>
+locale:
+i18n.locale:en
+params:locale:en
+</pre>
+-->
+<div id="chromepop" style="display:none;">
+  <div id="popbg"></div>
+  <div id="popcontainer">
+        <input id='dl_tmp_url' type='hidden' name='dl_tmp_url'>
+        <input id='chromepop_ext_id' type='hidden' name='chromepop_ext_id'>
+        <input id='chromepop_ff_id' type='hidden' name='chromepop_ff_id'>
+    <div id="poptxt">
+      <span class="adds-close"><i class='icon-cancel'></i></span>
+
+
+<div class="ilb top">
+    <span class="logo_add pull-left ilb"></span>
+    <div class="headers_add ilb">
+      <span id="txtadd" class="pull-left titleadd addlft">
+        Add OpenSub search
+      </span>
+      <span id="txts1 " class="pull-left titleadd addrgt">
+        Step 1
+      </span>
+      <div id="txtintro_add">
+        Click the &quot;Accept and +Add&quot; button to download OpenSub search Chrome Extension. OpenSub search will replace your default search engine by our sponsored search.
+      </div>
+    </div>
+  </div>
+  <div id="box">
+    PLEASE READ THE Terms and Conditions ("TERMS") CAREFULLY BEFORE USING THIS Extension.<br>These sites are owned by third-party sites and are operated by a third party. Therefore OpenSub search does not take responsibility and has no control over the performance of these sites, including content, Terms of Use, Privacy and the like. By using this site you acknowledge that OpenSub search site will not be liable for any damages, claims or other liability arising from and / or related use of Web sites owned by third parties. These terms of Service ("Terms") and the OpenSub search privacy policy (the "privacy policy")
+  </div>
+  <div id=disclaimer>
+      By clicking the button and adding OpenSub search Chrome Extension, I accept and agree to abide by the <a href="https://search.becovi.com/terms.php" target="_blank">Terms and Conditions</a> and <a href="https://search.becovi.com/privacy.php" target="_blank">Privacy Policy</a>.
+   </div>
+   <div id=bottom>
+     <img id='ext_badge' src='/assets/ChromeWebStore-f05dfaca7980fe954b433a246d46c025ca912d28ea2e23fe11b832ccaae959b7.png' alt='chromestore' data-ff-img='/assets/firefox-d53a8bdc5f73fffeaf3aa443835541fc1adcb14027e06b83beebda5680fca0d4.svg'>
+       <div class="pull-right button_add">
+         <span id="addtochromebutton">
+           Accept and +Add
+          </span>
+      </div>
+    </div>
+
+    </div>
+  </div>
+</div>
+
+	<input type="hidden" name="search_language" id="search_language" value="all">
+	<input type="hidden" name="is_index" id="is_index" value="">
+	<input type="hidden" name="current_locale" id="current_locale" value="en">
+	<input type="hidden" name="curreml" id="curreml">
+	<input type="hidden" name="curruname" id="curruname">
+
+
+		<div id="admin_navigation_container">
+		</div>
+
+<div class="container-fluid">
+	<section id="main-header">
+		
+<form id="form-search" role="search" action="/nocache/search/en" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" />
+<input type="hidden" name="authenticity_token" id="search_form_token" value="" autocomplete="off" />
+	<input type="hidden" value="" name="current_path" id="current_path">
+	<input type="hidden" value="false" name="show_log" id="show_log">
+	<input type="hidden" value="" name="current_languages" id="current_languages">
+			<div class="search-bar row  valign-parent">
+				<!--
+				NOTE: Add class 'fancy' to create the large search bar with background image.
+				NOTE: Add class 'dropping' to create the drag-and-drop effect on the search form.
+				-->
+				<div class="search-bar-valign  valign">
+					<div class="container">
+						<div class="welcome-title">
+							<!--
+							NOTE:
+							You can choose whether you will you h1, h2 or span - the styling will still be the same - but you have to use classes .h1 or .h2.
+							I recommend using h1 (and h2) on homepage. On other pages, the fancy search bar will not be used, so it shoud be fine.
+							If you decide to use it also on subpages, use span instead of h1 and h2.
+							You don't have to use second title at all if it doesn't make sense.
+							-->
+							<span class="h1">Find the right subtitles. Your movie. Your language.</span>
+								<span class="welcome-title-tip h3"><i class="icon-info-circled"></i> You can drag-and-drop any movie file to search for subtitles for that movie.</span>
+			<!-- <h2 class="h2">You can try searching for it, or visit the <a href="#">homepage</a> perhaps?</h2> -->
+							</div>
+
+							<div class="logo col-xs-1 col-md-2 hidden-xs">
+								<a class="navbar-brand navbar-brand-white btn-block" href="https://www.opensubtitles.com/en/home ">
+									<img class="hidden-sm hidden-xs" alt="Open Subtitles Beta" src="/assets/opensubtitles-beta-logo-8f6b0c6dc297bbcce8d571e61f951d14dab0a18a944fce0f7f706b976934955f.png" />
+									<i class="icon icon-logo hidden-xl hidden-md visible-sm visible-xs"></i> <!--- <span class="hidden-sm hidden-xs">Open Subtitles</span>-->
+								</a>
+							</div><!-- .logo -->
+							<div class="search-form col-xs-10 col-sm-10 col-md-9">
+
+								<!-- text search bar -->
+								<div id="search-form-text" class="navbar-form">
+									<div class="input-group col-xs-12">
+
+
+
+
+					<!-- NOTE: Add class (.lang-1, .lang-2, .lang-3 or .lang-4) to #form-search-input.form-control based on how many subtitle languages are currently selected in #button-options-languages, and hide default class .no-lang -->
+					<label for="form-search-input" class="hidden">Tv Serie, Movie or IMDB ID</label>
+					<input id="form-search-input" name="q" type="text" class="form-control no-lang" placeholder="Tv Serie, Movie or IMDB ID" tabindex="0" value="" />
+					<button id="button-search-submit" type="submit" class="btn btn-primary-old submit-inside submit-after-load " disabled="true" tabindex="0">Search</button>
+
+					<!-- NOTE: When any language is selected, change the class from .btn-default-old to .btn-info -->
+
+					<!-- EXAMPLE: no language is selcted (default) btn btn-default-old -->
+					<a id="button-options-languages" class="ajax-drop-trigger" data-toggle="collapse" data-parent="#accordion" data-check-in="options-search" data-href="/en/select_language.js" href="#options-languages" aria-expanded="false" aria-controls="options-languages" role="button" tabindex="0" title="Subtitle languages">
+						<i class="icon-language" title="Subtitle languages"></i>
+					</a>
+
+					<!-- NOTE: Add .move to #form-search-file-trigger to move it to the right side when the submit button is hidden -->
+					<a href="#" id="form-search-file-trigger" class="hidden-xs" data-toggle="tooltip" data-placement="bottom" title="Search for subtitles by drag-and-dropping the movie file."><i class="icon-folder-open" ></i></a>
+					<!-- loading state icon -->
+					<!-- NOTE: Add .move to #search_form_indicator to move it to the right side when the submit button is hidden -->
+					<div id="search_form_indicator" class="hidden-xs" style="display:none"><i class="icon-spin1 fa-spin " title="Loading..."></i></div>
+
+				</div><!-- .input-group -->
+			</div><!-- #search-form-text -->
+
+		</div><!-- .search-form -->
+
+		<div class="search-options col-xs-2 col-sm-1">
+			<a id="button-options-search" class="btn btn-default-old btn-block btn-icon" data-toggle="collapse" data-parent="#accordion" data-check-in="options-languages" href="#options-search" aria-expanded="false" aria-controls="options-search"  role="button" tabindex="0" title="Search options">
+				<i class="icon-cog" title="Search options"></i>
+			</a>
+		</div><!-- .search-options -->
+
+	</div><!-- .container -->
+
+
+
+	</div><!-- .search-bar-valign -->
+
+	<!--
+	NOTE:
+	You can add classes .darken-10 up to .darken-50 to the .search-bar-fancy-image to darken the image
+	-->
+	<div class="search-bar-fancy-holder">
+		<img class="search-bar-fancy-image darken-40" alt="background" src="https://image.tmdb.org/t/p/w1280/fpPwu4X9qapHYYKfP5n76oTfb5v.jpg" />
+
+
+	</div>
+
+	</div><!-- .search-bar.row -->
+
+
+<div id="accordion"  aria-multiselectable="true">
+
+	<div class="panel">
+	<div id="options-languages" class="panel-collapse collapse row" role="tabpanel" aria-labelledby="search-languages-button">
+	</div><!-- #options-languages.row -->
+	</div><!-- .panel -->
+
+
+	<div class="panel">
+	<div id="options-search" class="panel-collapse collapse row" role="tabpanel" aria-labelledby="search-options-button">
+	<div class="container save-padding">
+
+		<header class="section-header col-md-12">
+			<h2 class="h2 col-md-12">Search options</h2>
+		</header>
+		<div class="section-content col-md-12">
+			<div class="options-choose-options">
+				<div class="row">
+				<div class="col-sm-12 col-md-6 col-lg-4">
+					<div class="btn-group-title">Search</div>
+					<div class="btn-group btn-group-justified" data-toggle="buttons">
+						<label class="btn btn-default-old btn-toggle active">
+						  <input type="radio" name="search_in" value="all" id="options-search-in-all" autocomplete="off" checked> ALL
+						</label>
+						<label class="btn btn-default-old btn-toggle">
+						  <input type="radio" name="search_in" value="tvshows" id="options-search-in-tvshows" autocomplete="off"><i class="icon-tv" title="TV Series"></i> TV Series
+						</label>
+						<label class="btn btn-default-old btn-toggle">
+						  <input type="radio" name="search_in" value="movies" id="options-search-in-movies" autocomplete="off"><i class="icon-cinema" title="TV Series"></i> movies
+						</label>
+					</div>
+				</div>
+
+				<div class="col-sm-6 col-md-3 col-lg-2">
+					<div class="btn-group-title"> Subtitles from trusted source</div>
+					<div class="btn-group btn-group-justified" data-toggle="buttons">
+						<label class="btn btn-default-old btn-toggle">
+							<input type="checkbox" name="trusted_sources" value="only" id="trusted_sources" autocomplete="off"><i class="icon-ok" title="Only"></i>  Only
+						</label>
+					</div>
+				</div>
+
+				<div class="col-sm-6 col-md-3 col-lg-2">
+					<div class="btn-group-title"> Subtitles are machine translated</div>
+					<div class="btn-group btn-group-justified" data-toggle="buttons">
+						<label class="btn btn-default-old btn-toggle">
+							<input type="checkbox" name="machine_translated" value="include" id="machine_translated" autocomplete="off"><i class="icon-cog-alt" title="Include"></i> Include
+						</label>
+					</div>
+				</div>
+
+				<div class="col-sm-12 col-md-6 col-lg-4">
+					<div class="btn-group-title">Subtitles for hearing impaired</div>
+					<div class="btn-group btn-group-justified" data-toggle="buttons">
+						<label class="btn btn-default-old btn-toggle active">
+							<input type="radio" name="hearing_impaired" value="include" id="hearing_impaired_include" autocomplete="off" checked><i class="icon-asl-interpreting" title="Include"></i> Include
+						</label>
+						<label class="btn btn-default-old btn-toggle">
+							<input type="radio" name="hearing_impaired" value="exclude" id="hearing_impaired_exclude" autocomplete="off"><i class="icon-asl-interpreting" title="Exclude"></i> Exclude
+						</label>
+						<label class="btn btn-default-old btn-toggle">
+							<input type="radio" name="hearing_impaired" value="only" id="hearing_impaired_only" autocomplete="off"><i class="icon-asl-interpreting" title="Only"></i> Only
+						</label>
+					</div>
+				</div>
+				</div>
+				<div class="row">
+
+				<div class="col-sm-6 col-md-3 col-lg-2">
+					<div id="form-season" class="hide">
+						<label for="f-season">Season</label>
+						<input type="text" class="form-control" id="f-season" placeholder="Season" name="season_number">
+					</div>
+				</div>
+
+				<div class="col-sm-6 col-md-3 col-lg-2">
+					<div id="form-episode" class="hide">
+						<label for="f-episode">Episode</label>
+						<input type="text" class="form-control" id="f-episode" placeholder="Episode" name="episode_number">
+					</div>
+				</div>
+
+
+				<div class="col-sm-6 col-md-3 col-md-offset-3 col-lg-2 col-lg-offset-2">
+<!--
+					<div class="btn-group-title">
+						Show Translateable subtitles
+					</div>
+					<div class="btn-group btn-group-justified" data-toggle="buttons">
+						<label class="btn btn-default-old btn-toggle">
+							<input type="checkbox" name="include_translateable" value="include" id="include_translateable" autocomplete="off"><i
+								class="icon-cog-alt" title="Include"></i>
+							Include
+						</label>
+					</div>
+-->
+				<!--	<button class="btn btn-default-old btn-block btn-lg-no-label" type="button">Advanced search</button>-->
+				</div>
+
+				<div class="col-sm-6 col-md-6 col-lg-4">
+					<button class="btn btn-primary-old btn-block btn-lg-no-label submit-after-load" disabled="true" type="submit">Save options and find subtitles</button>
+				</div>
+				</div>
+			</div><!-- .options-choose-options -->
+		</div>
+
+	</div><!-- .save-padding -->
+	</div><!-- #options-search.row -->
+	</div><!-- .panel -->
+
+</div><!-- #accordion -->
+
+</form><!-- #form-search -->
+
+
+				<div class="container">
+	<div id="menu-main" class="row">
+
+		<div class="col-xs-12">
+			<nav class="navbar navbar-default" role="navigation">
+
+		<!-- Mobile header -->
+		<div class="navbar-header">
+			<ul class="nav navbar-nav main-menu-mobile visible-xs">
+				<a class="navbar-brand visible-xs" href="https://www.opensubtitles.com/en/home"><i class="icon icon-logo"></i> <span class="hidden-sm hidden-xs">Open Subtitles</span></a>
+				<li>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu-collapse" title="Navigation">
+						<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</button>
+				</li>
+			</ul>
+			<ul class="nav navbar-nav navbar-right main-menu-mobile visible-xs " id="public_user_links_mobile" style="display:none">
+				
+	<li ><a class="navbar-link login-li  visible-md visible-lg" data-toggle="modal" href="#modal-login" role="button"><i class="icon-login" title="Log-In"></i><span class="visible-lg-inline"> Log-In</span></a>
+	<a class="navbar-link login-li visible-sm  visible-xs"  href="/en/login" role="button"><i class="icon-login" title="Log-In"></i></a></li></li>
+	<li ><a class="navbar-link signup-li visible-md  visible-lg" data-toggle="modal" href="#modal-register" role="button"><i class="icon-user-plus" title="Register"></i><span class="visible-lg-inline"> Register</span></a>
+	<a class="navbar-link signup-li  visible-sm visible-xs"  href="/en/users/sign_up" role="button"><i class="icon-user-plus" title="Register"></i><span class="visible-lg-inline"> Register</span></a></li>
+
+	<li><a class="navbar-link modal-language-trigger" href="#modal-site-language" data-toggle="modal" role="button" ><i class="flag en" title="Site Language en"></i><span class="visible-lg-inline"> Site Language</span></a></li>
+
+
+
+
+			</ul>
+		</div><!-- .navbar-header -->
+
+
+		<!-- Collapsing menu -->
+		<div class="collapse navbar-collapse" id="main-menu-collapse">
+			<ul class="nav navbar-nav">
+			<li class="dropdown">
+        			<a href="#" class="navbar-link dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Movies <span class="caret"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a class="navbar-link" href="/en/movies">Movies<span class="sr-only">(current)</span></a></li>
+           				<li><a class="navbar-link" href="/en/movies/latest">Latest movies</a></li>
+						<li><a class="navbar-link" href="/en/movies/popular">Trending movies</a></li>
+						<li><a class="navbar-link" href="/en/movies/top_rated">Top rated movies</a></li>
+							<li><a class="navbar-link" href="/en/movies/tv_movies">TV Movies</a></li>
+							<li><a class="navbar-link" href="/en/movies/video">Videos</a></li>
+							<li><a class="navbar-link" href="/en/movies/video_games">Video Games</a></li>
+         				</ul>
+        		</li>
+			<!--	<li><a class="navbar-link" href="/en/movies">Movies</a></li>
+				<li><a class="navbar-link" href="/en/tvshows">TV Series</a></li>
+		-->
+					<li class="dropdown">
+		        			<a href="#" class="navbar-link dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">TV Series <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a class="navbar-link" href="/en/tvshows">Tv series<span class="sr-only">(current)</span></a></li>
+		           				<li><a class="navbar-link" href="/en/tvshows/latest">Latest TV Shows</a></li>
+								<li><a class="navbar-link" href="/en/tvshows/top_rated">Top rated TV Shows</a></li>
+								<li><a class="navbar-link" href="/en/tvshows/popular">Popular TV Shows</a></li>
+								<li><a class="navbar-link" href="/en/tvshows/on_air">TV Shows on air</a></li>
+								<li><a class="navbar-link" href="/en/tvshows/airing_this_week">TV shows airing this week</a></li>
+
+
+		         				</ul>
+		        		</li>
+
+    	    	<li><a class="navbar-link" href="/en/upload">Upload</a></li>
+				<li><a class="navbar-link" href="/en/request">Request</a></li>
+						<li><a class="navbar-link" href="https://forum.opensubtitles.org/">Forum</a></li>
+     	    	<li><a class="navbar-link" href="http://blog.opensubtitles.website/" >Blog</a></li>
+    	    	<li><a class="navbar-link" href="http://www.opensubtitles.website/" >Player</a></li>
+    	    	<li><a class="navbar-link" href="/en/support_us">Support us</a></li>
+			</ul>
+			<ul class="nav navbar-nav navbar-right hidden-xs " id="public_user_links" style="display:none">
+				
+	<li ><a class="navbar-link login-li  visible-md visible-lg" data-toggle="modal" href="#modal-login" role="button"><i class="icon-login" title="Log-In"></i><span class="visible-lg-inline"> Log-In</span></a>
+	<a class="navbar-link login-li visible-sm  visible-xs"  href="/en/login" role="button"><i class="icon-login" title="Log-In"></i></a></li></li>
+	<li ><a class="navbar-link signup-li visible-md  visible-lg" data-toggle="modal" href="#modal-register" role="button"><i class="icon-user-plus" title="Register"></i><span class="visible-lg-inline"> Register</span></a>
+	<a class="navbar-link signup-li  visible-sm visible-xs"  href="/en/users/sign_up" role="button"><i class="icon-user-plus" title="Register"></i><span class="visible-lg-inline"> Register</span></a></li>
+
+	<li><a class="navbar-link modal-language-trigger" href="#modal-site-language" data-toggle="modal" role="button" ><i class="flag en" title="Site Language en"></i><span class="visible-lg-inline"> Site Language</span></a></li>
+
+
+
+
+			</ul>
+		</div><!-- .navbar-collapse -->
+</nav>
+
+		</div>
+
+	</div><!-- #menu-main.row -->
+	</div><!-- .container -->
+
+
+
+
+
+
+	<div class="container admin-visible">
+	<div id="menu-admin" class="row">
+
+		<div class="col-xs-12">
+
+<nav class="navbar navbar-default" role="navigation">
+
+		<!-- Mobile header -->
+		<div class="navbar-header">
+			<ul class="nav navbar-nav main-menu-mobile visible-xs">
+				<li>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#admin-menu-collapse" title="Navigation">
+						<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</button>
+				</li>
+			</ul>
+		</div><!-- .navbar-header -->
+
+		<!-- Collapsing menu -->
+		<div class="collapse navbar-collapse" id="admin-menu-collapse">
+			<ul class="nav navbar-nav">
+				<li class="dropdown">
+        			<a href="#" class="navbar-link dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Lists <span class="caret"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a class="navbar-link" href="#">Bad</a></li>
+           				<li><a class="navbar-link" href="#">Comments</a></li>
+           				<li><a class="navbar-link" href="#">Empty movie</a></li>
+           				<li><a class="navbar-link" href="#">Wrong movie</a></li>
+           				<li><a class="navbar-link" href="#">No episodes</a></li>
+           				<li><a class="navbar-link" href="#">Check</a></li>
+           				<li><a class="navbar-link" href="#">Suspicious</a></li>
+           				<li><a class="navbar-link" href="#">Maybe delete</a></li>
+         				</ul>
+        		</li>
+    	    	<li><a class="navbar-link" href="#">Reports</a></li>
+				<li><a class="navbar-link" href="#">Translations <span class="label label-default">3 new</span></a></li>
+     	    	<li><a class="navbar-link" href="#">User added movies</a></li>
+     	    	<li><a class="navbar-link" href="#">Admin logs</a></li>
+     	    	<li><a class="navbar-link" href="#">User agent stats</a></li>
+				<li class="dropdown">
+        			<a href="#" class="navbar-link dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Manage <span class="caret"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a class="navbar-link" href="#">Users</a></li>
+           				<li><a class="navbar-link" href="#">Groups</a></li>
+         				</ul>
+        		</li>
+        		<li><a class="navbar-link" href="#">Uncache</a></li>
+			</ul>
+		</div><!-- .navbar-collapse -->
+</nav>
+
+		</div>
+
+	</div><!-- #menu-admin.row -->
+	</div><!-- .container -->
+
+
+
+<div class="container">
+<div id="bread-bar">
+
+
+	<div id="breadcrumbs" class="col-xs-12 text-center">
+
+		<ol itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem" class="breadcrumb-item"><a itemscope="itemscope" itemtype="http://schema.org/Thing" itemprop="item" href="/en/home"><span property="name">Home</span></a></li><li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem" class="breadcrumb-item"><a itemscope="itemscope" itemtype="http://schema.org/Thing" itemprop="item" href="https://www.opensubtitles.com/en/movies"><span property="name">Movie</span></a></li><li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem" class="breadcrumb-item"><a itemscope="itemscope" itemtype="http://schema.org/Thing" itemprop="item" href="https://www.opensubtitles.com/en/movies/2011-thor"><span property="name">Thor</span></a></li><li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem" class="breadcrumb-item"><span property="name">subtitles</span></li>
+		</ol>
+
+	</div><!-- #bread-bar -->
+
+
+</div><!-- #bread-bar.row -->
+</div><!-- .container -->
+
+
+
+
+	</section><!-- #main-header -->
+</div><!-- .container-fluid -->
+
+<div class="container" >
+	<section id="main-content">
+		<div class="row">
+				
+								<div id="content" class="col-md-8 col-lg-8 " ">
+				<div class="row">
+				
+
+					<section id="" class="col-md-12">
+						<header class="section-header row">
+									<h1 class="h1 col-md-12"></h1>
+								</header><!-- .section-header -->
+							<div class="section-content ">
+								<div class="rowss">
+								<div class=" col-xs-12s">
+
+									
+<!--<h2>Movie</h2>-->
+
+	
+<section id="movie-info" class="col-md-12">
+
+<div class="section-content row">
+	<div class="box box-movie col-xs-12">
+		<div class="flip-container">
+			<div class="flipper">
+				<div class="front">
+					<a href="/en/movies/2011-thor" name="2011 - Thor" class="box-cover" id="feat-552640">
+						<img src="https://s9.opensubtitles.com/features/0/4/6/552640.jpg" class="box-home-img" width="154" height="230" alt="" />
+					</a>
+					<a href="#" class="rating rating-large rating-movie text-hide" style="width: 70.0%;" title="Movie rating: 70.0%">70.0%</a>
+				</div>
+				<div class="back">
+					<div class="canvas">
+						<a href="#">
+							<div class="circle circle-movie-rating" id="circles1" data-circle-value="70.0">
+							</div>
+						</a>
+						<p class="circle-text">Movie rating<br />
+						<!--	based on --> 819663 votes
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="box-info">
+			<strong class="label label-info pull-right" title="Movie">Movie</strong>
+
+
+					<h3 class="box-headline h1">
+						<a name="2011 - Thor" href="/en/movies/2011-thor">2011 - Thor</a>
+					</h3>
+
+
+
+
+
+		 <h3 class="box-headline h4">Two worlds. One hero.</h3>
+		 <p class="box-desc show-4-lines" id="movie-desc">Against his father Odin&#39;s will, The Mighty Thor -a powerful but arrogant warrior god -recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.
+		<em class="small pull-right"><a rel="external" href="https://www.themoviedb.org">themoviedb</a></em>
+
+		 </p>
+				<div class="box-buttons ">
+
+
+						<span class="adds-area">
+					<a class="btn btn-default" rel="external" href="https://www.amazon.com/gp/search?ie=UTF8&tag=opensubtitles-20&linkCode=ur2&linkId=d944c8788787b906b07b4f8ffc79bed4&camp=1789&creative=9325&index=dvd&keywords=2011 - Thor" role="button"><i class="icon-amazon"></i> Buy</a>
+			</span>
+					<!--		<a class="btn btn-default" rel="external" href="https://www.opensubtitles.org/addons/a.php?file=2011 - Thor" role="button"><i class="icon-download"></i> Download</a>-->
+
+
+
+					<a class="btn btn-default ajax-drop-trigger" data-toggle="collapse" data-parent="#accordion-movie" data-check-in="movie-details" id="movie-details-trigger" data-href="/en/features/552640/details.js" href="#movie-details" aria-expanded="false" role="button" tabindex="0" title="Toggle movie details"><i class="icon-info-circled"></i> Details</a>
+
+						<a class="btn btn-default" data-toggle="collapse" data-parent="#accordion-movie" data-check-in="resources" href="#resources" aria-expanded="false" role="button" tabindex="0" title="Toggle movie details"><i class=" icon-link"></i> Resources</a>
+
+			<a class="btn btn-default lang_ln external "
+				href="/en/lngprm/movies/2011-thor/latest_subtitles.rss" role="button"
+				><i class="icon-rss"></i> RSS</a>
+
+						<a class="btn btn-default admin_only" href="/en/admin/movies/2011-thor/edit" role="button" style="display:none"><i class="icon-edit"></i> Edit</a>
+									</div>
+
+<!-- extra watch now-->
+
+		<div class="adds-area">
+			<a rel="external" href="https://srv.tunefindforfans.com/showads/track/srvclk.php?aid=100006621"><img style="padding-top:20px;width:320px" src="/assets/Apple-Originals-896042f51e6370f631413829c6d21d108a58131b87e9db9cdb4b018835a2f7fd.png" /></a>
+
+
+		</div>
+
+
+				<div id="accordion-movie" role="tablist" aria-multiselectable="true">
+
+					<div class="panel">
+					<div id="movie-details" class="panel-collapse collapse col-md-12" role="tabpanel" aria-labelledby="search-languages-button">
+
+					</div><!-- #movie-details.row -->
+					</div><!-- .panel -->
+
+
+
+
+
+					<div class="panel">
+					<div id="resources" class="panel-collapse collapse col-md-12" role="tabpanel" aria-labelledby="search-languages-button">
+					<div class="save-padding row">
+
+						<div class="section-content col-md-12">
+
+							<ul class="list-subtitles no-download row">
+								<li class="box box-sub box-sub-inline col-md-12">
+									<div class="row">
+										<div class="col-sm-6 col-md-3">
+											<h3 class="box-sub-headline h3">Posters</h3>
+										</div>
+										<div class="col-sm-6 col-md-9 box-sub-button-list">
+											<div class="row">
+
+
+											 <div class="col-xs-6 col-md-3">
+												<a href="https://image.tmdb.org/t/p/w1280/mB3dAijbMu2JutrAjxMRGTXILyY.jpg"  data-lightbox="gallery-item">
+													<img src="https://image.tmdb.org/t/p/w92/mB3dAijbMu2JutrAjxMRGTXILyY.jpg" alt="from themoviedb.org" >
+													<div class="overlay ">
+														<div class="overlay-wrap">
+															<i class="icon-line-plus"></i>
+														</div>
+													</div>
+												</a>
+												</div>
+
+		<em class="small pull-right"><a rel="external" href="https://www.themoviedb.org">themoviedb</a></em>
+
+
+										</div>
+										</div>
+									</div>
+								</li><!-- .box.box-sub -->
+									<li class="box box-sub box-sub-inline col-md-12">
+										<div class="row">
+											<div class="col-sm-6 col-md-3">
+												<h3 class="box-sub-headline h3">Backdrops</h3>
+											</div>
+											<div class="col-sm-6 col-md-9 box-sub-button-list">
+												<div class="row">
+
+											</div>
+											</div>
+										</div>
+									</li><!-- .box.box-sub -->
+
+
+								<li class="box box-sub box-sub-inline col-md-12">
+									<div class="row">
+										<div class="col-sm-6 col-md-3">
+											<h3 class="box-sub-headline h3">Interesting links</h3>
+										</div>
+										<div class="col-sm-6 col-md-9 box-sub-button-list">
+
+											<a class="btn btn-default"  rel="external" href="https://www.imdb.com/title/tt0800369"><i class=" icon-imdb"></i> IMDB</a></a>
+
+														<a class="btn btn-default" rel="external" href="https://www.themoviedb.org/movie/10195"><i class=" icon-tmdb"></i> TMDB</a></a>
+
+										<a class="btn btn-default" rel="external"
+																								href="https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-48122"><i class="icon-link"></i>
+																								OpenSubtitles.org</a></a>
+
+
+
+										</div>
+									</div>
+								</li><!-- .box.box-sub -->
+
+			<li class="box box-sub box-sub-inline col-md-12">
+				<div class="row">
+					<div class="col-sm-6 col-md-3">
+						<h3 class="box-sub-headline h3">subtitles</h3>
+					</div>
+					<div class="col-sm-6 col-md-9 box-sub-button-list">
+
+
+						<a class="btn btn-default"
+							href="/nocache/search/en?current_languages=all&amp;hearing_impaired=hearing_impaired-1&amp;machine_translated=machine_translated-1&amp;q=osdb%3A48122&amp;search_in=movies&amp;trusted_sources=trusted_sources-1"
+						title="All subtitles for this movie ">All subtitles for this movie</a>
+
+
+<a class="btn btn-default lang_ln"
+	href="/nocache/search/en?current_languages=en&amp;hearing_impaired=hearing_impaired-1&amp;machine_translated=machine_translated-1&amp;q=osdb%3A48122&amp;search_in=movies&amp;trusted_sources=trusted_sources-1"
+	title="All subtitles for this movie in this language ">All subtitles for this movie in this language </a>
+
+
+					</div>
+				</div>
+			</li><!-- .box.box-sub -->
+
+
+								<li class="box box-sub box-sub-inline col-md-12 encrpt" style="display:none">
+									{&quot;v&quot;:1,&quot;adata&quot;:&quot;&quot;,&quot;ks&quot;:256,&quot;ct&quot;:&quot;xkzI3oXIpDj0LuiwK23gkZPeVeMrGCuMpSImPvA2kipP5jxgGH+7H2nifdyAyUI9CA4xEyCNc61ur28FzFHG3AsEj4V/Z25D0e1KV4o437wW/b6RJ+wyi+UnASM9VdwGtzlMZo5R/lQkBtAN2AWYjMbyuKattgu3Ru/LwuWH6LZKkLsmHox6c9TFBgQFsnrV7vqrIDgpBvjWcbKBIH0oKlEu8iSbuoyDasBhk/oH1/oaD43hYBvwdKPcmMpys+Apscxi7pzQn1umoChZpL/gMPs5TLQB/XUZPq4sQxXEHKO1Wv+1i4TAiP7llBcQH2J7kqCffjL6/X3utJy3Z0ntgyq9XZqJ26p7M14ulmMg3r45s8eTT4N9MhYpVJCnrc990+yUJ3McVupoOAiiddkVdyGJroyHEH59Hm+jk6TWkhZ9ky8vZ4sWunpoQqOziMVBBcZZJeAkXsNC1MfhrhQX2w79Em/4yqFd7PFeZnSPpz2bqL0cqmxegiuLmqXCYRSj6luLRIgCTwyIbEwu81Th3bMKV3iaoGAe2ntDbp578gOaLtEiAYqHZLIKl0xzQ0PMxLqikAYh3EAPsC9HEXbyfNutO7+WkJDQMK9gtNwIY+N55gw0AmdLy4/BZ9YWXgVBfoGdWfy67sbRjh0benoF1uFqLaB+uvTr64TsII3fNmYNuub7pg3OxLL/pFkUfm5GQQq3Q/TeaX9IoEAcLZaOw1b7JfBuiiZQvbX81X/5nQ0335T3FdqEN3krDT5+/g==&quot;,&quot;ts&quot;:96,&quot;mode&quot;:&quot;gcm&quot;,&quot;cipher&quot;:&quot;aes&quot;,&quot;iter&quot;:100000,&quot;iv&quot;:&quot;f6q5n3HJKSIMMEGF&quot;,&quot;salt&quot;:&quot;tUokzQ01MVw=&quot;}
+								</li><!-- .box.box-sub -->
+
+
+
+								<li class="box box-sub box-sub-inline col-md-12">
+									<div class="row">
+										<div class="col-sm-6 col-md-3">
+											<h3 class="box-sub-headline h3">Trailers</h3>
+										</div>
+										<div class="col-sm-6 col-md-9 box-sub-button-list">
+										</div>
+									</div>
+								</li><!-- .box.box-sub -->
+<!--
+								<li class="box box-sub box-sub-inline col-md-12">
+									<div class="row">
+										<div class="col-sm-6 col-md-3">
+											<h3 class="box-sub-headline h3">Covers</h3>
+										</div>
+										<div class="col-sm-6 col-md-9 box-sub-button-list">
+											<a class="btn btn-default" href="#">All CD Covers</a>
+											<a class="btn btn-default" href="#">CDCovers.cc</a>
+											<a class="btn btn-default" href="#">CDCovers.to</a>
+										</div>
+									</div>
+								</li>--><!-- .box.box-sub -->
+
+
+
+							</ul><!-- .list-subtitles -->
+
+						</div>
+
+					</div><!-- .save-padding -->
+					</div><!-- #resources.row -->
+					</div><!-- .panel -->
+
+				</div><!-- #accordion-movie -->
+
+
+
+</div><!-- .section-content -->
+</section><!-- #info-movie -->
+
+
+
+
+	<div class="section-content ">
+				<div class="col-sm-12" id="ext-infos" style="display:none"></div>
+		</div>
+
+
+
+	<section id="subtitle-info" class="col-md-12">
+		<header class="section-header row">
+			<h2 class="h2 col-md-12">	Subtitles</h2>
+		</header><!-- .section-header -->
+		<div class="section-content row">
+
+		<ul class="list-subtitles">
+			  <li class="box box-sub col-md-12 lang-en">
+  <h3 class="box-sub-headline h4">
+  <a href="#" class="dsbl" title="English subtitles"  data-toggle="tooltip" data-placement="bottom">
+    <i class="flag  en"></i>
+  </a>
+  <a href="/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights</a>
+    <strong class="label label-default" title="Subtitles for high-definition movie"  data-toggle="tooltip" data-placement="bottom">HD</strong>
+  </h3>
+  <div class="box-sub-icons">
+    <a class="text-icon" href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights"  data-toggle="tooltip" data-placement="bottom" title="Subtitle rating"><i class="icon-star"></i>0%</a>
+    <a class="text-icon" href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights"  data-toggle="tooltip" data-placement="bottom" title="downloaded"><i class="icon-download"></i>3849</a>
+    <a class="text-icon" href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights"  data-toggle="tooltip" data-placement="bottom" title="Rate subtitle"><i class="icon-comment-empty"></i>0</a>
+    os-auto
+    <a class="text-icon" href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights"  data-toggle="tooltip" data-placement="bottom" title="over 2 years"><i class="icon icon-time"></i>over 2 years</a>
+  <!--	<a class="no-text-icon" href="#" title="Subtitle version 1"><i class="icon icon-v1"></i></a>-->
+
+  <div class="box-sub-action-button">
+  <div class="box-sub-action-button2">
+
+    <!--<a class="btn btn-default" href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights" title="Download subtitles"><i class="icon-download"></i><span class="visible-xs-inline"> Download</span></a>-->
+
+  <a class="btn btn-default  download-trigger"  rel="nofollow"  href="/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/buttons"  role="button"><i class="icon-download"></i></a>
+
+
+  </div>
+</div>
+  <div class="box-sub-ratings">
+    <a class="rating rating-large rating-down text-hide" href="#" data-toggle="tooltip" data-placement="bottom" style="width: Infinity%;" title="Number of downloads: 3849">3849</a>
+    <a class="rating rating-large rating-sub text-hide" href="#" data-toggle="tooltip" data-placement="bottom" style="width: 0.0%;" title="Subtitle rating: 0%">0.0%</a>
+  </div>
+</li><!-- .box.box-sub -->
+
+		</ul><!-- .list-subtitles -->
+
+		</div><!-- .section-content -->
+	</section><!-- #subtitle-info -->
+
+	<turbo-frame id="subtitle_6387789_actions">
+	<section id="subtitle-actions" class="col-md-12">
+
+			<div class="section-content row">
+
+				<div class="col-sm-3">
+				<!--	<a class="btn btn-warning btn-block" href="#"><i class="icon-download"></i> Download</a>-->
+					<a class="btn btn-warning btn-block download-trigger" href="/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/buttons" rel="nofollow"  role="button"><i class="icon-download"></i> Download</a>
+					<!--<label class="btn btn-block btn-link">
+						<input type="checkbox" checked> Use Open Subtitles MKV Player
+					</label>-->
+				</div>
+				<div class="col-sm-3">
+					<a download="Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights.srt" style="display:none" class="vip_area ddl_trigger btn btn-appreciate btn-block " data-remote="true" href="/nocache/download/7255645/subreq.js?direct_dl=true&amp;file_name=Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights&amp;locale=en&amp;np=true&amp;sub_frmt=srt&amp;subtitle_id=6387789">Direct download</a>
+					<a class="non_vip_area direct_dl_nvip btn btn-appreciate btn-block " href="#">Direct download</a>
+					<!--<a class="btn btn-block btn-link" href="#">Add to favourites</a>
+					-->
+					<a class="btn btn-block btn-link external" href="https://www.opensubtitles.org/en/subtitles/9012245">View on opensubtitles.org</a>
+				</div>
+				<div class="col-sm-3">
+
+					<a class=" logged_in transreq_trigger btn btn-info btn-block " style="display:none" href="/en/subtitles/6387789/transreq">Request translation</a>
+					<a class=" not_logged_in need_logged_in_n_vip btn btn-info btn-block " href="#">Request translation</a>
+
+
+
+				<!--	<a class="btn btn-gray btn-block" href="#subtitle-discussion" role="button" data-no-turbolink="false"><i class="icon-star"></i>  Rate subtitle</a>
+					<a class="btn btn-block btn-link" href="#">Report wrong data for subtitles</a>-->
+				</div>
+				<div class="col-sm-3">
+					<a class="btn btn-gray btn-block external" href=""><i class="icon-edit"></i> Correct</a>
+				</div>
+
+			</div><!-- .section-content -->
+		</section><!-- #subtitle-actions -->
+</turbo-frame>
+
+		<section >
+	<div class="section-content row">
+		<div class="col-sm-12" id="inline_msg">
+		</div>
+		</div>
+
+	</section>
+
+
+
+
+
+
+
+
+
+
+
+	<section id="subtitle-discussion" class="col-md-12">
+		<input type="hidden" id="cmtcntr" name="cmtcntr" value="0">
+
+
+		<header class="section-header row" >
+			<h2 class="h2 col-md-12">Rate <b>quality</b> of subtitles (<span class="comments_count">0</span> votes)</h2>
+		</header><!-- .section-header -->
+
+		<div class="section-content row">
+
+
+
+
+			<br />
+
+			<ul id="comment-list" class="list-subtitles" aria-multiselectable="true" role="tablist">
+				<li class="box box-rating col-sm-12">
+						<div class="row">
+								<div class="col-xs-9 col-sm-9">
+								</div>
+								<div class="col-xs-3 col-sm-3">
+									<a class="btn btn-block btn-primary  btn-default ajax-drop-trigger"  id="comment-list-trigger" data-href="https://www.opensubtitles.com/nocache/subtitles/en/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/comments.js"  role="button" title="Toggle movie details">
+										 Rate subtitle
+									</a>
+								</div>
+						</div>
+				</li>
+			</ul><!-- #comment-list.list-subtitles -->
+	</div>
+	</section><!-- #subtitle-discussion -->
+
+
+
+<section id="subtitle-files" class="col-md-12">
+	<header class="section-header row">
+		<h2 class="h2 col-md-12">Fileinfo</h2>
+	</header><!-- .section-header -->
+	<div class="section-content row">
+
+		<ul class="list-subtitles" id="accordion-list" role="tablist" aria-multiselectable="true">
+
+			<li class="panel">
+				<div class="box-sub-season box-has-actions col-xs-12">
+					<p>
+						<a class="box-sub-season-link" data-toggle="collapse" data-parent="#accordion-list" href="#collapse-sfinfo-7255645" aria-expanded="false" aria-controls="collapse-sfinfo-7255645">
+
+
+							Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights.srt
+
+
+					</a>
+				</p>
+
+					<div class="box-sub-action-button"><div class="box-sub-action-button2 four-actions" style="display:block;overflow:show">
+
+						<a class="btn btn-default collapse-info-subtitle tooltip-trigger" data-sfid="7255645" data-href="/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/subfiles/7255645/infos" data-toggle="collapse" data-parent="#accordion-list" href="#collapse-info-7255645" aria-expanded="false" aria-controls="collapse-info-7255645" title="Subtitle informations"   data-placement="top"><i class="icon-info"></i> <span class="off-screen">Infos</span></a>
+						<a class="btn btn-default collapse-preview-subtitle tooltip-trigger"  data-sfid="7255645" data-href="/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/subfiles/7255645/transcript" data-toggle="collapse" data-parent="#accordion-list" href="#collapse-preview-7255645" aria-expanded="false" aria-controls="collapse-preview-7255645" title="Preview subtitles" data-placement="top"><i class="icon-eye"></i> <span class="off-screen">Preview</span></a>
+						<!--<a class="btn btn-default" href="/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/subfiles/7255645/transcript" title="Transcript" data-toggle="tooltip" data-placement="top"><i class="icon-doc-text"></i> <span class="off-screen">Transcript</span></a>-->
+						  <a class="btn btn-default download-collapse-trigger tooltip-trigger"  data-toggle="collapse" data-parent="#accordion-list" href="#collapse-download-7255645" aria-expanded="false" aria-controls="collapse-download-7255645" data-link="/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/subfiles/7255645/buttons.js" data-sfid="7255645" rel="nofollow" title="Download subtitles"><i class="icon-download"></i></a>
+
+						<!--
+						<a class="btn btn-default" href="#" title="Download subtitles"><i class="icon-download"></i> <span class="off-screen">Download</span></a>-->
+					</div></div><!-- .box-sub.action-button -->
+				</div><!-- .box-sub-season -->
+
+				<ul id="collapse-preview-7255645" class="list-subtitles-inside panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-preview-7255645">
+
+					<!-- START: Collapsed preview subtitles -->
+					<li class="panel">
+						<div class="box box-sub-preview col-xs-12" id="subfile_content_7255645">
+							<!--<pre>﻿</pre>-->
+							<div class="box-sub-preview-content">
+							<br /><br />
+							<h4>One moment please...</h4>
+							<br /><br />
+							</div>
+
+						<!--	<a style="display:none" id="show_all_transcript-7255645" class="btn btn-appreciate pull-right" href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/subfiles/7255645/transcript"><i class="glyphicon glyphicon-fullscreen"></i> View all transcript</a>-->
+						</div>
+					</li><!-- .panel -->
+					<!-- END: Collapsed preview subtitles -->
+				</ul><!-- #collapse-preview-1.list.subtitles-inside -->
+					<ul id="collapse-download-7255645" class="list-subtitles-inside panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-download-7255645">
+
+						<!-- START: Collapsed preview subtitles -->
+						<li class="panel">
+							<div class="box box-sub-download sub-dl-buttons-content col-xs-12" id="download_content_7255645">
+
+							</div>
+						</li><!-- .panel -->
+						<!-- END: Collapsed preview subtitles -->
+					</ul><!-- #collapse-download-1.list.subtitles-inside -->
+
+				<ul id="collapse-info-7255645" class="list-subtitles-inside panel-collapse collapse" role="tabpanel" aria-labelledby="collapse-info-7255645">
+
+						<!-- START: Collapsed preview subtitles -->
+						<li class="panel">
+							<div class="box box-sub-info  col-xs-12" id="info_content_7255645">
+
+							</div>
+						</li><!-- .panel -->
+						<!-- END: Collapsed preview subtitles -->
+					</ul><!-- #collapse-download-1.list.subtitles-inside -->
+
+
+
+
+
+
+			</li><!-- .collapsable list -->
+
+
+
+
+
+
+		</ul><!-- .list-subtitles -->
+
+	</div><!-- .section-content -->
+</section><!-- #subtitle-files -->
+
+
+
+<!--
+<p>
+	<strong>id</strong>: 6387789<br />
+	<strong>fps</strong>: 23.976<br />
+	<strong>nb_cd</strong>: 1<br />
+	<strong>format</strong>: srt<br />
+	<strong>char_encoding</strong>: <br />
+	<strong>feature_type</strong>: Movie<br />
+	<strong>release_name</strong>:  Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights<br />
+	<strong>release_title</strong>: <br />
+	<strong>release_group</strong>: <br />
+	<strong>video_codec</strong>: <br />
+	<strong>screen_size</strong>: <br />
+	<strong>video_format</strong>: <br />
+	<strong>author_comments</strong>: <br />
+	<strong>bad</strong>: 0<br />
+	<strong>enabled</strong>: true<br />
+	<strong>votes</strong>: 0<br />
+	<strong>points</strong>: 0<br />
+	<strong>ratings</strong>: 0.0<br />
+	<strong>thanks</strong>: 7<br />
+	<strong>download_count</strong>: 3849<br />
+	<strong>last_download</strong>: 2024-10-28 10:49:05 UTC<br />
+	<strong>upload_date</strong>: 2022-03-13 22:30:36 UTC<br />
+	<strong>comments_count</strong>: 0<br />
+	<strong>favourited</strong>: 0<br />
+	<strong>auto_assign</strong>: false<br />
+	<strong>hearing_impaired</strong>: false<br />
+	<strong>last_comment</strong>: <br />
+	<strong>featured</strong>: false<br />
+	<strong>featured_ts</strong>: <br />
+	<strong>hd</strong>: true<br />
+	<strong>auto_translation</strong>: false<br />
+	<strong>foreign_parts_only</strong>: false<br />
+	<strong>from_trusted</strong>: false<br />
+	<strong>admin_check</strong>: false<br />
+	<strong>admin_checked</strong>: false<br />
+	<strong>version</strong>: 1<br />
+	<strong>translator</strong>: <br />
+	<strong>detected_language</strong>: English<br />
+	<strong>detected_encoding</strong>: UTF-8<br />
+	<strong>smart_feature_name</strong>: 2011 - Thor<br />
+	<strong>osdb_subtitle_id</strong>: 9012245<br />
+	<strong>subfiles_count</strong>: 1<br />
+	<strong>osdb_user_id</strong>: 0<br />
+	<strong>osdb_user_info</strong>: {&quot;display_rank&quot;=&gt;&quot;Application Developers&quot;, &quot;display_user&quot;=&gt;&quot;os-auto&quot;, &quot;display_author&quot;=&gt;&quot;Anonymous&quot;, &quot;uploader_badge&quot;=&gt;&quot;platinum-member&quot;, &quot;display_user_email&quot;=&gt;&quot;no-email-user-cof7cjps@email-ls1t.com&quot;, &quot;display_author_rank&quot;=&gt;&quot;anonymous&quot;}<br />
+	<strong>slug</strong>: thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights<br />
+	<strong>uploader_id</strong>: 3282<br />
+	<strong>translator_id</strong>: <br />
+	<strong>created_at</strong>: 2022-03-13 21:39:57 UTC<br />
+	<strong>updated_at</strong>: 2024-10-28 14:56:07 UTC<br />
+	<strong>feature_id</strong>: 552640<br />
+	<strong>osdb_language_id</strong>: 1075<br />
+	<strong>ai_translated</strong>: false<br />
+	<strong>parent_subtitle_id</strong>: <br />
+	<strong>childrens_count</strong>: 0<br />
+	<strong>new_download_count</strong>: 2594<br />
+	<strong>new_last_download</strong>: 2024-10-28 00:00:00 UTC<br />
+	<strong>last_sync_files</strong>: 2024-10-28 14:56:07 UTC<br />
+</p>
+
+<hr />
+-->
+
+
+
+
+<script>
+	document.addEventListener("turbolinks:load", function () {
+	var cmtcntr=$('#cmtcntr').val();
+	var icmtcntr= parseInt(cmtcntr);
+	console.log("cmtcntr "+ cmtcntr+" icmtcntr:"+ icmtcntr);
+	var ddl = getURLParameter("download");
+	var trs = getURLParameter("ai-translation");
+	if (ddl==1){
+	//	console.log("direct download !");
+		$('.download-trigger').click();
+	}
+	if (trs==1){
+		$('.transreq_trigger').click();
+	}
+	if (cmtcntr>0){
+		$('#comment-list-trigger').click();
+		cmtcntr+=1;
+	}
+});
+
+</script>
+
+
+
+									</div>
+
+								</div><!-- .box.box-movie -->
+							</div><!-- .section-content -->
+					</section><!-- #info-movie -->
+				</div><!-- .row -->
+			</div><!-- #content -->
+
+
+
+
+					<div id="sidebar" class="col-md-4 col-lg-4 col-sm-12">
+
+		<div class="row">
+				<section id="not-sticky-sidebar-ad"  class="col-md-12">
+				<div class="section-content row">
+				 
+	
+
+		<section id="subtitle-info-box-cont" class="sidebar-section col-md-12">
+
+				<div class="section-content">
+					<ul id="subtitle-info-box" class="list-subtitles noscroll">
+							<li class="box box-sub box-sub-comment col-md-12">
+								<h2 class="h2 "><i class="icon-info-circled-1"></i> Subtitle Information</h2>
+
+<!--
+<div class="feature-info-box ">
+	<span>
+		<h3><i class="icon-info"></i> Subtitle Information</h3>-->
+		<dl class="dl-horizontal">
+				<dt>Language</dt>
+			<dd>English</dd>
+
+
+			<dt>Release name</dt>
+			<dd> Thor.2011.HYBRiD.2160p.BluRay.REMUX.HEVC.DV.TrueHD.Atmos.7.1-Flights</dd>
+
+
+			<dt>FPS</dt>
+			<dd>23.976</dd>
+
+			<dt>CDs</dt>
+			<dd>1</dd>
+
+
+
+
+</dl>
+
+
+
+
+
+
+		<div class="row admin_only" style="display:none">
+			<div class="col-sm-12">
+			<a class="btn btn-warning btn-block admin_only"
+				href="/en/admin/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights/edit" role="button"
+				style="display:none"><i class="icon-edit"></i> Edit subtitle</a>
+				</div>
+				<div class="col-sm-12">
+				<a class="btn btn-warning btn-block  admin_only" href="/en/admin/users/os-auto/edit"
+					role="button" style="display:none"><i class="icon-edit"></i> Edit uploader</a>
+						</div>
+						</div>
+		<!--
+	</span>
+</div>
+
+-->
+<div class="bg-base-100 rounded-box p-2 pt-6 md:px-4  lg:px-6 md:py-6 lg:py-8  lg:py-4 shadow-xl xl:mx-0  mb-6"><section class="sidebar-section"><div class="section-content">
+
+
+
+
+<div class="row">
+  <div class="col-sm-12">
+    <dd><a class="btn btn-block btn-primary" href="/nocache/search/en?current_languages=all&amp;hearing_impaired=hearing_impaired-1&amp;machine_translated=machine_translated-1&amp;q=osdb%3A48122&amp;search_in=movies&amp;trusted_sources=trusted_sources-1">All subtitles for this movie</a></dd>
+  </div>
+  <div class="col-sm-12">
+    <dd><a class="btn btn-block  btn-info lang_ln" href="/nocache/search/en?current_languages=en&amp;hearing_impaired=hearing_impaired-1&amp;machine_translated=machine_translated-1&amp;q=osdb%3A48122&amp;search_in=movies&amp;trusted_sources=trusted_sources-1">All subtitles for this movie in this language</a></dd>
+  </div>
+</div>
+</div></section></div>
+
+
+</li>
+					</ul>
+				</div>
+		</section>
+
+
+
+
+
+
+
+
+
+
+
+
+		</div><!-- .row -->
+
+
+	</div><!-- #sidebar -->
+
+</div><!-- .row -->
+</section><!-- #main-content -->
+
+</div><!-- .container -->
+
+
+<section id="main-footer">
+
+	<div class="container">
+<div class="row">
+	<div id="menu-footer" class="col-md-12">
+
+		<div id="menu-footer-links" >
+			<ul class="nav navbar-nav">
+    		  <!-- <li><a class="navbar-link" href="#">Statistics</a></li>
+ 		        <li><a class="navbar-link" href="#">Developers</a></li>
+        		<li><a class="navbar-link" href="#">Admins</a></li>
+     		    <li><a class="navbar-link" href="#">Download</a></li>
+    		    <li><a class="navbar-link" href="#">Links</a></li>
+						-->
+				<li><a href="/en/support_us.html">Support us</a></li>
+				<li><a href="/docs/api/html/index.htm">API</a></li>
+				<li><a href="/en/faq.html">FAQ</a></li>	
+				<li><a href="/en/contact.html">Contact</a></li>
+
+
+ 		        <li><a href="/en/tos.html">Disclaimer</a></li>
+						 <li><a href="/en/privacy.html">Privacy</a></li>
+        		
+						<li><a href="/en/stats.html">Stats</a></li>
+        		
+						
+        		
+						
+						 <li><a href="/en/dmca.html">DMCA</a></li>
+
+						 <li>
+								<div class='social-share-button' data-title='Thor subtitles English ' data-img=''
+data-url='' data-desc='Thor subtitles English ' data-via=''>
+<a rel="nofollow " data-site="twitter" class="ssb-icon ssb-twitter" onclick="return SocialShareButton.share(this);" title="Share to Twitter" href="#"></a>
+<a rel="nofollow " data-site="facebook" class="ssb-icon ssb-facebook" onclick="return SocialShareButton.share(this);" title="Share to Facebook" href="#"></a>
+<a rel="nofollow " data-site="google_plus" class="ssb-icon ssb-google_plus" onclick="return SocialShareButton.share(this);" title="Share to &lt;span class=&quot;translation_missing&quot; title=&quot;translation missing: en.social_share_button.google_plus&quot;&gt;Google Plus&lt;/span&gt;" href="#"></a>
+<a rel="nofollow " data-site="reddit" class="ssb-icon ssb-reddit" onclick="return SocialShareButton.share(this);" title="Share to Reddit" href="#"></a>
+<a rel="nofollow " data-site="tumblr" class="ssb-icon ssb-tumblr" onclick="return SocialShareButton.share(this);" title="Share to Tumblr" href="#"></a>
+<a rel="nofollow " data-site="pinterest" class="ssb-icon ssb-pinterest" onclick="return SocialShareButton.share(this);" title="Share to Pinterest" href="#"></a>
+<a rel="nofollow " data-site="linkedIn" class="ssb-icon ssb-linkedIn" onclick="return SocialShareButton.share(this);" title="Share to Linkedin" href="#"></a>
+</div></li>
+								<li>
+									Share &nbsp;</li>
+			</ul>
+		</div><!-- #menu-footer-left -->
+
+	</div><!-- #menu-footer.row -->
+
+</div>
+
+	<div id="links-languages" class="row">
+		<div class="col-md-12">
+			<ol class="list-links links-boring">
+				<li ><a href="https://www.opensubtitles.com/az-AZ/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Azərbaycanca</a></li>
+				<li ><a href="https://www.opensubtitles.com/ab/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Аҧсуа</a></li>
+				<li ><a href="https://www.opensubtitles.com/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Yupik languages</a></li>
+				<li ><a href="https://www.opensubtitles.com/af/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Afrikaans</a></li>
+				<li ><a href="https://www.opensubtitles.com/ak/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Akan</a></li>
+				<li ><a href="https://www.opensubtitles.com/ar/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">العربية</a></li>
+				<li ><a href="https://www.opensubtitles.com/hy/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Armenian</a></li>
+				<li ><a href="https://www.opensubtitles.com/as/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">অসমীয়া</a></li>
+				<li ><a href="https://www.opensubtitles.com/at/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Asturianu</a></li>
+				<li ><a href="https://www.opensubtitles.com/av/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">авар мацӀ</a></li>
+				<li ><a href="https://www.opensubtitles.com/ae/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Avesta</a></li>
+				<li ><a href="https://www.opensubtitles.com/ay/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Aymar aru</a></li>
+				<li ><a href="https://www.opensubtitles.com/ba/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">башҡорт теле</a></li>
+				<li ><a href="https://www.opensubtitles.com/bm/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Bamanankan</a></li>
+				<li ><a href="https://www.opensubtitles.com/eu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Basque</a></li>
+				<li ><a href="https://www.opensubtitles.com/be/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Беларуская мова</a></li>
+				<li ><a href="https://www.opensubtitles.com/bn/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">?????</a></li>
+				<li ><a href="https://www.opensubtitles.com/bh/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Bihari</a></li>
+				<li ><a href="https://www.opensubtitles.com/br/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Brezhoneg</a></li>
+				<li ><a href="https://www.opensubtitles.com/bg/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">български език</a></li>
+				<li ><a href="https://www.opensubtitles.com/my/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Burmese</a></li>
+				<li ><a href="https://www.opensubtitles.com/ca/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Català</a></li>
+				<li ><a href="https://www.opensubtitles.com/ch/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Chamoru</a></li>
+				<li ><a href="https://www.opensubtitles.com/ce/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">нохчийн мотт</a></li>
+				<li ><a href="https://www.opensubtitles.com/zh-CN/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">汉语</a></li>
+				<li ><a href="https://www.opensubtitles.com/cv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">чӑваш чӗлхи</a></li>
+				<li ><a href="https://www.opensubtitles.com/fr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Français</a></li>
+				<li ><a href="https://www.opensubtitles.com/fy/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Frysk</a></li>
+				<li ><a href="https://www.opensubtitles.com/ff/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Fulfulde</a></li>
+				<li ><a href="https://www.opensubtitles.com/ka/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Georgian</a></li>
+				<li ><a href="https://www.opensubtitles.com/de/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Deutsch</a></li>
+				<li ><a href="https://www.opensubtitles.com/gd/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Gàidhlig</a></li>
+				<li ><a href="https://www.opensubtitles.com/ga/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Gaeilge</a></li>
+				<li ><a href="https://www.opensubtitles.com/gl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Galego</a></li>
+				<li ><a href="https://www.opensubtitles.com/gv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Gaelg</a></li>
+				<li ><a href="https://www.opensubtitles.com/el/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Ελληνικά</a></li>
+				<li ><a href="https://www.opensubtitles.com/gn/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Avañe&#39;ẽ</a></li>
+				<li ><a href="https://www.opensubtitles.com/gu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ગુજરાતી</a></li>
+				<li ><a href="https://www.opensubtitles.com/ht/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kreyòl ayisyen</a></li>
+				<li ><a href="https://www.opensubtitles.com/ha/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Hausancī</a></li>
+				<li ><a href="https://www.opensubtitles.com/he/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">עִבְרִית</a></li>
+				<li ><a href="https://www.opensubtitles.com/hz/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Otjiherero</a></li>
+				<li ><a href="https://www.opensubtitles.com/hi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">हिन्दी</a></li>
+				<li ><a href="https://www.opensubtitles.com/ho/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Hiri Motu</a></li>
+				<li ><a href="https://www.opensubtitles.com/hr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Hrvatski jezik</a></li>
+				<li ><a href="https://www.opensubtitles.com/hu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Magyar</a></li>
+				<li ><a href="https://www.opensubtitles.com/ig/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Igbo</a></li>
+				<li ><a href="https://www.opensubtitles.com/is/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Icelandic</a></li>
+				<li ><a href="https://www.opensubtitles.com/io/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Ido</a></li>
+				<li ><a href="https://www.opensubtitles.com/ii/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ꆇꉙ</a></li>
+				<li ><a href="https://www.opensubtitles.com/iu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ᐃᓄᒃᑎᑐᑦ</a></li>
+				<li ><a href="https://www.opensubtitles.com/ie/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Interlingue</a></li>
+				<li ><a href="https://www.opensubtitles.com/ia/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Interlingua</a></li>
+				<li ><a href="https://www.opensubtitles.com/ik/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Iñupiaq</a></li>
+				<li ><a href="https://www.opensubtitles.com/it/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Italiano</a></li>
+				<li ><a href="https://www.opensubtitles.com/jv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Basa Jawa</a></li>
+				<li ><a href="https://www.opensubtitles.com/ja/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">日本語</a></li>
+				<li ><a href="https://www.opensubtitles.com/kl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kalaallisut</a></li>
+				<li ><a href="https://www.opensubtitles.com/ks/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">कॉशुर</a></li>
+				<li ><a href="https://www.opensubtitles.com/kr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kanuri</a></li>
+				<li ><a href="https://www.opensubtitles.com/kk/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Қазақ тілі</a></li>
+				<li ><a href="https://www.opensubtitles.com/km/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ភាសាខ្មែរ</a></li>
+				<li ><a href="https://www.opensubtitles.com/ki/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Gĩkũyũ</a></li>
+				<li ><a href="https://www.opensubtitles.com/ky/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">кыргыз тили</a></li>
+				<li ><a href="https://www.opensubtitles.com/kg/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kikongo</a></li>
+				<li ><a href="https://www.opensubtitles.com/ko/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">한국어</a></li>
+				<li ><a href="https://www.opensubtitles.com/kj/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kuanyama</a></li>
+				<li ><a href="https://www.opensubtitles.com/ku/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kurdî</a></li>
+				<li ><a href="https://www.opensubtitles.com/la/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Latine</a></li>
+				<li ><a href="https://www.opensubtitles.com/lv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Latviešu valoda</a></li>
+				<li ><a href="https://www.opensubtitles.com/lt/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Lietuvių kalba</a></li>
+				<li ><a href="https://www.opensubtitles.com/lu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Luba-Katanga</a></li>
+				<li ><a href="https://www.opensubtitles.com/lg/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Luganda</a></li>
+				<li ><a href="https://www.opensubtitles.com/mk/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">македонски јазик</a></li>
+				<li ><a href="https://www.opensubtitles.com/mh/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kajin M̧ajeļ</a></li>
+				<li ><a href="https://www.opensubtitles.com/ml/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">മലയാളം</a></li>
+				<li ><a href="https://www.opensubtitles.com/mr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">मराठी</a></li>
+				<li ><a href="https://www.opensubtitles.com/mg/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Malagasy fiteny</a></li>
+				<li ><a href="https://www.opensubtitles.com/mt/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Malti</a></li>
+				<li ><a href="https://www.opensubtitles.com/mo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Moldavian</a></li>
+				<li ><a href="https://www.opensubtitles.com/aa/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Afaraf</a></li>
+				<li ><a href="https://www.opensubtitles.com/nv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Diné bizaad</a></li>
+				<li ><a href="https://www.opensubtitles.com/nr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">IsiNdebele</a></li>
+				<li ><a href="https://www.opensubtitles.com/nd/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">IsiNdebele</a></li>
+				<li ><a href="https://www.opensubtitles.com/ng/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Owambo</a></li>
+				<li ><a href="https://www.opensubtitles.com/nn/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Norsk nynorsk</a></li>
+				<li ><a href="https://www.opensubtitles.com/no/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Norsk</a></li>
+				<li ><a href="https://www.opensubtitles.com/ny/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ChiCheŵa</a></li>
+				<li ><a href="https://www.opensubtitles.com/oc/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Occitan</a></li>
+				<li ><a href="https://www.opensubtitles.com/oj/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ᐊᓂᔑᓇᐯᒧᐏᐣ</a></li>
+				<li ><a href="https://www.opensubtitles.com/om/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Afaan Oromoo</a></li>
+				<li ><a href="https://www.opensubtitles.com/os/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ирон ӕвзаг</a></li>
+				<li ><a href="https://www.opensubtitles.com/fa/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">فارسی</a></li>
+				<li ><a href="https://www.opensubtitles.com/pi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">पालि</a></li>
+				<li ><a href="https://www.opensubtitles.com/pl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Polski</a></li>
+				<li ><a href="https://www.opensubtitles.com/pt-PT/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Português</a></li>
+				<li ><a href="https://www.opensubtitles.com/ps/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">پښتو</a></li>
+				<li ><a href="https://www.opensubtitles.com/qu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Runa Simi</a></li>
+				<li ><a href="https://www.opensubtitles.com/rm/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Rumantsch grischun</a></li>
+				<li ><a href="https://www.opensubtitles.com/rn/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">KiRundi</a></li>
+				<li ><a href="https://www.opensubtitles.com/ru/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">русский язык</a></li>
+				<li ><a href="https://www.opensubtitles.com/sa/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">संस्कृतम्</a></li>
+				<li ><a href="https://www.opensubtitles.com/sr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Cрпски</a></li>
+				<li ><a href="https://www.opensubtitles.com/sk/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Slovenčina</a></li>
+				<li ><a href="https://www.opensubtitles.com/sl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Slovenščina</a></li>
+				<li ><a href="https://www.opensubtitles.com/tm-TD/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Tetun</a></li>
+				<li ><a href="https://www.opensubtitles.com/sm/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Gagana fa&#39;a Samoa</a></li>
+				<li ><a href="https://www.opensubtitles.com/sd/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">سنڌي، سندھی</a></li>
+				<li ><a href="https://www.opensubtitles.com/st/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Sesotho</a></li>
+				<li ><a href="https://www.opensubtitles.com/es/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Español</a></li>
+				<li ><a href="https://www.opensubtitles.com/sc/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Sardu</a></li>
+				<li ><a href="https://www.opensubtitles.com/ss/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">SiSwati</a></li>
+				<li ><a href="https://www.opensubtitles.com/su/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Basa Sunda</a></li>
+				<li ><a href="https://www.opensubtitles.com/sw/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kiswahili</a></li>
+				<li ><a href="https://www.opensubtitles.com/sv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Svenska</a></li>
+				<li ><a href="https://www.opensubtitles.com/sy/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ܣܘܪܝܝܐ</a></li>
+				<li ><a href="https://www.opensubtitles.com/ty/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Te reo Tahiti</a></li>
+				<li ><a href="https://www.opensubtitles.com/ta/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">தமிழ்</a></li>
+				<li ><a href="https://www.opensubtitles.com/tt/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">татарча</a></li>
+				<li ><a href="https://www.opensubtitles.com/te/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">తెలుగు</a></li>
+				<li ><a href="https://www.opensubtitles.com/tg/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">тоҷикӣ</a></li>
+				<li ><a href="https://www.opensubtitles.com/th/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ภาษาไทย</a></li>
+				<li ><a href="https://www.opensubtitles.com/bo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Tibetan</a></li>
+				<li ><a href="https://www.opensubtitles.com/ti/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ትግርኛ</a></li>
+				<li ><a href="https://www.opensubtitles.com/to/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Faka-Tonga</a></li>
+				<li ><a href="https://www.opensubtitles.com/tn/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Setswana</a></li>
+				<li ><a href="https://www.opensubtitles.com/ts/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Xitsonga</a></li>
+				<li ><a href="https://www.opensubtitles.com/tk/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Түркмен</a></li>
+				<li ><a href="https://www.opensubtitles.com/tr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Türkçe</a></li>
+				<li ><a href="https://www.opensubtitles.com/ug/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Uyƣurqə</a></li>
+				<li ><a href="https://www.opensubtitles.com/uk/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">українська мова</a></li>
+				<li ><a href="https://www.opensubtitles.com/uz/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">O&#39;zbek</a></li>
+				<li ><a href="https://www.opensubtitles.com/ve/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Tshivenḓa</a></li>
+				<li ><a href="https://www.opensubtitles.com/vi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Tiếng Việt</a></li>
+				<li ><a href="https://www.opensubtitles.com/vo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Volapük</a></li>
+				<li ><a href="https://www.opensubtitles.com/cy/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Welsh</a></li>
+				<li ><a href="https://www.opensubtitles.com/wa/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Walon</a></li>
+				<li ><a href="https://www.opensubtitles.com/wo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Wolof</a></li>
+				<li ><a href="https://www.opensubtitles.com/xh/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">IsiXhosa</a></li>
+				<li ><a href="https://www.opensubtitles.com/yi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ייִדיש</a></li>
+				<li ><a href="https://www.opensubtitles.com/yo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Yorùbá</a></li>
+				<li ><a href="https://www.opensubtitles.com/za/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Saɯ cueŋƅ</a></li>
+				<li ><a href="https://www.opensubtitles.com/ro/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Română</a></li>
+				<li ><a href="https://www.opensubtitles.com/pt-BR/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Português (BR)</a></li>
+				<li ><a href="https://www.opensubtitles.com/zh-TW/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">漢語</a></li>
+				<li ><a href="https://www.opensubtitles.com/ze/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Chinese bilingual</a></li>
+				<li ><a href="https://www.opensubtitles.com/am/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">አማርኛ</a></li>
+				<li ><a href="https://www.opensubtitles.com/sq/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Shqip</a></li>
+				<li ><a href="https://www.opensubtitles.com/an/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Aragonés</a></li>
+				<li ><a href="https://www.opensubtitles.com/bi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Bislama</a></li>
+				<li ><a href="https://www.opensubtitles.com/bs/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Bosanski jezik</a></li>
+				<li ><a href="https://www.opensubtitles.com/cu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ѩзыкъ словѣньскъ</a></li>
+				<li ><a href="https://www.opensubtitles.com/kw/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Kernewek</a></li>
+				<li ><a href="https://www.opensubtitles.com/co/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Corsu</a></li>
+				<li ><a href="https://www.opensubtitles.com/cr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ᓀᐦᐃᔭᐍᐏᐣ</a></li>
+				<li ><a href="https://www.opensubtitles.com/cs/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Čeština</a></li>
+				<li ><a href="https://www.opensubtitles.com/da/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Dansk</a></li>
+				<li ><a href="https://www.opensubtitles.com/dv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ދިވެހިބަސ</a></li>
+				<li ><a href="https://www.opensubtitles.com/nl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Nederlands</a></li>
+				<li ><a href="https://www.opensubtitles.com/dz/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">རྫོང་ཁ</a></li>
+				<li class=&#39;active&#39;><a href="https://www.opensubtitles.com/en/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">English</a></li>
+				<li ><a href="https://www.opensubtitles.com/eo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Esperanto</a></li>
+				<li ><a href="https://www.opensubtitles.com/et/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Eesti keel</a></li>
+				<li ><a href="https://www.opensubtitles.com/ee/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Ɛʋɛgbɛ</a></li>
+				<li ><a href="https://www.opensubtitles.com/fo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Føroyskt</a></li>
+				<li ><a href="https://www.opensubtitles.com/fj/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Vosa Vakaviti</a></li>
+				<li ><a href="https://www.opensubtitles.com/fi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Suomi</a></li>
+				<li ><a href="https://www.opensubtitles.com/id/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Bahasa Indonesia</a></li>
+				<li ><a href="https://www.opensubtitles.com/kn/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ಕನ್ನಡ</a></li>
+				<li ><a href="https://www.opensubtitles.com/rw/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">KinyaRwanda</a></li>
+				<li ><a href="https://www.opensubtitles.com/kv/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">коми кыв</a></li>
+				<li ><a href="https://www.opensubtitles.com/lo/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ພາສາລາວ</a></li>
+				<li ><a href="https://www.opensubtitles.com/ln/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Lingala</a></li>
+				<li ><a href="https://www.opensubtitles.com/lb/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Lëtzebuergesch</a></li>
+				<li ><a href="https://www.opensubtitles.com/mi/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Maori</a></li>
+				<li ><a href="https://www.opensubtitles.com/ms/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Malay</a></li>
+				<li ><a href="https://www.opensubtitles.com/ma/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">মৈইতৈইলোন</a></li>
+				<li ><a href="https://www.opensubtitles.com/mn/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">монгол хэл</a></li>
+				<li ><a href="https://www.opensubtitles.com/na/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Ekakairũ Naoero</a></li>
+				<li ><a href="https://www.opensubtitles.com/ne/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">नेपाली</a></li>
+				<li ><a href="https://www.opensubtitles.com/nb/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Norsk bokmål</a></li>
+				<li ><a href="https://www.opensubtitles.com/or/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ଓଡ଼ିଆ</a></li>
+				<li ><a href="https://www.opensubtitles.com/pa/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ਪੰਜਾਬੀ</a></li>
+				<li ><a href="https://www.opensubtitles.com/sg/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Yângâ tî sängö</a></li>
+				<li ><a href="https://www.opensubtitles.com/si/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">සිංහල</a></li>
+				<li ><a href="https://www.opensubtitles.com/se/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Sámi</a></li>
+				<li ><a href="https://www.opensubtitles.com/sn/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">ChiShona</a></li>
+				<li ><a href="https://www.opensubtitles.com/so/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Soomaaliga</a></li>
+				<li ><a href="https://www.opensubtitles.com/tl/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Tagalog</a></li>
+				<li ><a href="https://www.opensubtitles.com/tw/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Twi</a></li>
+				<li ><a href="https://www.opensubtitles.com/ur/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">اردو</a></li>
+				<li ><a href="https://www.opensubtitles.com/zu/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">IsiZulu</a></li>
+				<li ><a href="https://www.opensubtitles.com/pm/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Português (MZ)</a></li>
+				<li ><a href="https://www.opensubtitles.com/ea/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Español (Castellano)</a></li>
+				<li ><a href="https://www.opensubtitles.com/ex/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Estremeñu</a></li>
+				<li ><a href="https://www.opensubtitles.com/pr/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Dari</a></li>
+				<li ><a href="https://www.opensubtitles.com/sp/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Español (Europe)</a></li>
+				<li ><a href="https://www.opensubtitles.com/sx/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">संथाली</a></li>
+				<li ><a href="https://www.opensubtitles.com/tp/subtitles/thor-2011-hybrid-2160p-bluray-remux-hevc-dv-truehd-atmos-7-1-flights">Toki Pona</a></li>
+			</ol>
+		</div>
+	</div><!-- #links-languages.row -->
+
+
+
+	<div id="copyright" class="row">
+		<div class="col-md-12 text-center">
+			<span>&copy; 2006-2024 OpenSubtitles.com</span>
+		</div>
+	</div><!-- #copyright.row -->
+</div>
+
+</section><!-- #main-footer -->
+
+
+<iframe id="dnld" name="dnld" style="display:none"></iframe>
+
+
+
+
+
+<div class="modal fade" id="modal-tos" tabindex="-1" role="dialog" aria-labelledby="modal-tos" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="modal-tos-title">Terms of use</h4>
+			</div>
+			<div class="modal-body">
+							</div>
+		</div>
+	</div>
+</div><!-- #modal-tos -->
+
+<div class="modal fade" id="modal-login" tabindex="-1" role="dialog" aria-labelledby="modal-login-form" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="modal-login-form">Log-In</h4>
+			</div>
+			<input type="hidden" name="old-modal-body" id="old-modal-body">
+			<div class="modal-body">
+								</div>
+		</div>
+	</div>
+</div><!-- #modal-login -->
+
+
+
+<div class="modal fade" id="modal-register" tabindex="-1" role="dialog" aria-labelledby="modal-register-form" aria-hidden="true" >
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="modal-register-form">Register</h4>
+			</div>
+			<div class="modal-body">
+						</div>
+		</div>
+	</div>
+</div><!-- #modal-register -->
+
+
+
+<div class="modal fade" id="modal-site-language" tabindex="-1" role="dialog" aria-labelledby="modal-site-language-form" aria-hidden="true">
+	<div class="modal-dialog" style="width: 96%;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h2 class="modal-title" id="modal-site-language-form">Choose the site language</h2>
+			</div>
+			<div class="modal-body">
+						</div>
+		</div>
+	</div>
+</div><!-- #modal-site-language -->
+
+
+<div class="modal fade" id="modal-download" tabindex="-1" role="dialog" aria-labelledby="modal-download" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="modal-download-title">Download</h4>
+			</div>
+			<div class="modal-body">
+			</div>
+		</div>
+	</div>
+</div><!-- #modal-download -->
+
+
+
+<script type="text/javascript">
+document.addEventListener("turbolinks:load", function() {
+	
+});
+</script>
+
+					<script type="text/javascript">
+						$('#modal-tos').on('shown.bs.modal', function (e) {
+								  $( "#modal-tos .modal-body" ).load( "/en/tos?nolayout=1" , function() {
+
+								  });
+						})
+						</script>
+
+					<script type="text/javascript">
+						$('#modal-login').on('shown.bs.modal', function (e) {
+								  $( "#modal-login .modal-body" ).load( "/en/login?nolayout=1" , function() {
+									 $( "#modal-login .modal-body form" ).parsley(parsleyOptions);
+									 	path = window.location.pathname;
+										if (window.location.search != "") {
+											path = path + "/" + window.location.search;
+										}
+										$("#login_current_path").val(path);
+								//	 $('#login_current_path').val(window.location.pathname);
+								});
+						});
+						</script>
+
+			<script type="text/javascript">
+				$('#modal-register').on('shown.bs.modal', function (e) {
+						  $( "#modal-register .modal-body" ).load( "/en/users/sign_up?nolayout=1" , function() {
+								$( "#modal-register .modal-body form" ).parsley(parsleyOptions);
+							});
+				})
+				</script>
+
+			<script type="text/javascript">
+				$('#modal-site-language').on('shown.bs.modal', function (e) {
+						  	$( "#modal-site-language .modal-body" ).load( "/en/select_locale?nolayout=1" , function() {
+									setupLangSwitch();
+						  	});
+				})
+				</script>
+
+
+</div>
+
+	<div id="footer-ad-info" class="bl">
+		<div id="ad-info-1" class="full_txt">
+			After installing your will benefit from our VIP features.</div>
+		<div id="ad-info-2" class="half_txt"><span class="chrome-only-txt"
+				style="display:none">Step 2 : Click on &#39;Add to Chrome&#39;</span><span
+				class="ff-only-txt"
+				style="display:none">Step 2 : Click on &#39;Add to Firefox&#39;</span></div>
+		<div id="ad-info-3" class="half_txt">Step 3 : Click on &#39;Add Extension&#39;</div>
+		<div id="ad-info-4" class="full_txt">
+			Congratulations ! You will now benefit from all the site features !</div>
+	</div>
+
+</body>
+</html>
+

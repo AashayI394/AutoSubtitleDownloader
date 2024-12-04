@@ -1,0 +1,8066 @@
+1
+00:00:03,000 --> 00:00:11,500
+{\move(10,10,190,230,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&H000000&\3c&H00FFFF&}anoXmous
+
+2
+00:00:12,501 --> 00:00:29,202
+{\move(400,10,190,270,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&H000000f&\3c&0000a6&}https://thepiratebay.se/user/anoXmous
+
+3
+00:04:32,814 --> 00:04:36,317
+Captain, I'd like to request that
+It be me who's the attorney....
+
+4
+00:04:37,361 --> 00:04:39,946
+That it be myself who's assigned....
+
+5
+00:04:40,197 --> 00:04:43,324
+No, I'd like to request
+That it be I who am assigned....
+
+6
+00:04:44,534 --> 00:04:49,372
+“That it be I who am assigned”?
+That's confidence-inspiring.
+
+7
+00:04:50,207 --> 00:04:53,542
+Good grammar, there.
+Captain, I'd like to request....
+
+8
+00:05:00,133 --> 00:05:02,718
+Lieutenant Commander Galloway,
+Here to see Captain West.
+
+9
+00:05:02,886 --> 00:05:05,388
+-Go right in, they're expecting you.
+-Thank you.
+
+10
+00:05:09,559 --> 00:05:12,853
+-Jo, come on in.
+-Thank you, sir.
+
+11
+00:05:13,021 --> 00:05:15,398
+Captain West,
+This is Lt. Commander Galloway.
+
+12
+00:05:15,565 --> 00:05:17,858
+-You know Commander Lawrence?
+-Yes, sir.
+
+13
+00:05:18,026 --> 00:05:21,112
+-I appreciate you seeing me.
+-Would you like to sit down?
+
+14
+00:05:21,405 --> 00:05:23,739
+-I'm fine, sir.
+-Have a seat.
+
+15
+00:05:25,409 --> 00:05:30,246
+-We've had some trouble in Cuba?
+-Yes, sir. This past Friday.
+
+16
+00:05:30,414 --> 00:05:34,917
+Two Marines, a Lance Corporal Dawson
+And a Private Downey...
+
+17
+00:05:35,085 --> 00:05:39,088
+...entered the barracks room of a PFC
+William Santiago and assaulted him.
+
+18
+00:05:39,381 --> 00:05:42,758
+Santiago died at the base hospital
+Approximately an hour later.
+
+19
+00:05:43,010 --> 00:05:46,387
+The NIS agent who took Dawson
+and Downey's statements...
+
+20
+00:05:46,555 --> 00:05:48,806
+...maintains they were trying
+to stop Santiago...
+
+21
+00:05:48,974 --> 00:05:51,642
+...from naming Dawson
+in a fenceline shooting incident.
+
+22
+00:05:51,810 --> 00:05:56,772
+-The hearing's in Cuba at 16:00.
+-What's the problem?
+
+23
+00:05:56,940 --> 00:05:59,442
+Dawson and Downey are
+recruiting-poster Marines.
+
+24
+00:05:59,609 --> 00:06:01,902
+Santiago was known to be a screw-up.
+
+25
+00:06:02,070 --> 00:06:04,739
+I was thinking it sounded
+like a Code Red.
+
+26
+00:06:05,782 --> 00:06:07,116
+Christ!
+
+27
+00:06:07,284 --> 00:06:10,870
+Sir, I'd like to have them moved up
+to Washington and assigned counsel.
+
+28
+00:06:11,038 --> 00:06:13,122
+Someone who can really look into this.
+
+29
+00:06:13,290 --> 00:06:15,624
+Someone who possesses
+not only the legal skill...
+
+30
+00:06:15,834 --> 00:06:18,627
+...but a familiarity with
+the workings of the military.
+
+31
+00:06:18,795 --> 00:06:23,424
+In short, I'd like to suggest that
+I be the one who that--
+
+32
+00:06:23,592 --> 00:06:28,679
+That it be me who is assigned
+to represent them, myself.
+
+33
+00:06:30,599 --> 00:06:35,144
+-Why don't you get a cup of coffee?
+-Thank you, sir, I'm fine.
+
+34
+00:06:35,312 --> 00:06:38,439
+Leave the room, so we can
+talk about you behind your back.
+
+35
+00:06:39,107 --> 00:06:41,067
+Certainly, sir.
+
+36
+00:06:47,491 --> 00:06:50,159
+I thought this Code Red shit wasn't
+going on anymore.
+
+37
+00:06:50,327 --> 00:06:53,454
+With the Marines at Gitmo, who
+knows what the hell goes on there?
+
+38
+00:06:53,622 --> 00:06:57,458
+We'd better find out before
+the rest of the world does.
+
+39
+00:06:57,667 --> 00:07:00,169
+What about this
+Commander Galloway?
+
+40
+00:07:00,337 --> 00:07:05,466
+She's been working a desk at
+Internal Affairs for a little over a year.
+
+41
+00:07:05,717 --> 00:07:08,469
+-Before that?
+-Disposed of three cases in two years.
+
+42
+00:07:08,678 --> 00:07:11,347
+Three in two years?
+Who's she handling, the Rosenberg’s?
+
+43
+00:07:11,515 --> 00:07:14,016
+-She's not a litigator.
+-She's a hell of an investigator--
+
+44
+00:07:14,184 --> 00:07:18,687
+In Internal Affairs, sure. She can
+crawl up a lawyer's ass with the best.
+
+45
+00:07:18,855 --> 00:07:22,858
+I know, I know, all passion,
+no street smarts. Bring her back in.
+
+46
+00:07:28,532 --> 00:07:29,740
+Jo.
+
+47
+00:07:34,121 --> 00:07:37,498
+-We'll have the defendants moved here.
+-Thank you, sir.
+
+48
+00:07:37,707 --> 00:07:40,126
+And I'll have Division
+assign them counsel.
+
+49
+00:07:41,211 --> 00:07:43,921
+But, not me?
+
+50
+00:07:44,131 --> 00:07:47,508
+From what I understand,
+you're much too valuable...
+
+51
+00:07:47,676 --> 00:07:52,138
+...to be wasted on a five-minute
+plea bargain and a week's paperwork.
+
+52
+00:07:52,305 --> 00:07:55,683
+-Sir, there might be more involved.
+-Don't worry about it.
+
+53
+00:07:55,892 --> 00:07:58,811
+Division will assign the right man
+for the job.
+
+54
+00:07:58,979 --> 00:08:01,230
+All right, let's go, let's get two!
+
+55
+00:08:02,816 --> 00:08:03,816
+Sorry.
+
+56
+00:08:03,984 --> 00:08:07,236
+Nothing to be sorry about, Sherby.
+Look the ball into your glove.
+
+57
+00:08:07,654 --> 00:08:11,490
+-Shooting two.
+-Sorry.
+
+58
+00:08:11,700 --> 00:08:16,412
+Trust me. Keep your eyes open, your
+chances of catching increase by 10.
+
+59
+00:08:16,580 --> 00:08:18,247
+-Kaffee.
+-Let's try it again.
+
+60
+00:08:18,415 --> 00:08:21,417
+-Kaffee!
+-Dave, you seem distraught.
+
+61
+00:08:21,585 --> 00:08:23,711
+We were supposed to meet
+15 minutes ago.
+
+62
+00:08:23,879 --> 00:08:25,754
+You're stalling on the McDermott case.
+
+63
+00:08:25,922 --> 00:08:30,718
+We either get it done now,
+or I'll hang him from a fucking yardarm!
+
+64
+00:08:30,886 --> 00:08:34,763
+Do we still hang people?
+from yardarms?
+
+65
+00:08:34,931 --> 00:08:36,098
+I don't think so.
+
+66
+00:08:36,558 --> 00:08:39,685
+Sherby doesn't think
+we do that anymore.
+
+67
+00:08:39,853 --> 00:08:43,105
+I'll charge him with possession
+and being under the influence on duty.
+
+68
+00:08:43,273 --> 00:08:47,443
+You plead guilty,
+I'll recommend 30 days in the brig.
+
+69
+00:08:47,611 --> 00:08:52,406
+-It was 10 dollars' worth of oregano.
+-Your client thought it was marijuana.
+
+70
+00:08:52,574 --> 00:08:55,201
+My client's a moron. That's not illegal.
+
+71
+00:08:55,368 --> 00:08:58,621
+I got people to answer to.
+I'm gonna charge him.
+
+72
+00:08:58,830 --> 00:09:00,956
+With possession of a condiment?
+
+73
+00:09:01,958 --> 00:09:06,253
+I tried to help, but if you ask for
+jail time, I'll file a motion to dismiss.
+
+74
+00:09:06,421 --> 00:09:08,297
+-You won't get it.
+-I will get it.
+
+75
+00:09:08,465 --> 00:09:13,010
+If not, I'll file a motion seeking to obtain
+an evidentiary ruling in advance...
+
+76
+00:09:13,303 --> 00:09:15,763
+...then I'll file against
+pre-trial confinement.
+
+77
+00:09:15,972 --> 00:09:18,307
+You'll get three months' paperwork...
+
+78
+00:09:18,475 --> 00:09:21,977
+...because a signalman bought
+and smoked a dime bag of oregano.
+
+79
+00:09:22,312 --> 00:09:24,480
+Let's go! Let's get two!
+
+80
+00:09:25,649 --> 00:09:30,402
+-Twenty days in the brig.
+-Fifteen days' restricted duty.
+
+81
+00:09:31,988 --> 00:09:36,242
+-I don't know why I'm agreeing.
+-You have wisdom beyond your years.
+
+82
+00:09:40,288 --> 00:09:43,457
+-Good morning.
+-Good morning, captain.
+
+83
+00:09:43,625 --> 00:09:45,167
+How's the baby, Sam?
+
+84
+00:09:45,335 --> 00:09:50,047
+-She'll say her first word any day now.
+-How can you tell?
+
+85
+00:09:50,257 --> 00:09:53,842
+She just looks like
+she has something to say.
+
+86
+00:09:54,636 --> 00:09:56,512
+Excuse me, sorry I'm late.
+
+87
+00:09:56,680 --> 00:10:00,683
+You don't have a good excuse,
+so I won't force you to tell a bad one.
+
+88
+00:10:00,850 --> 00:10:05,062
+-Thank you, sir.
+-This first one's for you.
+
+89
+00:10:05,272 --> 00:10:09,149
+You're moving up in the world.
+You've been requested by Division.
+
+90
+00:10:10,402 --> 00:10:14,405
+-Requested to do what?
+-Guantánamo Bay, Cuba.
+
+91
+00:10:14,572 --> 00:10:17,366
+A Marine Corporal named Dawson
+illegally fires a round...
+
+92
+00:10:17,534 --> 00:10:21,412
+...from his weapon,
+over the fenceline and into Cuba.
+
+93
+00:10:21,705 --> 00:10:23,455
+-What's a fenceline?
+-Sam.
+
+94
+00:10:23,873 --> 00:10:27,710
+A big wall separating
+the good guys from the bad guys.
+
+95
+00:10:27,877 --> 00:10:29,211
+Teacher's pet.
+
+96
+00:10:29,379 --> 00:10:32,298
+PFC Santiago threatens
+to rat on Dawson...
+
+97
+00:10:32,465 --> 00:10:34,508
+...to the Naval Investigative Service.
+
+98
+00:10:34,676 --> 00:10:38,387
+Dawson and another member
+of his squad, PFC Louden Downey...
+
+99
+00:10:38,555 --> 00:10:41,724
+...go into Santiago's room,
+tie him up...
+
+100
+00:10:41,891 --> 00:10:44,184
+...stuff a rag down his throat...
+
+101
+00:10:44,352 --> 00:10:46,228
+...and an hour later, he's dead.
+
+102
+00:10:46,396 --> 00:10:50,149
+Attending physician says the rag
+was treated with some kind of toxin.
+
+103
+00:10:50,317 --> 00:10:52,901
+-They poisoned the rag?
+-Not according to them.
+
+104
+00:10:53,069 --> 00:10:55,404
+-What do they say?
+-Not much.
+
+105
+00:10:55,697 --> 00:10:58,407
+They're being flown up tomorrow.
+On Wednesday at 06:00...
+
+106
+00:10:58,575 --> 00:11:02,578
+...you'll catch a transport down
+to Cuba to find out what you can.
+
+107
+00:11:02,746 --> 00:11:06,874
+Meantime, go and see
+Lt. Commander Joanne Galloway...
+
+108
+00:11:07,792 --> 00:11:09,543
+...with Internal Affairs.
+
+109
+00:11:09,753 --> 00:11:12,254
+-Any questions?
+-The flight to Cuba...
+
+110
+00:11:12,422 --> 00:11:15,257
+...was that 06:00 in the morning, sir?
+
+111
+00:11:16,468 --> 00:11:21,263
+It's important this one go by the book,
+so I'm assigning co-counsel.
+
+112
+00:11:21,431 --> 00:11:22,890
+Any volunteers?
+
+113
+00:11:24,100 --> 00:11:25,434
+-No.
+-Sam....
+
+114
+00:11:25,602 --> 00:11:28,854
+-Sir, I got a stack of papers--
+-Work with Kaffee on this.
+
+115
+00:11:29,022 --> 00:11:31,857
+Doing what?
+He'll have this done in four days.
+
+116
+00:11:32,025 --> 00:11:37,196
+Doing various administrative things.
+Backup. Whatever.
+
+117
+00:11:37,364 --> 00:11:39,907
+In other words,
+I have no responsibilities?
+
+118
+00:11:40,075 --> 00:11:41,200
+Right.
+
+119
+00:11:41,368 --> 00:11:43,494
+My kind of case.
+
+120
+00:11:44,788 --> 00:11:49,249
+Right. Right. Okay, but I gotta have
+that report by Wednesday.
+
+121
+00:11:55,673 --> 00:11:58,300
+-Hi.
+-Hold on. Hi.
+
+122
+00:11:58,468 --> 00:12:02,638
+Daniel Kaffee. I was told to meet with...
+
+123
+00:12:08,311 --> 00:12:11,105
+...Lieutenant Commander Galloway.
+
+124
+00:12:13,483 --> 00:12:17,611
+-About a briefing.
+-I'll call you back.
+
+125
+00:12:19,531 --> 00:12:21,281
+You're the attorney
+Division assigned?
+
+126
+00:12:22,200 --> 00:12:24,201
+I'm lead counsel,
+this is Sam Weinberg.
+
+127
+00:12:24,411 --> 00:12:28,622
+-I have no responsibilities whatsoever.
+-Come in. Have a seat.
+
+128
+00:12:39,175 --> 00:12:44,805
+-How long have you been in the Navy?
+-Going on nine months now.
+
+129
+00:12:45,557 --> 00:12:48,517
+And how long have you been
+out of law school?
+
+130
+00:12:48,685 --> 00:12:50,144
+Little over a year.
+
+131
+00:12:50,311 --> 00:12:53,939
+-I see.
+-Have I done something wrong?
+
+132
+00:12:54,107 --> 00:12:59,445
+No. But when I asked for counsel,
+I was hoping to be taken seriously.
+
+133
+00:13:00,029 --> 00:13:02,197
+No offense taken,
+in case you were wondering.
+
+134
+00:13:02,365 --> 00:13:06,368
+Lieutenant Kaffee is considered
+the best litigator in our office.
+
+135
+00:13:06,536 --> 00:13:09,872
+He successfully plea-bargained
+44 cases in nine months.
+
+136
+00:13:10,039 --> 00:13:13,834
+-One more, I get a set of steak knives.
+-Have you ever been in court?
+
+137
+00:13:14,002 --> 00:13:16,503
+-I once had my license suspended....
+-Danny.
+
+138
+00:13:16,671 --> 00:13:20,716
+If this thing goes to court, they won't
+need a lawyer, they'll need a priest.
+
+139
+00:13:21,342 --> 00:13:24,386
+No, they'll need a lawyer.
+
+140
+00:13:24,554 --> 00:13:30,017
+Dawson's family's been contacted.
+Downey's closest relative is his aunt.
+
+141
+00:13:30,185 --> 00:13:32,978
+She hasn't been contacted yet,
+would you like me to do that?
+
+142
+00:13:33,146 --> 00:13:34,563
+Sure, if you feel like it.
+
+143
+00:13:36,399 --> 00:13:40,402
+One of the people you'll be seeing
+is the barracks CO, Colonel Jessep.
+
+144
+00:13:40,570 --> 00:13:42,613
+I assume you've heard of him.
+
+145
+00:13:42,780 --> 00:13:45,199
+Who hasn't?
+
+146
+00:13:45,366 --> 00:13:46,909
+He's been in the papers lately.
+
+147
+00:13:47,076 --> 00:13:48,994
+He's expected to be
+director of operations...
+
+148
+00:13:49,162 --> 00:13:50,704
+...of the National Security Council.
+
+149
+00:13:50,872 --> 00:13:54,416
+-Really?
+-Here are Santiago's letters from Gitmo.
+
+150
+00:13:54,584 --> 00:13:57,252
+-That's Guantánamo Bay.
+-I knew that one.
+
+151
+00:13:57,420 --> 00:13:58,921
+He wrote the fleet commander,
+HQ Atlantic...
+
+152
+00:13:59,088 --> 00:14:02,090
+...the Marine commandant,
+even his senator.
+
+153
+00:14:02,258 --> 00:14:05,552
+He wanted to be transferred.
+No one was listening. Are you with me?
+
+154
+00:14:05,720 --> 00:14:07,262
+Yeah.
+
+155
+00:14:08,723 --> 00:14:10,933
+Finally he wrote the
+Naval Investigative Service...
+
+156
+00:14:11,100 --> 00:14:16,563
+...where he offered to trade information
+about Dawson's shooting for a transfer.
+
+157
+00:14:17,232 --> 00:14:19,274
+Right. Is that all?
+
+158
+00:14:19,442 --> 00:14:23,779
+This letter makes it look like your client
+had a motive to kill Santiago.
+
+159
+00:14:23,947 --> 00:14:28,784
+-Got you. And Santiago is who?
+-The victim.
+
+160
+00:14:28,952 --> 00:14:30,285
+Write that down.
+
+161
+00:14:30,453 --> 00:14:34,456
+These letters don't paint a flattering
+picture of Marine Corps life at Gitmo?
+
+162
+00:14:34,624 --> 00:14:35,958
+-Yes, amon--
+-And am I right...
+
+163
+00:14:36,125 --> 00:14:39,878
+...that a protracted investigation might
+embarrass the Security Council guy?
+
+164
+00:14:40,046 --> 00:14:42,673
+-Colonel Jessep--
+-Twelve years.
+
+165
+00:14:42,840 --> 00:14:43,966
+I'm sorry?
+
+166
+00:14:44,133 --> 00:14:48,053
+I'll get them to drop “conspiracy” and
+“conduct unbecoming.” Twelve years.
+
+167
+00:14:48,680 --> 00:14:51,723
+You haven't talked to a witness
+or looked at a piece of paper.
+
+168
+00:14:52,141 --> 00:14:53,892
+Pretty impressive, huh?
+
+169
+00:14:54,060 --> 00:14:55,644
+You'll have to go deeper than that.
+
+170
+00:14:55,812 --> 00:14:58,480
+Do you have some jurisdiction here
+I should know about?
+
+171
+00:14:58,648 --> 00:15:01,275
+My job is to make sure
+that you do your job.
+
+172
+00:15:01,442 --> 00:15:06,822
+I'm special counsel for Internal Affairs.
+So my jurisdiction's in your face.
+
+173
+00:15:09,075 --> 00:15:12,077
+Read the letters. I'll expect
+a report when you return from Cuba.
+
+174
+00:15:12,620 --> 00:15:14,830
+-Sure.
+-You're dismissed!
+
+175
+00:15:17,041 --> 00:15:19,418
+I always forget that part.
+
+176
+00:15:21,337 --> 00:15:23,714
+He's a little preoccupied.
+
+177
+00:15:23,881 --> 00:15:26,842
+Team's playing Bethesda Medical
+next week.
+
+178
+00:15:27,010 --> 00:15:31,597
+Tell your friend not to get cute.
+Guantánamo Marines are fanatical.
+
+179
+00:15:31,764 --> 00:15:35,350
+-About what?
+-About being Marines.
+
+180
+00:15:35,518 --> 00:15:39,313
+Dear sir, my name is
+PFC William T. Santiago.
+
+181
+00:15:39,480 --> 00:15:41,523
+I'm a Marine stationed
+at Marine barracks...
+
+182
+00:15:41,691 --> 00:15:45,152
+...Rifle Security Company Windward,
+2nd Platoon Bravo.
+
+183
+00:15:45,320 --> 00:15:48,822
+l am writing to inform you
+of my problems here in Cuba...
+
+184
+00:15:48,990 --> 00:15:50,574
+...and to ask for your help.
+
+185
+00:15:50,742 --> 00:15:56,038
+I've fallen out of runs before,
+because of dizziness or nausea.
+
+186
+00:15:56,205 --> 00:15:59,791
+But on May 18th, I'd fallen back about
+20 yards...
+
+187
+00:15:59,959 --> 00:16:02,502
+...going down a rocky, unstable hill.
+
+188
+00:16:02,670 --> 00:16:05,422
+My sergeant grabbed me
+and pushed me down the hill...
+
+189
+00:16:05,590 --> 00:16:09,426
+...then I saw all black and the last thing
+I remember is hitting the deck.
+
+190
+00:16:09,636 --> 00:16:12,846
+I was brought to the hospital.
+They said it was heat exhaustion.
+
+191
+00:16:13,014 --> 00:16:18,101
+I ask you to help me.
+Please, l need a transfer out of RSC.
+
+192
+00:16:18,269 --> 00:16:22,689
+Sincerely, PFC William T. Santiago,
+U.S. Marine Corps.
+
+193
+00:16:22,857 --> 00:16:26,860
+P.S. In exchange for my transfer,
+I'm willing to provide you....
+
+194
+00:16:27,028 --> 00:16:32,074
+“--with information about an illegal
+fenceline shooting on August 2nd.”
+
+195
+00:16:33,076 --> 00:16:37,371
+Who the fuck is
+PFC William T. Santiago?
+
+196
+00:16:37,580 --> 00:16:40,582
+Private Santiago's a member
+of 2nd Platoon Bravo, sir.
+
+197
+00:16:40,750 --> 00:16:44,920
+Yeah. Apparently he's not very happy
+down here at Shangri-la...
+
+198
+00:16:45,088 --> 00:16:49,925
+...because he's written everybody
+but Santa Claus, asking for a transfer.
+
+199
+00:16:50,093 --> 00:16:55,597
+Now he's telling tales about
+a fenceline shooting. Matthew?
+
+200
+00:16:56,057 --> 00:17:01,478
+-I'm appalled, sir.
+-You're appalled.
+
+201
+00:17:02,563 --> 00:17:05,941
+This kid broke the chain of command
+and ratted on a member of his unit...
+
+202
+00:17:06,109 --> 00:17:09,319
+...to say nothing of the fact
+that he's a U.S. Marine...
+
+203
+00:17:09,487 --> 00:17:14,616
+...and it would appear he can't run
+from here to there without collapsing.
+
+204
+00:17:14,784 --> 00:17:17,953
+What the fuck is going on
+in Bravo company, Matthew?
+
+205
+00:17:18,121 --> 00:17:21,039
+Colonel, I think it would be better
+to discuss it in private.
+
+206
+00:17:21,207 --> 00:17:25,252
+That won't be necessary.
+I can handle this situation, sir.
+
+207
+00:17:25,420 --> 00:17:27,754
+-Like you handled Curtis Bell?
+-Sir, your methods--
+
+208
+00:17:27,922 --> 00:17:30,590
+Don't interrupt me, lieutenant,
+I'm your superior!
+
+209
+00:17:30,758 --> 00:17:32,634
+And I'm yours, Matthew.
+
+210
+00:17:34,637 --> 00:17:37,889
+I wanna know what
+we're going to do about this.
+
+211
+00:17:38,057 --> 00:17:40,892
+I think Santiago should be
+transferred immediately.
+
+212
+00:17:41,060 --> 00:17:42,644
+He's that bad?
+
+213
+00:17:42,812 --> 00:17:46,815
+And word of this letter will get out,
+and he'll get his ass whipped.
+
+214
+00:17:48,609 --> 00:17:52,779
+Transfer Santiago? Yes.
+
+215
+00:17:52,947 --> 00:17:57,075
+Sure, you're right.
+I'm sure that's the thing to do.
+
+216
+00:17:58,828 --> 00:18:02,831
+Wait. Wait, I've got a better idea.
+
+217
+00:18:02,999 --> 00:18:06,793
+Let's transfer the whole squad
+off the base. Let's....
+
+218
+00:18:06,961 --> 00:18:09,004
+On second thought, Windward.
+
+219
+00:18:09,172 --> 00:18:13,300
+Let's transfer the whole
+Windward division off the base.
+
+220
+00:18:13,468 --> 00:18:18,722
+Jon, go get those boys off the fence.
+They're packing their bags.
+
+221
+00:18:18,890 --> 00:18:21,433
+-Tom!
+-Sir?
+
+222
+00:18:21,601 --> 00:18:23,477
+Get me the president on the phone.
+
+223
+00:18:23,644 --> 00:18:26,271
+We're surrendering our position
+in Cuba.
+
+224
+00:18:26,439 --> 00:18:28,774
+-Yes, sir.
+-Wait a minute, Tom.
+
+225
+00:18:28,941 --> 00:18:34,696
+Don't get the president yet. Maybe we
+should consider this for a second.
+
+226
+00:18:34,864 --> 00:18:36,823
+-Dismissed, Tom.
+-Yes, sir.
+
+227
+00:18:38,201 --> 00:18:41,870
+Maybe-- And I'm just spit-balling here.
+
+228
+00:18:42,038 --> 00:18:46,875
+Maybe we have a responsibility
+as officers to train Santiago.
+
+229
+00:18:47,084 --> 00:18:51,338
+Maybe we, as officers,
+have a responsibility to this country...
+
+230
+00:18:51,506 --> 00:18:54,925
+...to see that the men and women
+charged with its security...
+
+231
+00:18:55,092 --> 00:18:56,885
+...are trained professionals.
+
+232
+00:18:57,053 --> 00:19:00,722
+Yes, I'm certain that I read that
+somewhere once.
+
+233
+00:19:00,890 --> 00:19:03,475
+And now I'm thinking,
+Colonel Markinson...
+
+234
+00:19:03,643 --> 00:19:07,729
+...that your suggestion
+of transferring Santiago...
+
+235
+00:19:07,897 --> 00:19:11,107
+...while expeditious
+and certainly painless...
+
+236
+00:19:11,317 --> 00:19:16,613
+...might not be, in a manner
+of speaking, the American way.
+
+237
+00:19:16,823 --> 00:19:21,076
+Santiago stays where he is.
+
+238
+00:19:21,244 --> 00:19:26,456
+We're gonna train the lad.
+Jon, you're in charge.
+
+239
+00:19:26,624 --> 00:19:33,421
+Santiago doesn't make 4.6, 4.6
+on his next proficiency report...
+
+240
+00:19:33,589 --> 00:19:35,924
+...I'm going to blame you.
+
+241
+00:19:36,092 --> 00:19:38,552
+-Then I'm going to kill you.
+-Yes, sir.
+
+242
+00:19:38,928 --> 00:19:41,221
+I think that's a mistake, colonel.
+
+243
+00:19:42,765 --> 00:19:46,935
+Matthew, I think I will have
+that word in private with you now.
+
+244
+00:19:47,103 --> 00:19:50,772
+Jon, that's all. Why don't we meet
+at the “O” Club and have lunch...
+
+245
+00:19:50,940 --> 00:19:53,650
+...and we'll talk about the training
+of young William.
+
+246
+00:19:53,860 --> 00:19:56,528
+I'd be delighted to hear
+your suggestions.
+
+247
+00:19:56,696 --> 00:19:58,405
+Dismissed.
+
+248
+00:20:02,243 --> 00:20:05,287
+Matthew, sit down. Please.
+
+249
+00:20:10,793 --> 00:20:14,963
+-What do you think of Kendrick?
+-I don't think my opinion of Kendrick--
+
+250
+00:20:15,131 --> 00:20:18,300
+I think he's pretty much
+of a weasel myself.
+
+251
+00:20:18,467 --> 00:20:20,260
+But he's an awfully good officer...
+
+252
+00:20:20,428 --> 00:20:24,764
+...and in the end, we see eye to eye
+on the best way to run a Marine unit.
+
+253
+00:20:24,974 --> 00:20:28,310
+We're in the business
+of saving lives, Matthew.
+
+254
+00:20:28,477 --> 00:20:32,147
+That is a responsibility
+that we have to take pretty seriously.
+
+255
+00:20:32,315 --> 00:20:36,526
+And I believe that taking a Marine
+who is not up to the job...
+
+256
+00:20:36,694 --> 00:20:41,156
+...and shipping him off to another
+assignment puts lives in danger.
+
+257
+00:20:41,991 --> 00:20:44,159
+Sit down, Matthew.
+
+258
+00:20:53,794 --> 00:20:55,921
+We go back a while.
+
+259
+00:20:56,088 --> 00:20:58,214
+We went to the Academy together...
+
+260
+00:20:58,382 --> 00:21:01,843
+...were commissioned together,
+did our tours in Vietnam together.
+
+261
+00:21:02,428 --> 00:21:07,974
+But I've been promoted with
+greater speed and success than you.
+
+262
+00:21:08,142 --> 00:21:12,145
+Now, if that's a source of tension
+or embarrassment for you...
+
+263
+00:21:12,313 --> 00:21:14,189
+...I don't give a shit.
+
+264
+00:21:14,357 --> 00:21:19,569
+We're in the business of saving lives,
+Lieutenant Colonel Markinson.
+
+265
+00:21:19,737 --> 00:21:23,615
+Don't ever question my orders
+in front of another officer.
+
+266
+00:21:43,594 --> 00:21:48,890
+All the paperwork's in order.
+Step over there.
+
+267
+00:21:52,770 --> 00:21:56,815
+-Hal, is this Washington D.C.?
+-All right, let's move.
+
+268
+00:21:56,983 --> 00:21:58,775
+Yes, sir.
+
+269
+00:22:05,992 --> 00:22:07,450
+Got all of that one.
+
+270
+00:22:07,618 --> 00:22:12,205
+Excuse me. I wanted to talk to you
+about Dawson and Downey.
+
+271
+00:22:12,373 --> 00:22:16,126
+-Say again?
+-Dawson and Downey.
+
+272
+00:22:16,293 --> 00:22:18,169
+The names seem familiar, but....
+
+273
+00:22:18,421 --> 00:22:21,047
+Dawson. Downey. Your clients?
+
+274
+00:22:21,215 --> 00:22:24,426
+The Cuba thing! Yes!
+Oh, Dawson and Downey. Right.
+
+275
+00:22:27,263 --> 00:22:29,681
+I've done something wrong again,
+haven't I?
+
+276
+00:22:29,849 --> 00:22:34,602
+I was wondering why they're locked up
+while their lawyer's out hitting a ball.
+
+277
+00:22:36,772 --> 00:22:39,941
+-We need the practice.
+-That wasn't funny.
+
+278
+00:22:40,693 --> 00:22:42,068
+It was a little funny.
+
+279
+00:22:42,236 --> 00:22:47,490
+Lieutenant, would you be very insulted
+if I recommended different counsel?
+
+280
+00:22:47,658 --> 00:22:50,952
+-Why?
+-I don't think you're fit to handle it.
+
+281
+00:22:51,579 --> 00:22:57,459
+You don't even know me. Ordinarily
+it takes someone hours to find that out.
+
+282
+00:22:59,670 --> 00:23:02,589
+Oh, come on. That was damn funny.
+
+283
+00:23:05,593 --> 00:23:09,846
+You're wrong. I do know you.
+
+284
+00:23:10,056 --> 00:23:13,475
+Daniel Alistair Kaffee,
+born June 8th, 1964...
+
+285
+00:23:13,642 --> 00:23:15,602
+...at Boston Mercy Hospital.
+
+286
+00:23:15,770 --> 00:23:20,523
+Your father's Lionel Kaffee,
+former Attorney General of the U.S...
+
+287
+00:23:20,691 --> 00:23:22,317
+...died 1985.
+
+288
+00:23:22,568 --> 00:23:25,320
+You went to Harvard Law,
+then joined the Navy...
+
+289
+00:23:25,488 --> 00:23:27,989
+...probably because that's
+what your father wanted.
+
+290
+00:23:28,157 --> 00:23:31,785
+Now you're just treading water
+for the three years in the JAG corps...
+
+291
+00:23:31,952 --> 00:23:34,954
+...just laying low till you can
+get out and get a real job.
+
+292
+00:23:35,122 --> 00:23:38,583
+If that's the situation,
+that's fine, I won't tell anyone.
+
+293
+00:23:38,751 --> 00:23:43,713
+But if this case is handled in the same
+fast-food, slick-assed manner...
+
+294
+00:23:43,881 --> 00:23:45,799
+...with which you handle
+everything else...
+
+295
+00:23:45,966 --> 00:23:47,550
+...then something's
+gonna get missed.
+
+296
+00:23:47,718 --> 00:23:52,889
+And I wouldn't be doing my job if I let
+Dawson and Downey to sit in prison...
+
+297
+00:23:53,099 --> 00:23:57,519
+...because their attorney predetermined
+the path of least resistance.
+
+298
+00:24:01,398 --> 00:24:04,025
+I'm sexually aroused, commander.
+
+299
+00:24:04,693 --> 00:24:06,945
+I don't think your clients
+murdered anyone.
+
+300
+00:24:07,113 --> 00:24:10,365
+-What are you basing this on?
+-There was no intent.
+
+301
+00:24:10,533 --> 00:24:13,243
+Doctor's report says Santiago died
+of asphyxiation...
+
+302
+00:24:13,410 --> 00:24:15,078
+...from acute lactic acidosis...
+
+303
+00:24:15,246 --> 00:24:18,915
+...and the nature of the acidosis
+strongly suggests poisoning.
+
+304
+00:24:19,083 --> 00:24:21,960
+Now, I don't know what that means,
+but it sounds bad.
+
+305
+00:24:22,128 --> 00:24:26,673
+Santiago died at 1 a.m.
+At 3, the doctor didn't know the reason.
+
+306
+00:24:26,841 --> 00:24:29,050
+Two hours later, he said it was poison.
+
+307
+00:24:29,218 --> 00:24:31,553
+Oh, now I see what you're saying.
+
+308
+00:24:31,720 --> 00:24:35,056
+It had to be Professor Plum,
+in the library, with the candlestick.
+
+309
+00:24:35,224 --> 00:24:37,559
+I'm gonna talk to your supervisor.
+
+310
+00:24:37,726 --> 00:24:42,397
+Go straight up Pennsylvania Avenue.
+It's the big white house with the pillars.
+
+311
+00:24:42,982 --> 00:24:45,316
+-Thank you.
+-I don't think you'll have much luck.
+
+312
+00:24:45,484 --> 00:24:50,238
+I was assigned by Division.
+Somebody thinks I'm a good lawyer.
+
+313
+00:24:50,406 --> 00:24:56,411
+So, while I appreciate your interest and
+enthusiasm, I think I can handle things.
+
+314
+00:24:56,579 --> 00:24:58,580
+You know what a Code Red is?
+
+315
+00:25:02,751 --> 00:25:04,586
+What a pity.
+
+316
+00:25:15,014 --> 00:25:17,098
+-Morning, sir.
+-Morning.
+
+317
+00:25:18,100 --> 00:25:20,310
+Officer on deck, ten-hut!
+
+318
+00:25:20,477 --> 00:25:22,312
+Lance Corporal Harold Dawson, sir!
+
+319
+00:25:22,479 --> 00:25:25,064
+Rifle Security Company Windward!
+Second Platoon Bravo!
+
+320
+00:25:25,232 --> 00:25:27,692
+You haven't been working
+and playing well with others.
+
+321
+00:25:27,860 --> 00:25:29,777
+Sir! Yes, sir!
+
+322
+00:25:31,572 --> 00:25:35,158
+Sir! PFC Louden Downey, sir!
+
+323
+00:25:35,326 --> 00:25:39,120
+I'm Daniel Kaffee,
+this is Sam Weinberg. Sit down.
+
+324
+00:25:46,503 --> 00:25:49,047
+-Is this your signature?
+-Yes, sir.
+
+325
+00:25:49,215 --> 00:25:51,132
+Don't have to call me sir.
+Is this yours?
+
+326
+00:25:51,300 --> 00:25:55,470
+-Sir, yes, sir!
+-Certainly don't need to say it twice.
+
+327
+00:25:55,638 --> 00:25:58,932
+-What's a Code Red?
+-It's a disciplinary engagement.
+
+328
+00:25:59,099 --> 00:26:00,475
+What's that mean exactly?
+
+329
+00:26:00,643 --> 00:26:04,437
+A Marine falls out of line,
+it's up to his unit to get him on track.
+
+330
+00:26:04,730 --> 00:26:07,982
+-What's a garden-variety Code Red?
+-Sir?
+
+331
+00:26:08,150 --> 00:26:14,489
+Harold, You say “sir” and I look for
+my father. Danny, Daniel Kaffee.
+
+332
+00:26:14,657 --> 00:26:17,784
+Garden-variety. Typical.
+What's a basic Code Red?
+
+333
+00:26:17,952 --> 00:26:23,164
+A Marine refuses to bathe,
+the men give him a GI shower.
+
+334
+00:26:23,332 --> 00:26:27,085
+-What's that?
+-Scrub brushes, steel wool.
+
+335
+00:26:27,253 --> 00:26:28,503
+Beautiful.
+
+336
+00:26:28,671 --> 00:26:31,089
+Was the attack on Santiago
+a Code Red?
+
+337
+00:26:31,632 --> 00:26:32,840
+Yes, sir.
+
+338
+00:26:38,264 --> 00:26:41,266
+Does he ever talk?
+
+339
+00:26:41,433 --> 00:26:46,271
+Sir, PFC Downey will answer
+any direct questions you ask him.
+
+340
+00:26:48,148 --> 00:26:51,859
+Private Downey, the rag you put
+in his mouth, was there poison on it?
+
+341
+00:26:52,027 --> 00:26:55,238
+-No, sir.
+-Silver polish, turpentine, antifreeze?
+
+342
+00:26:55,406 --> 00:26:57,657
+No, sir. We were just
+gonna shave his head.
+
+343
+00:26:57,825 --> 00:27:00,243
+When, all of the sudden....
+
+344
+00:27:00,869 --> 00:27:03,830
+We saw blood
+dripping down his mouth.
+
+345
+00:27:03,998 --> 00:27:07,375
+We pulled the tape off and there was
+blood all down his face, sir.
+
+346
+00:27:07,543 --> 00:27:10,586
+That's when Lance Corporal Dawson
+called the ambulance.
+
+347
+00:27:10,796 --> 00:27:15,550
+-Did anyone see you call it?
+-No, sir.
+
+348
+00:27:18,220 --> 00:27:22,265
+-Were you there when it arrived?
+-Yes, that's when we were arrested.
+
+349
+00:27:22,433 --> 00:27:28,479
+On August 2nd, did you fire a shot
+across the fenceline, into Cuba?
+
+350
+00:27:29,273 --> 00:27:30,481
+-Yes, sir.
+-Why?
+
+351
+00:27:30,649 --> 00:27:33,359
+-My mirror engaged, sir.
+-His “mirror”?
+
+352
+00:27:33,527 --> 00:27:37,280
+For every American sentry, there's
+a Cuban counterpart. Called “mirrors.”
+
+353
+00:27:37,448 --> 00:27:40,825
+Lance corporal claims his mirror
+was about to fire at him.
+
+354
+00:27:40,993 --> 00:27:46,039
+Santiago's letter to the NIS
+said you fired illegally.
+
+355
+00:27:46,206 --> 00:27:51,586
+He's saying the guy, the mirror,
+he never made a move.
+
+356
+00:27:55,382 --> 00:28:00,595
+Oh, Harold?
+You see what I'm getting at?
+
+357
+00:28:00,763 --> 00:28:02,597
+If Santiago didn't have
+anything on you...
+
+358
+00:28:02,765 --> 00:28:04,265
+...why did you give him
+a Code Red?
+
+359
+00:28:04,433 --> 00:28:07,602
+-He broke the chain of command, sir.
+-He what?
+
+360
+00:28:07,770 --> 00:28:09,729
+He went outside of his unit.
+
+361
+00:28:09,897 --> 00:28:14,233
+If he had a problem, he should have
+spoken to me, then his sergeant, then--
+
+362
+00:28:14,401 --> 00:28:17,904
+All right, all right. Did you
+assault Santiago with intent to kill?
+
+363
+00:28:18,072 --> 00:28:19,614
+-No, sir.
+-What was your intent?
+
+364
+00:28:19,782 --> 00:28:22,408
+-To train him, sir.
+-Train him to do what?
+
+365
+00:28:22,743 --> 00:28:27,038
+To think of his unit before himself.
+To respect the code.
+
+366
+00:28:27,206 --> 00:28:30,958
+-What's the code?
+-Unit, Corps, God, country!
+
+367
+00:28:31,293 --> 00:28:37,256
+-I beg your pardon?
+-Unit, Corps, God, country, sir.
+
+368
+00:28:53,440 --> 00:28:59,487
+The government of the United States
+wants to charge you two with murder.
+
+369
+00:28:59,655 --> 00:29:05,076
+And you want me to tell the prosecutor,
+“unit, Corps, God, country”?
+
+370
+00:29:05,244 --> 00:29:07,161
+That's our code, sir.
+
+371
+00:29:11,166 --> 00:29:13,000
+-That's your code.
+-That's your code.
+
+372
+00:29:13,168 --> 00:29:15,711
+We'll be back.
+
+373
+00:29:15,921 --> 00:29:19,632
+You need anything? Books? Papers?
+Cigarettes? Ham sandwich?
+
+374
+00:29:19,800 --> 00:29:21,926
+Sir! No, thank you, sir!
+
+375
+00:29:22,386 --> 00:29:25,805
+Harold, there's a concept
+you'd better start warming up to.
+
+376
+00:29:25,973 --> 00:29:29,809
+-Sir?
+-I'm the only friend you've got.
+
+377
+00:29:43,449 --> 00:29:46,200
+-Dan Kaffee.
+-Smiling Jack Ross.
+
+378
+00:29:46,368 --> 00:29:48,536
+-Welcome to the big time.
+-You think so?
+
+379
+00:29:48,704 --> 00:29:52,457
+Let's hope you practice law
+better than you play softball.
+
+380
+00:29:52,624 --> 00:29:55,877
+Unfortunately, I don't do anything
+better than I play softball.
+
+381
+00:29:56,044 --> 00:29:58,880
+I'm out of here, Jannelle!
+See you when I get back from Cuba.
+
+382
+00:29:59,047 --> 00:30:02,300
+-Say hi to Castro for me.
+-Will do. What're we looking at?
+
+383
+00:30:02,468 --> 00:30:05,553
+They plead guilty, we drop “conspiracy”
+and “conduct unbecoming”...
+
+384
+00:30:05,721 --> 00:30:07,388
+...20 years, they're home in half.
+
+385
+00:30:07,556 --> 00:30:13,561
+-Twelve. They called the ambulance.
+-I don't care. They killed a Marine.
+
+386
+00:30:13,729 --> 00:30:17,857
+The rag was tested for poison.
+The autopsy says maybe, maybe not.
+
+387
+00:30:18,025 --> 00:30:22,403
+The Chief of Internal Medicine
+at Guantánamo says he's sure.
+
+388
+00:30:22,571 --> 00:30:27,617
+-What do you know about Code Reds?
+-Oh, man....
+
+389
+00:30:28,410 --> 00:30:32,246
+-Are we off the record?
+-You tell me.
+
+390
+00:30:32,414 --> 00:30:34,248
+I'm gonna give you the 12 years.
+
+391
+00:30:34,416 --> 00:30:37,251
+But before you get into trouble
+tomorrow, you should know...
+
+392
+00:30:37,419 --> 00:30:41,047
+...the platoon commander, Kendrick,
+held a meeting with the men...
+
+393
+00:30:41,215 --> 00:30:45,551
+...and specifically told them
+not to touch Santiago.
+
+394
+00:30:47,721 --> 00:30:50,598
+-We still playing hoops tomorrow?
+-Do we have a deal?
+
+395
+00:30:51,600 --> 00:30:53,392
+I'll talk to you when I get back.
+
+396
+00:30:56,813 --> 00:30:58,105
+Hi there.
+
+397
+00:30:58,273 --> 00:30:59,982
+Any luck getting me replaced?
+
+398
+00:31:00,150 --> 00:31:03,444
+Is there anyone in this command
+you don't drink or play softball with?
+
+399
+00:31:03,612 --> 00:31:06,447
+Listen, I came to make peace.
+We got off on the wrong foot.
+
+400
+00:31:06,615 --> 00:31:09,075
+-What do you say, friends?
+-Look, I don't--
+
+401
+00:31:09,243 --> 00:31:12,578
+I brought Downey some comic books
+he was asking for.
+
+402
+00:31:12,746 --> 00:31:16,624
+The kid, I swear, doesn't even know
+why he's been arrested.
+
+403
+00:31:16,792 --> 00:31:19,794
+-Commander--
+-You can call me JoAnne. Or Jo.
+
+404
+00:31:19,962 --> 00:31:21,254
+-Jo?
+-Yes.
+
+405
+00:31:21,421 --> 00:31:24,382
+Jo, if you speak to a client of mine
+again without permission...
+
+406
+00:31:24,550 --> 00:31:27,134
+...I'll have you disbarred. Friends?
+
+407
+00:31:27,302 --> 00:31:30,179
+-I had authorization.
+-From where?
+
+408
+00:31:30,347 --> 00:31:35,518
+Downey's closest relative, Ginny Miller,
+his aunt on his mother's side.
+
+409
+00:31:35,686 --> 00:31:38,145
+You got authorization from Aunt Ginny?
+
+410
+00:31:38,313 --> 00:31:40,064
+I gave her a call, like you asked.
+
+411
+00:31:40,232 --> 00:31:42,275
+Very nice woman.
+We spoke for an hour.
+
+412
+00:31:42,442 --> 00:31:45,319
+You got authorization from Aunt Ginny.
+
+413
+00:31:45,487 --> 00:31:47,697
+Perfectly within my province.
+
+414
+00:31:47,864 --> 00:31:50,575
+Does Aunt Ginny have a barn?
+We could hold the trial there.
+
+415
+00:31:50,742 --> 00:31:54,996
+I can sew the costumes,
+Uncle Goober can be the judge.
+
+416
+00:31:57,207 --> 00:32:00,501
+I'm going to Cuba with you tomorrow.
+
+417
+00:32:01,878 --> 00:32:05,339
+And the hits just keep on coming.
+
+418
+00:32:27,738 --> 00:32:31,198
+-How's it going, Luther?
+-Another day, another dollar.
+
+419
+00:32:31,366 --> 00:32:34,368
+-Gotta play them as they lay.
+-What goes around comes around.
+
+420
+00:32:34,536 --> 00:32:37,788
+-Can't beat them, join them.
+-At least I got my health.
+
+421
+00:32:38,206 --> 00:32:41,626
+Well, you got everything.
+See you tomorrow, Luther.
+
+422
+00:32:41,793 --> 00:32:44,712
+Not if I see you first.
+
+423
+00:32:46,048 --> 00:32:50,343
+You're my witness. The baby spoke.
+My daughter said a word.
+
+424
+00:32:50,510 --> 00:32:52,887
+She made a sound.
+I'm not sure it was a word.
+
+425
+00:32:53,055 --> 00:32:57,433
+-Come on! It was definitely a word.
+-Okay.
+
+426
+00:32:57,643 --> 00:33:02,730
+You heard her.
+She pointed and said “Pa.” She did.
+
+427
+00:33:02,898 --> 00:33:05,608
+-She was pointing at a mailbox.
+-That's right.
+
+428
+00:33:05,776 --> 00:33:09,445
+Pointing as if to say,
+“Pa! Look, a mailbox.”
+
+429
+00:33:16,411 --> 00:33:20,831
+-Jack Ross offered me the 12 years.
+-That's what you wanted, right?
+
+430
+00:33:20,999 --> 00:33:23,250
+I know, and I'll....
+
+431
+00:33:23,418 --> 00:33:30,549
+-I mean, I guess I'll take it.
+-So..?
+
+432
+00:33:30,717 --> 00:33:33,761
+It took about 45 seconds.
+He barely put up a fight.
+
+433
+00:33:33,929 --> 00:33:37,765
+Danny, take the 12 years, it's a gift.
+
+434
+00:33:37,933 --> 00:33:39,767
+You don't believe their story, do you?
+
+435
+00:33:39,935 --> 00:33:42,103
+You think they ought to go
+to jail for life.
+
+436
+00:33:42,270 --> 00:33:44,146
+I believe every word of their story...
+
+437
+00:33:44,314 --> 00:33:48,192
+...and I think they ought to
+go to jail for life.
+
+438
+00:33:52,614 --> 00:33:54,782
+-See you tomorrow.
+-Okay.
+
+439
+00:33:54,950 --> 00:33:57,451
+Don't forget to wear the whites.
+Very hot.
+
+440
+00:33:57,619 --> 00:33:59,078
+I don't like the whites.
+
+441
+00:33:59,287 --> 00:34:02,832
+Nobody does, but we're going to Cuba.
+You got Dramamine?
+
+442
+00:34:02,999 --> 00:34:07,962
+-Dramamine keeps you cool?
+-No, it keeps you from getting airsick.
+
+443
+00:34:08,130 --> 00:34:13,050
+I get airsick because I'm afraid
+of crashing. Dramamine won't help.
+
+444
+00:34:14,094 --> 00:34:16,470
+I got some oregano,
+I hear that works pretty good.
+
+445
+00:34:20,016 --> 00:34:24,186
+Ross said the strangest thing to me
+right before I left.
+
+446
+00:34:24,354 --> 00:34:26,313
+He said Lieutenant Kendrick...
+
+447
+00:34:26,481 --> 00:34:30,317
+...had told the men specifically
+not to touch Santiago.
+
+448
+00:34:30,736 --> 00:34:36,407
+-So?
+-I don't even know who Kendrick is.
+
+449
+00:34:39,453 --> 00:34:43,164
+What the hell. I'll see you tomorrow.
+
+450
+00:35:19,201 --> 00:35:25,915
+I'm Corporal Barnes, I'm to escort you
+to the Windward side of the base.
+
+451
+00:35:26,082 --> 00:35:29,543
+I got some camouflage jackets,
+I suggest you both put them on.
+
+452
+00:35:29,711 --> 00:35:31,045
+Camouflage jackets?
+
+453
+00:35:31,213 --> 00:35:34,381
+Yes, sir. We'll be riding
+pretty close to the fenceline.
+
+454
+00:35:34,549 --> 00:35:40,554
+If the Cubans see an officer in white,
+they might take a shot.
+
+455
+00:35:40,722 --> 00:35:43,349
+Good call, Sam.
+
+456
+00:35:48,021 --> 00:35:50,564
+We'll just hop on the ferry.
+We'll be there in no time.
+
+457
+00:35:50,732 --> 00:35:54,860
+-Hold it. We gotta take a boat?
+-Yes, sir, to get across the bay.
+
+458
+00:35:55,028 --> 00:35:57,988
+-No one said anything about a boat.
+-Is there a problem, sir?
+
+459
+00:35:58,156 --> 00:36:01,909
+No, no problem,
+I'm just not that crazy about boats.
+
+460
+00:36:02,077 --> 00:36:06,205
+Jesus Christ, Kaffee,
+you're in the Navy, for crying out loud!
+
+461
+00:36:06,373 --> 00:36:09,583
+-Nobody likes her very much.
+-Yes, sir.
+
+462
+00:36:22,931 --> 00:36:26,725
+-Nathan Jessep. Come on in.
+-Thank you, sir.
+
+463
+00:36:26,893 --> 00:36:29,895
+Daniel Kaffee, I'm the attorney
+for Dawson and Downey.
+
+464
+00:36:30,063 --> 00:36:32,106
+This is Lt. Commander
+JoAnne Galloway.
+
+465
+00:36:32,274 --> 00:36:33,440
+Pleasure meeting you.
+
+466
+00:36:33,608 --> 00:36:37,987
+Observing and evaluating.
+Lieutenant Weinberg, my assistant.
+
+467
+00:36:38,154 --> 00:36:41,949
+This is XO, Colonel Markinson,
+and Platoon Leader Lt. Kendrick.
+
+468
+00:36:42,117 --> 00:36:44,618
+I've asked them to join us.
+Sit down, please.
+
+469
+00:36:44,786 --> 00:36:47,329
+-Lieutenant Kaffee.
+-Colonel Markinson.
+
+470
+00:36:47,497 --> 00:36:49,665
+I had the pleasure of meeting
+your father once.
+
+471
+00:36:49,833 --> 00:36:51,876
+I was a teenager.
+He spoke at my high school.
+
+472
+00:36:52,794 --> 00:36:55,337
+-Lionel Kaffee?
+-Yes, sir.
+
+473
+00:36:55,505 --> 00:36:56,881
+Well, what do you know?
+
+474
+00:36:57,340 --> 00:37:01,552
+Jon, this man's dad once made a lot
+of enemies in your neck of the woods.
+
+475
+00:37:01,720 --> 00:37:05,431
+Jefferson v.
+Madison County School District.
+
+476
+00:37:05,599 --> 00:37:09,810
+Folks down there said a little black girl
+couldn't go to an all-white school.
+
+477
+00:37:09,978 --> 00:37:13,814
+Lionel Kaffee said,
+“We'll just see about that.”
+
+478
+00:37:14,316 --> 00:37:18,903
+-How the hell is your dad, Danny?
+-He passed away seven years ago.
+
+479
+00:37:20,947 --> 00:37:24,909
+-Don't I feel like the fucking asshole.
+-Not at all, sir.
+
+480
+00:37:26,286 --> 00:37:31,790
+-What can we do for you, Danny?
+-Not much, sir.
+
+481
+00:37:31,958 --> 00:37:36,503
+This is really a formality
+more than anything else.
+
+482
+00:37:36,671 --> 00:37:39,465
+JAG Corps insist we interview
+all the relevant witnesses.
+
+483
+00:37:39,633 --> 00:37:42,676
+The JAG Corps can be
+demanding that way.
+
+484
+00:37:43,470 --> 00:37:48,182
+Jon'll show you what you want to see.
+After that, we can meet for lunch.
+
+485
+00:37:48,350 --> 00:37:50,559
+-How does that sound?
+-Fine, sir.
+
+486
+00:37:59,986 --> 00:38:04,698
+You met with the men that afternoon.
+What did you guys talk about?
+
+487
+00:38:04,866 --> 00:38:06,951
+I told them we had
+an informer among us...
+
+488
+00:38:07,118 --> 00:38:10,079
+...and that, despite any desire
+they had for retribution...
+
+489
+00:38:10,246 --> 00:38:13,874
+...Private Santiago was not
+to be harmed in any way.
+
+490
+00:38:14,042 --> 00:38:17,670
+-What time was that meeting?
+-1600.
+
+491
+00:38:17,837 --> 00:38:19,546
+That's 4:00.
+
+492
+00:39:11,433 --> 00:39:14,101
+We should make sure somebody
+gets this to his parents.
+
+493
+00:39:14,269 --> 00:39:17,104
+-We don't need it anymore.
+-Right.
+
+494
+00:39:18,606 --> 00:39:22,776
+-Lt. Kendrick, may I call you Jon?
+-No, you may not.
+
+495
+00:39:22,944 --> 00:39:27,197
+-Have I done something to offend you?
+-No, I like all you Navy boys.
+
+496
+00:39:27,365 --> 00:39:31,285
+Every time we gotta go fight,
+you fellas always give us a ride.
+
+497
+00:39:32,871 --> 00:39:36,081
+Lieutenant Kendrick,
+do you think Santiago was murdered?
+
+498
+00:39:36,249 --> 00:39:41,295
+I believe in God and Jesus Christ.
+Because I do, I can say this:
+
+499
+00:39:41,463 --> 00:39:44,965
+Private Santiago is dead,
+and that is a tragedy.
+
+500
+00:39:45,133 --> 00:39:47,176
+But he is dead because he had
+no code...
+
+501
+00:39:47,343 --> 00:39:51,597
+...and no honor.
+And God was watching.
+
+502
+00:39:54,267 --> 00:39:58,145
+-How do you feel about that theory?
+-Sounds good. Let's move on.
+
+503
+00:39:58,313 --> 00:40:03,859
+Are you planning on investigating,
+or you just gonna take the guided tour?
+
+504
+00:40:04,069 --> 00:40:06,653
+I'm pacing myself.
+
+505
+00:40:06,946 --> 00:40:12,326
+They were running around for hours
+looking for anything white to wave.
+
+506
+00:40:12,494 --> 00:40:16,830
+Some of these people surrendered
+to a crew from CNN.
+
+507
+00:40:16,998 --> 00:40:23,545
+Walk softly and carry an armoured
+tank division, I always say.
+
+508
+00:40:23,713 --> 00:40:26,632
+-That was delicious. Thank you.
+-My pleasure, sir.
+
+509
+00:40:26,800 --> 00:40:31,512
+Colonel, I do have to ask you a
+couple questions about September 6th.
+
+510
+00:40:31,679 --> 00:40:33,180
+Shoot.
+
+511
+00:40:33,348 --> 00:40:39,978
+An NIS agent told you that Santiago
+tipped him off to a fenceline shooting.
+
+512
+00:40:40,146 --> 00:40:43,190
+Santiago was gonna reveal who did it
+in exchange for a transfer.
+
+513
+00:40:43,358 --> 00:40:45,526
+Yes.
+
+514
+00:40:47,821 --> 00:40:53,700
+If you feel there are any details
+that I'm missing, feel free to speak up.
+
+515
+00:40:56,371 --> 00:40:58,038
+Thank you.
+
+516
+00:41:01,543 --> 00:41:03,919
+You called Lt. Colonel Markinson...
+
+517
+00:41:04,087 --> 00:41:07,005
+...and Lt. Kendrick into your office.
+Is that right?
+
+518
+00:41:07,173 --> 00:41:09,508
+-Yes.
+-And what happened then?
+
+519
+00:41:09,676 --> 00:41:15,389
+We agreed that, for his own safety,
+Santiago should be transferred.
+
+520
+00:41:16,057 --> 00:41:19,518
+Santiago was set to be transferred?
+
+521
+00:41:19,686 --> 00:41:24,356
+On the first flight to the States.
+06:00 the next morning.
+
+522
+00:41:24,941 --> 00:41:28,527
+Five hours too late, as it turned out.
+
+523
+00:41:29,863 --> 00:41:35,242
+Yeah. All right, that's all.
+Thanks very much for your time.
+
+524
+00:41:35,410 --> 00:41:38,537
+The corporal's waiting outside
+with a jeep. He'll take you back.
+
+525
+00:41:38,705 --> 00:41:41,498
+-Wait, I've got some questions.
+-No, you don't.
+
+526
+00:41:41,666 --> 00:41:43,792
+-Yes, I do.
+-No, you don't.
+
+527
+00:41:43,960 --> 00:41:49,089
+On the morning Santiago died,
+did you meet with Dr. Stone?
+
+528
+00:41:49,257 --> 00:41:55,762
+-Of course. One of my men was dead.
+-You see? The man was dead. Let's go.
+
+529
+00:41:55,930 --> 00:42:02,561
+-Have you heard the term Code Red?
+-I've heard the term, yes.
+
+530
+00:42:02,770 --> 00:42:05,480
+This past February,
+you received a memo...
+
+531
+00:42:05,648 --> 00:42:08,192
+...from the Atlantic Fleet commander...
+
+532
+00:42:08,359 --> 00:42:11,486
+...warning that enlisted men
+disciplining their own...
+
+533
+00:42:11,654 --> 00:42:13,238
+...wasn't to be condoned.
+
+534
+00:42:13,406 --> 00:42:16,158
+I submit to you that
+whoever wrote that memo...
+
+535
+00:42:16,326 --> 00:42:22,122
+...has never faced the working end
+of a Cuban AK-47 assault rifle.
+
+536
+00:42:22,290 --> 00:42:25,792
+However, the directive,
+having come from the commander...
+
+537
+00:42:25,960 --> 00:42:27,753
+...I gave it its due attention.
+
+538
+00:42:27,921 --> 00:42:29,254
+What is your point, Jo?
+
+539
+00:42:29,422 --> 00:42:34,092
+She has no point, it's part of her charm.
+We're out of here. Thank you.
+
+540
+00:42:34,260 --> 00:42:39,806
+My point is that I think
+Code Reds still go on. Do they?
+
+541
+00:42:39,974 --> 00:42:42,309
+-He doesn't need to answer that.
+-Yes, he does.
+
+542
+00:42:42,518 --> 00:42:46,021
+-No, he really doesn't.
+-Yeah, he really does.
+
+543
+00:42:47,774 --> 00:42:48,982
+Colonel?
+
+544
+00:42:50,610 --> 00:42:53,737
+You know, it just hit me.
+
+545
+00:42:53,905 --> 00:42:57,699
+-She outranks you, Danny.
+-Yes, sir.
+
+546
+00:42:57,867 --> 00:43:01,245
+I want to tell you something.
+And listen up, because I mean this.
+
+547
+00:43:01,412 --> 00:43:04,331
+You're the luckiest man in the world.
+
+548
+00:43:04,499 --> 00:43:08,335
+There is nothing on this earth sexier--
+Believe me, gentlemen.
+
+549
+00:43:08,503 --> 00:43:11,505
+--than a woman you have to salute
+in the morning.
+
+550
+00:43:12,173 --> 00:43:15,467
+Promote them all, I say,
+because this is true.
+
+551
+00:43:15,635 --> 00:43:20,138
+If you haven't gotten a blowjob
+from a superior officer, well...
+
+552
+00:43:20,306 --> 00:43:23,183
+...you're just letting the best in life
+pass you by.
+
+553
+00:43:24,435 --> 00:43:28,063
+The practice of Code Reds is still
+condoned on this base, isn't it?
+
+554
+00:43:28,273 --> 00:43:31,483
+My problem is I'm a colonel,
+so I'll just have to take cold showers...
+
+555
+00:43:31,651 --> 00:43:34,194
+...until they elect some gal president.
+
+556
+00:43:34,904 --> 00:43:36,697
+I need an answer to my question, sir.
+
+557
+00:43:36,864 --> 00:43:40,367
+Take caution in your tone, commander.
+
+558
+00:43:40,535 --> 00:43:46,665
+I'm a fair guy, but this fucking heat
+is making me absolutely crazy.
+
+559
+00:43:47,542 --> 00:43:49,293
+You wanna ask me about Code Reds?
+
+560
+00:43:49,460 --> 00:43:52,045
+On the record,
+I discourage the practice...
+
+561
+00:43:52,213 --> 00:43:54,214
+...in accordance with the directive.
+
+562
+00:43:54,382 --> 00:43:59,428
+Off the record, I tell you it is
+an invaluable part of infantry training.
+
+563
+00:43:59,595 --> 00:44:06,393
+If it goes on without my knowledge,
+so be it. That's how I run my unit.
+
+564
+00:44:06,561 --> 00:44:11,064
+You want to investigate me,
+roll the dice and take your chances.
+
+565
+00:44:11,232 --> 00:44:15,610
+I eat breakfast 300 yards from 4000
+Cubans who are trained to kill me.
+
+566
+00:44:15,778 --> 00:44:20,741
+So don't think for one second that you
+can come down here, flash a badge...
+
+567
+00:44:20,908 --> 00:44:23,285
+...and make me nervous.
+
+568
+00:44:27,915 --> 00:44:29,624
+Let's go.
+
+569
+00:44:32,045 --> 00:44:35,505
+Colonel, I'll just need a copy
+of Santiago's transfer order.
+
+570
+00:44:35,923 --> 00:44:37,174
+What's that?
+
+571
+00:44:37,342 --> 00:44:40,594
+Santiago's transfer order.
+You guys have paperwork on it.
+
+572
+00:44:40,762 --> 00:44:42,387
+I just need it for the file.
+
+573
+00:44:42,555 --> 00:44:45,432
+-For the file?
+-Yeah.
+
+574
+00:44:47,560 --> 00:44:51,938
+Of course you can have a copy
+of the transfer order for the file.
+
+575
+00:44:52,106 --> 00:44:55,275
+-I'm here to help in any way I can.
+-Thank you.
+
+576
+00:44:55,443 --> 00:44:57,027
+You believe that, don't you, Danny?
+
+577
+00:44:57,195 --> 00:44:59,363
+That I'm here to help you
+any way I can?
+
+578
+00:45:00,365 --> 00:45:01,698
+Of course.
+
+579
+00:45:02,450 --> 00:45:07,120
+The corporal will take you by Personnel
+on your way to the flight line...
+
+580
+00:45:07,288 --> 00:45:10,207
+...and you can have all
+the transfer orders that you want.
+
+581
+00:45:12,460 --> 00:45:14,461
+But you have to ask me nicely.
+
+582
+00:45:16,798 --> 00:45:21,468
+-I beg your pardon?
+-You have to ask me nicely.
+
+583
+00:45:21,636 --> 00:45:24,971
+See, I can deal with the bullets,
+the bombs and the blood.
+
+584
+00:45:25,139 --> 00:45:27,974
+I don't want money
+and I don't want medals.
+
+585
+00:45:28,142 --> 00:45:30,685
+What I do want
+is for you to stand there...
+
+586
+00:45:30,853 --> 00:45:32,604
+...in that faggoty white uniform...
+
+587
+00:45:32,772 --> 00:45:37,275
+...and with your Harvard mouth,
+extend me some fucking courtesy.
+
+588
+00:45:40,154 --> 00:45:42,489
+You got to ask me nicely.
+
+589
+00:45:46,202 --> 00:45:48,829
+Colonel Jessep,
+if it's not too much trouble...
+
+590
+00:45:48,996 --> 00:45:52,666
+...I'd like a copy of the transfer order.
+Sir.
+
+591
+00:45:55,795 --> 00:45:57,754
+No problem.
+
+592
+00:46:40,339 --> 00:46:42,048
+-Who is it?
+-It's me.
+
+593
+00:46:42,216 --> 00:46:44,092
+Jo.
+
+594
+00:46:45,052 --> 00:46:46,344
+I've really missed you.
+
+595
+00:46:46,512 --> 00:46:49,055
+I was just saying,
+it's been three hours--
+
+596
+00:46:49,223 --> 00:46:51,808
+-Markinson's disappeared.
+-What?
+
+597
+00:46:51,976 --> 00:46:55,187
+Colonel Markinson's gone U.A.
+Unauthorized Absence.
+
+598
+00:46:55,354 --> 00:46:59,483
+-I know what it means. When?
+-This afternoon, after we left.
+
+599
+00:46:59,650 --> 00:47:02,360
+-I'll try to find him in the morning.
+-I've already tried.
+
+600
+00:47:02,528 --> 00:47:03,904
+You tried?
+
+601
+00:47:05,239 --> 00:47:10,911
+You're coming close to interfering
+with a government investigation.
+
+602
+00:47:11,078 --> 00:47:17,417
+I'm Louden Downey's attorney.
+Aunt Ginny feels like she knows me.
+
+603
+00:47:17,585 --> 00:47:22,005
+So I suggested that I get more
+directly involved with the case.
+
+604
+00:47:22,173 --> 00:47:25,717
+She had Louden sign the papers
+about an hour ago.
+
+605
+00:47:25,885 --> 00:47:30,055
+I suppose it's too much to hope that
+you're making this up just to bother me.
+
+606
+00:47:30,223 --> 00:47:35,227
+-Don't worry, you're still lead counsel.
+-Splendid.
+
+607
+00:47:35,394 --> 00:47:38,104
+I think Kendrick ordered the Code Red,
+and so do you.
+
+608
+00:47:40,024 --> 00:47:41,900
+Let's go.
+
+609
+00:47:45,780 --> 00:47:47,656
+Officer on deck, ten-hut!
+
+610
+00:47:47,823 --> 00:47:49,699
+-Did Kendrick order the Code Red?
+-Sir?
+
+611
+00:47:49,867 --> 00:47:53,411
+Don't say “sir” like I just asked you
+if you cleaned the latrine.
+
+612
+00:47:53,579 --> 00:47:57,749
+Did Lieutenant Kendrick order you
+to give Santiago a Code Red?
+
+613
+00:47:59,085 --> 00:48:01,628
+Yes, sir.
+
+614
+00:48:01,796 --> 00:48:04,506
+-Did he?
+-Yes, sir.
+
+615
+00:48:08,970 --> 00:48:13,473
+-Why didn't you mention this before?
+-You didn't ask us, sir.
+
+616
+00:48:13,808 --> 00:48:18,478
+Corporal, I get paid no matter
+how much time you spend in jail.
+
+617
+00:48:18,646 --> 00:48:20,605
+Yes, sir. I know you do, sir.
+
+618
+00:48:20,773 --> 00:48:22,816
+-Fuck you, Harold!
+-All right.
+
+619
+00:48:23,985 --> 00:48:28,488
+-At ease. Let's sort this thing out.
+-Shit.
+
+620
+00:48:28,656 --> 00:48:31,950
+There was a platoon meeting
+on September 6th at 4 p.m.
+
+621
+00:48:32,118 --> 00:48:36,454
+Lieutenant Kendrick says he told you
+nothing was to happen to Santiago.
+
+622
+00:48:37,081 --> 00:48:42,294
+Now, is this true?
+I want you to speak freely.
+
+623
+00:48:45,214 --> 00:48:49,509
+Ma'am, that's correct.
+But then he dismissed the platoon.
+
+624
+00:48:49,677 --> 00:48:53,597
+-And what happened then?
+-Lt. Kendrick came to our room.
+
+625
+00:48:53,764 --> 00:48:55,473
+When?
+
+626
+00:48:56,350 --> 00:49:00,478
+About five minutes after the
+meeting broke. About 16:20.
+
+627
+00:49:00,646 --> 00:49:03,148
+And what happened then?
+
+628
+00:49:03,316 --> 00:49:07,527
+Lt. Kendrick ordered us
+to give Santiago a Code Red.
+
+629
+00:49:09,196 --> 00:49:13,617
+Jack! Jack!
+They were given an order.
+
+630
+00:49:16,871 --> 00:49:22,042
+-Jack, come on.
+-I'll be right back. Be right back.
+
+631
+00:49:22,209 --> 00:49:23,877
+How long did you know
+about the order?
+
+632
+00:49:24,045 --> 00:49:25,712
+I didn't. Who's this?
+
+633
+00:49:25,880 --> 00:49:29,257
+It's Jo Galloway, Downey's lawyer.
+She's very pleased to meet you.
+
+634
+00:49:29,425 --> 00:49:32,552
+-What are you accusing me of?
+-How long have you known?
+
+635
+00:49:32,720 --> 00:49:37,390
+He didn't know. If he did and didn't tell
+us, he'd be violating the code of ethics.
+
+636
+00:49:37,558 --> 00:49:41,019
+He's got enough to worry about.
+God forbid our clients plead not guilty...
+
+637
+00:49:41,187 --> 00:49:43,355
+...and testify for the record
+they were ordered.
+
+638
+00:49:43,522 --> 00:49:46,650
+Kendrick told those men
+not to touch Santiago.
+
+639
+00:49:46,817 --> 00:49:50,904
+Then he told Dawson and Downey to
+give him a Code Red. Kendrick's lying.
+
+640
+00:49:51,072 --> 00:49:52,864
+-You have proof?
+-I have the defendants.
+
+641
+00:49:53,032 --> 00:49:57,410
+And I have 23 Marines and a lieutenant
+with four letters of commendation.
+
+642
+00:49:57,578 --> 00:49:59,871
+-Why did Markinson go U.A.?
+-We'll never know.
+
+643
+00:50:00,039 --> 00:50:02,749
+-I can't subpoena Markinson?
+-You won't find him.
+
+644
+00:50:03,084 --> 00:50:08,296
+You know what Markinson did
+for 17 years? Counterintelligence.
+
+645
+00:50:08,464 --> 00:50:11,257
+Markinson's gone.
+There is no Markinson.
+
+646
+00:50:12,927 --> 00:50:17,430
+Look, Danny,
+Jessep's star is on the rise.
+
+647
+00:50:17,598 --> 00:50:21,393
+Division will give me room to spare him
+and the Corps any embarrassment.
+
+648
+00:50:21,560 --> 00:50:22,769
+How much room?
+
+649
+00:50:24,063 --> 00:50:27,524
+I'll knock it down to involuntary
+manslaughter. Two years.
+
+650
+00:50:27,692 --> 00:50:28,942
+No, we're going to court.
+
+651
+00:50:29,110 --> 00:50:30,944
+-No, you're not.
+-Why not?
+
+652
+00:50:31,112 --> 00:50:34,030
+Because you'll lose,
+and Danny knows it.
+
+653
+00:50:34,198 --> 00:50:37,117
+And he knows if we go to court,
+I'll have to go all the way.
+
+654
+00:50:37,284 --> 00:50:39,536
+They'll be charged
+with the whole truckload.
+
+655
+00:50:39,704 --> 00:50:42,205
+Murder, conspiracy,
+conduct unbecoming.
+
+656
+00:50:42,373 --> 00:50:47,127
+Danny's got me by the balls here,
+but not in the courtroom.
+
+657
+00:50:47,294 --> 00:50:49,087
+Danny's an awfully talented lawyer.
+
+658
+00:50:49,255 --> 00:50:54,134
+He won't see his clients go jail for life
+if they could be home in six months.
+
+659
+00:50:54,802 --> 00:51:00,056
+That's the end of this negotiation.
+I'll see you at the arraignment.
+
+660
+00:51:03,477 --> 00:51:06,104
+All right, here's the story.
+
+661
+00:51:06,272 --> 00:51:11,151
+The government's offering
+involuntary manslaughter. Two years.
+
+662
+00:51:11,318 --> 00:51:13,236
+You'll be home in six months.
+
+663
+00:51:15,990 --> 00:51:22,537
+“Wow! You're the greatest lawyer in
+the world! How can we thank you?”
+
+664
+00:51:22,747 --> 00:51:28,626
+Fellas, you hear what I just said?
+You'll be home in six months.
+
+665
+00:51:28,794 --> 00:51:30,879
+I'm afraid we can't do that, sir.
+
+666
+00:51:31,255 --> 00:51:32,297
+Do what?
+
+667
+00:51:32,506 --> 00:51:35,842
+-Make a deal, sir.
+-What are you talking about?
+
+668
+00:51:36,010 --> 00:51:38,803
+We did nothing wrong. We did our job.
+
+669
+00:51:38,971 --> 00:51:42,223
+If that has consequences,
+I'll accept them.
+
+670
+00:51:42,391 --> 00:51:44,476
+But I won't say that I'm guilty, sir.
+
+671
+00:51:46,061 --> 00:51:49,355
+-Did she put you up to this?
+-No.
+
+672
+00:51:49,523 --> 00:51:51,107
+We have a code, sir.
+
+673
+00:51:51,275 --> 00:51:56,362
+You and your code plead not guilty.
+You'll be in jail for life.
+
+674
+00:51:56,530 --> 00:52:00,492
+Do what I say,
+and you'll be home in six months.
+
+675
+00:52:01,327 --> 00:52:05,997
+Do it, Harold. Six months, it's nothing.
+It's a hockey season.
+
+676
+00:52:08,417 --> 00:52:12,212
+-Permission to--
+-Speak! Jesus!
+
+677
+00:52:14,799 --> 00:52:17,217
+-What do we do then, sir?
+-When?
+
+678
+00:52:17,384 --> 00:52:20,720
+After six months we'll be
+dishonorably discharged, right, sir?
+
+679
+00:52:20,888 --> 00:52:25,391
+-Probably.
+-What do we do then, sir?
+
+680
+00:52:28,103 --> 00:52:33,900
+We joined the Marines because
+we wanted to live by a certain code.
+
+681
+00:52:34,068 --> 00:52:39,405
+You're asking us to say we have no
+honor, that we're not Marines!
+
+682
+00:52:39,573 --> 00:52:43,868
+If a court decides what we did
+was wrong, I'll accept my punishment.
+
+683
+00:52:44,036 --> 00:52:49,749
+But I believe I was right. I did my job.
+I will not dishonor myself, my unit...
+
+684
+00:52:49,917 --> 00:52:55,046
+...or the Corps,
+so that I can go home in six months!
+
+685
+00:52:55,214 --> 00:52:57,048
+Sir!
+
+686
+00:53:03,848 --> 00:53:06,391
+I'd like to talk to
+Lance Corporal Dawson...
+
+687
+00:53:06,559 --> 00:53:08,434
+...alone for a minute, please.
+
+688
+00:53:10,104 --> 00:53:11,437
+Sergeant!
+
+689
+00:53:14,775 --> 00:53:19,153
+-We'd like to go to another room.
+-Sit down.
+
+690
+00:53:30,875 --> 00:53:32,876
+You don't like me very much,
+do you?
+
+691
+00:53:34,378 --> 00:53:38,590
+Forget it, don't answer that.
+It doesn't matter.
+
+692
+00:53:43,804 --> 00:53:48,892
+You know, Downey worships you.
+
+693
+00:53:51,145 --> 00:53:53,563
+He's gonna do whatever you do.
+
+694
+00:53:54,648 --> 00:53:59,485
+Are you really gonna let this happen
+to him because of a code, Harold?
+
+695
+00:53:59,653 --> 00:54:01,821
+-Do you think we were right?
+-Doesn't matter--
+
+696
+00:54:01,989 --> 00:54:03,406
+Do you think we were right?!
+
+697
+00:54:04,241 --> 00:54:05,992
+I think you'd lose.
+
+698
+00:54:08,120 --> 00:54:09,704
+You're such a coward.
+
+699
+00:54:09,872 --> 00:54:12,498
+I can't believe they let you
+wear a uniform.
+
+700
+00:54:15,002 --> 00:54:17,754
+I'm not gonna feel responsible for this.
+I did all I could.
+
+701
+00:54:17,922 --> 00:54:21,341
+You're going to Leavenworth
+for the better part of your life...
+
+702
+00:54:21,508 --> 00:54:24,135
+...and I don't give a shit.
+
+703
+00:54:24,303 --> 00:54:28,181
+What happened to saluting
+an officer when he leaves the room?
+
+704
+00:54:36,231 --> 00:54:37,357
+Open it up.
+
+705
+00:54:40,694 --> 00:54:45,198
+I don't believe it!
+He's gonna go to jail to spite me!
+
+706
+00:54:45,366 --> 00:54:47,533
+If he wants to jump off a cliff,
+that's his business.
+
+707
+00:54:47,701 --> 00:54:49,369
+I'm not gonna hold his hand.
+
+708
+00:54:49,536 --> 00:54:53,915
+-How do I get him a new lawyer?
+-Make a motion at the arraignment.
+
+709
+00:54:54,083 --> 00:54:58,378
+Just tell the judge
+you want new counsel assigned.
+
+710
+00:55:00,047 --> 00:55:01,381
+That's that.
+
+711
+00:55:02,091 --> 00:55:04,717
+One thing, though.
+When you ask the judge...
+
+712
+00:55:04,885 --> 00:55:06,719
+...be sure and ask nicely.
+
+713
+00:55:07,596 --> 00:55:13,559
+-What do you want from me?
+-I want you to make an argument.
+
+714
+00:55:13,727 --> 00:55:18,523
+That didn't help Calley at My Lai,
+or the Nazis at Nuremburg.
+
+715
+00:55:18,691 --> 00:55:21,901
+For chrissakes, Sam.
+Do you think that's the same...
+
+716
+00:55:22,069 --> 00:55:25,446
+...as two teenagers executing an
+order they didn't think would harm?
+
+717
+00:55:25,614 --> 00:55:27,490
+These guys aren't Nazis.
+
+718
+00:55:27,658 --> 00:55:30,576
+Don't look now,
+but you're making an argument.
+
+719
+00:55:32,246 --> 00:55:35,873
+Yeah, yeah. Tomorrow morning,
+I get them a new attorney.
+
+720
+00:55:36,041 --> 00:55:40,336
+Why are you so afraid to be a lawyer?
+You Daddy's expectations that high?
+
+721
+00:55:40,504 --> 00:55:43,756
+Please, spare me
+the psychobabble father bullshit!
+
+722
+00:55:43,924 --> 00:55:47,427
+They'll have their day in court,
+but with another lawyer.
+
+723
+00:55:47,594 --> 00:55:52,056
+Another lawyer won't be good enough.
+They need you. You know how to win.
+
+724
+00:55:52,224 --> 00:55:56,602
+You know they have a case. You walk
+away from this, you seal their fate.
+
+725
+00:55:56,770 --> 00:56:00,064
+Their fate was sealed
+the moment Santiago died.
+
+726
+00:56:00,232 --> 00:56:01,899
+Do you believe they have a case?
+
+727
+00:56:02,067 --> 00:56:04,944
+You and Dawson, you both
+live in the same dream world.
+
+728
+00:56:05,112 --> 00:56:09,157
+It doesn't matter what I believe,
+it only matters what I can prove.
+
+729
+00:56:09,324 --> 00:56:13,953
+So don't tell me what I know
+and don't know. I know the law!
+
+730
+00:56:19,126 --> 00:56:23,171
+You know nothing about the law.
+You're a used-car salesman.
+
+731
+00:56:23,338 --> 00:56:29,552
+An ambulance-chaser with a rank.
+You're nothing. Live with that.
+
+732
+00:56:35,684 --> 00:56:37,310
+So I told Duncan:
+
+733
+00:56:37,478 --> 00:56:41,481
+“If you wanna take this to court, you'll
+force me to file discovery motions...
+
+734
+00:56:41,648 --> 00:56:45,151
+...and you're gonna spend a year
+going blind on paperwork...
+
+735
+00:56:45,319 --> 00:56:48,488
+...because a 90-year-old man
+misread the Delaware insurance code.”
+
+736
+00:56:48,655 --> 00:56:53,951
+-So, what happened?
+-Fifteen minutes later, he makes a deal.
+
+737
+00:57:40,124 --> 00:57:42,333
+All rise.
+
+738
+00:57:49,091 --> 00:57:55,346
+-Where are we?
+-Docket number 411275 VR-5.
+
+739
+00:57:55,514 --> 00:57:58,099
+The United States v.
+Lance Corporal Harold Dawson...
+
+740
+00:57:58,267 --> 00:58:00,476
+...and Private First Class
+Louden Downey.
+
+741
+00:58:00,644 --> 00:58:03,896
+The accused are charged with murder,
+conspiracy to commit murder...
+
+742
+00:58:04,064 --> 00:58:06,315
+...and conduct unbecoming
+a United States Marine.
+
+743
+00:58:06,483 --> 00:58:08,526
+Does the defense
+wish to enter a plea?
+
+744
+00:58:10,279 --> 00:58:11,737
+Yeah.
+
+745
+00:58:15,492 --> 00:58:16,826
+They're not guilty.
+
+746
+00:58:20,080 --> 00:58:22,665
+Enter a plea of “not guilty”
+for the accused.
+
+747
+00:58:22,833 --> 00:58:29,589
+We will adjourn until 10:00, three weeks
+from today, when we will reconvene.
+
+748
+00:58:45,772 --> 00:58:49,066
+Why does a lieutenant
+with nine months' experience...
+
+749
+00:58:49,234 --> 00:58:53,487
+...and a record for plea-bargaining
+get assigned a murder case?
+
+750
+00:58:55,532 --> 00:58:59,785
+Would it be so that it never sees
+the inside of a courtroom?
+
+751
+00:59:01,038 --> 00:59:07,543
+We'll work out of my apartment.
+Jo, bring legal pads and pens.
+
+752
+00:59:07,711 --> 00:59:11,088
+Sam, get a couple desk lamps.
+I need you to start a medical profile.
+
+753
+00:59:11,256 --> 00:59:15,134
+Jo, get Dawson's, Downey's
+and Santiago's conduct reports.
+
+754
+00:59:15,302 --> 00:59:19,597
+I've only got Yoo-hoo and Cocoa Puffs,
+so if you want anything else, bring it.
+
+755
+00:59:19,765 --> 00:59:21,891
+-Okay?
+-Yeah.
+
+756
+00:59:28,065 --> 00:59:31,234
+So this is what a courtroom looks like.
+
+757
+00:59:40,869 --> 00:59:45,164
+-You speak to your friend at the NIS?
+-Yeah.
+
+758
+00:59:45,332 --> 00:59:49,669
+She said if Markinson doesn't
+want to be found, we won't find him.
+
+759
+00:59:49,836 --> 00:59:54,382
+She said I could be Markinson,
+and you wouldn't know it.
+
+760
+00:59:54,549 --> 00:59:58,594
+-Are you Markinson?
+-No.
+
+761
+00:59:58,804 --> 01:00:03,849
+I'm not Markinson.
+That's two down.
+
+762
+01:00:05,769 --> 01:00:07,770
+What?
+
+763
+01:00:08,438 --> 01:00:11,941
+I'm just wondering,
+now that Joanne's on this...
+
+764
+01:00:12,442 --> 01:00:14,819
+I'm just wondering if you still need me.
+
+765
+01:00:14,987 --> 01:00:17,530
+-They were following orders, Sam.
+-An illegal order.
+
+766
+01:00:17,698 --> 01:00:19,991
+You think Dawson and Downey
+knew it was illegal?
+
+767
+01:00:20,242 --> 01:00:22,827
+It doesn't matter.
+Any decent human would have--
+
+768
+01:00:22,995 --> 01:00:25,705
+They're not permitted
+to question orders.
+
+769
+01:00:25,872 --> 01:00:30,501
+Then what's the secret?
+I give orders every day, nobody obeys!
+
+770
+01:00:30,669 --> 01:00:32,378
+We have softball and marching bands.
+
+771
+01:00:32,546 --> 01:00:36,799
+They work at a place where you have to
+wear camouflage or you might get shot.
+
+772
+01:00:44,516 --> 01:00:48,769
+I need you.
+You're better at research than I am.
+
+773
+01:00:48,937 --> 01:00:51,564
+And you know
+how to prepare a witness.
+
+774
+01:00:56,987 --> 01:01:01,741
+I've got medical reports
+and Chinese food. I say we eat first.
+
+775
+01:01:07,706 --> 01:01:09,707
+What?
+
+776
+01:01:10,876 --> 01:01:13,711
+Did you get any kung pao chicken?
+
+777
+01:01:16,340 --> 01:01:19,425
+This is our defense. Intent.
+No one can prove there was poison.
+
+778
+01:01:19,593 --> 01:01:22,720
+Code Red. They're common
+and accepted in Guantánamo Bay.
+
+779
+01:01:22,888 --> 01:01:28,351
+The order. A, Kendrick gave it,
+B, they had no choice but to follow.
+
+780
+01:01:28,518 --> 01:01:30,895
+-What about motive?
+-We're weak. They had one.
+
+781
+01:01:31,063 --> 01:01:33,105
+That doesn't make them guilty.
+
+782
+01:01:33,273 --> 01:01:36,776
+Relax. We'll deal with that later.
+For now, we start with intent.
+
+783
+01:01:36,943 --> 01:01:41,906
+We must show that Santiago could've
+died from something other than poison.
+
+784
+01:01:42,074 --> 01:01:46,452
+Jo, find out all about
+lactic acidosis.
+
+785
+01:01:46,620 --> 01:01:49,163
+This is Lt. Commander Galloway
+with the JAG Corps.
+
+786
+01:01:49,331 --> 01:01:53,125
+I've been trying to track down
+a Lt. Colonel Matthew Markinson....
+
+787
+01:01:53,293 --> 01:01:55,419
+Doctor, was there any sign
+of external damage?
+
+788
+01:01:55,587 --> 01:01:58,422
+No scrapes? No cuts?
+
+789
+01:01:58,632 --> 01:02:02,635
+Bruises? Broken bones?
+Was there any sign of violence?
+
+790
+01:02:02,803 --> 01:02:07,473
+-Other than the dead body?
+-Shit. I walk into that every time.
+
+791
+01:02:07,641 --> 01:02:12,186
+He ordered me and Dawson
+to give Willy a Code Red.
+
+792
+01:02:12,354 --> 01:02:13,979
+Answers still have to come faster.
+
+793
+01:02:14,147 --> 01:02:16,148
+This farm boy thing
+will play for a while...
+
+794
+01:02:16,316 --> 01:02:18,901
+...but in the end, it sounds like
+he's searching for it.
+
+795
+01:02:19,069 --> 01:02:25,491
+Right. And Willy is Private Santiago.
+Willy is someone with a mother.
+
+796
+01:02:26,493 --> 01:02:30,121
+They drew court members.
+Seven men, two women.
+
+797
+01:02:30,288 --> 01:02:32,248
+All experienced officers.
+
+798
+01:02:32,416 --> 01:02:35,334
+The women have no children.
+That's a bad break.
+
+799
+01:02:35,502 --> 01:02:39,547
+My father said a jury trial
+is about assigning blame.
+
+800
+01:02:39,714 --> 01:02:44,218
+Santiago's dead and he shouldn't be.
+They want to know who's to blame.
+
+801
+01:02:44,386 --> 01:02:46,804
+Ross hands them our clients,
+we hand them Kendrick.
+
+802
+01:02:46,972 --> 01:02:52,560
+This won't be won by the law,
+but by the lawyers. So, poker faces.
+
+803
+01:02:52,727 --> 01:02:57,940
+Don't flinch. If something goes wrong,
+don't hang your head or scribble.
+
+804
+01:02:58,108 --> 01:03:01,777
+Whatever happens, you have to
+look like you expected it.
+
+805
+01:03:01,945 --> 01:03:06,740
+-You pass me documents--
+-”Swiftly, and don't look overanxious.”
+
+806
+01:03:06,908 --> 01:03:09,618
+Don't wear that perfume in court,
+wrecks my concentration.
+
+807
+01:03:09,786 --> 01:03:13,414
+-Really?
+-I was talking to Sam.
+
+808
+01:03:15,041 --> 01:03:19,628
+-What time is it?
+-It's time to go home. Try to sleep.
+
+809
+01:03:19,796 --> 01:03:22,214
+-Give me a ride?
+-Sure.
+
+810
+01:03:25,427 --> 01:03:31,223
+-You're a good man, Charlie Brown.
+-I'll see you in court, counselor.
+
+811
+01:03:36,438 --> 01:03:39,899
+-Danny, I--
+-I know. We've had our differences.
+
+812
+01:03:40,066 --> 01:03:44,778
+We both said things we didn't mean.
+But you're happy I stuck with the case.
+
+813
+01:03:44,946 --> 01:03:51,076
+If you've gained some respect for me,
+well, of course I'm happy about that.
+
+814
+01:03:51,244 --> 01:03:55,581
+But it's no big deal.
+You like me, I won't make you say it.
+
+815
+01:03:56,374 --> 01:03:59,084
+I was just gonna tell you
+to wear matching socks tomorrow.
+
+816
+01:04:01,213 --> 01:04:04,340
+Okay. Good tip.
+
+817
+01:04:05,133 --> 01:04:10,554
+-We're ready.
+-You'd better believe it.
+
+818
+01:04:19,022 --> 01:04:22,024
+We're gonna get creamed.
+
+819
+01:04:50,095 --> 01:04:52,012
+Lieutenant Kaffee.
+
+820
+01:04:52,847 --> 01:04:55,891
+You are gonna save our son,
+aren't you?
+
+821
+01:04:56,059 --> 01:04:58,060
+I'll do my best.
+
+822
+01:04:58,228 --> 01:05:02,690
+Danny, I'd like you to meet
+Ginny Miller, Louden's aunt.
+
+823
+01:05:03,525 --> 01:05:05,776
+You're Aunt Ginny?
+
+824
+01:05:07,821 --> 01:05:12,783
+-I was expecting someone older.
+-So was I.
+
+825
+01:05:17,497 --> 01:05:20,165
+-Last chance. I'll flip you for it.
+-All rise.
+
+826
+01:05:20,333 --> 01:05:21,333
+Too late.
+
+827
+01:05:30,010 --> 01:05:35,764
+All those having business with this
+court-martial, stand forward.
+
+828
+01:05:35,932 --> 01:05:39,268
+Colonel Julius Alexander Randolph
+is presiding.
+
+829
+01:05:39,436 --> 01:05:43,522
+Is the government prepared
+to make an opening statement?
+
+830
+01:05:46,610 --> 01:05:48,485
+The facts of the case are these:
+
+831
+01:05:48,653 --> 01:05:54,700
+On September 6th, the accused
+entered PFC Santiago's room.
+
+832
+01:05:54,868 --> 01:05:57,703
+They woke him up,
+tied his arms and legs...
+
+833
+01:05:57,871 --> 01:06:00,205
+...and forced a rag into his throat.
+
+834
+01:06:00,373 --> 01:06:06,045
+Minutes later, a reaction called lactic
+acidosis caused his lungs to bleed.
+
+835
+01:06:06,212 --> 01:06:11,717
+He drowned in his own blood, and
+was dead at 37 minutes past midnight.
+
+836
+01:06:11,885 --> 01:06:16,889
+These are the facts of the case,
+and they are undisputed.
+
+837
+01:06:17,057 --> 01:06:22,353
+That's right. What I've just told you
+is exactly what you will hear...
+
+838
+01:06:22,520 --> 01:06:27,107
+...from Lance Corporal Dawson
+and Private Downey.
+
+839
+01:06:27,275 --> 01:06:32,321
+Furthermore, we will also show that
+the accused soaked the rag in poison...
+
+840
+01:06:32,489 --> 01:06:37,826
+...and entered Santiago's room
+with motive and intent to kill.
+
+841
+01:06:37,994 --> 01:06:43,374
+Lieutenant Kaffee is gonna try
+and pull off a little magic act here.
+
+842
+01:06:43,541 --> 01:06:45,584
+He'll try a little misdirection.
+
+843
+01:06:46,044 --> 01:06:49,296
+He'll astonish you
+with stories of rituals.
+
+844
+01:06:49,464 --> 01:06:55,678
+Dazzle you with official-sounding
+terms like “Code Red.”
+
+845
+01:06:55,845 --> 01:06:58,806
+He might even try to cut
+into a few officers for you.
+
+846
+01:06:58,973 --> 01:07:03,727
+He'll have no evidence, none,
+but it'll be entertaining.
+
+847
+01:07:03,978 --> 01:07:05,396
+But in the end...
+
+848
+01:07:05,563 --> 01:07:10,150
+...all the magic in the world will not
+divert your attention from the fact...
+
+849
+01:07:10,318 --> 01:07:17,241
+...that Willy Santiago is dead,
+and Dawson and Downey killed him.
+
+850
+01:07:17,409 --> 01:07:21,245
+These are the facts of the case,
+and they are undisputed.
+
+851
+01:07:22,372 --> 01:07:24,081
+Lieutenant Kaffee.
+
+852
+01:07:24,249 --> 01:07:27,251
+There was no poison on the rag
+and there was no intent to kill...
+
+853
+01:07:27,419 --> 01:07:31,463
+...and any attempt to prove otherwise
+is futile, because it just ain't true.
+
+854
+01:07:32,048 --> 01:07:35,300
+Dawson and Downey didn't go
+into Santiago's room...
+
+855
+01:07:35,468 --> 01:07:37,678
+...because of vengeance.
+
+856
+01:07:37,887 --> 01:07:41,849
+It wasn't to kill or harm.
+And they weren't looking for kicks.
+
+857
+01:07:42,016 --> 01:07:45,310
+It's because it was what
+they were ordered to do.
+
+858
+01:07:45,895 --> 01:07:50,482
+Let me say that again.
+It's because they were ordered to do it.
+
+859
+01:07:51,109 --> 01:07:52,985
+Out in the real world,
+that means nothing.
+
+860
+01:07:53,153 --> 01:07:55,487
+And here in the Washington
+Navy Yard...
+
+861
+01:07:55,655 --> 01:07:57,281
+...doesn't mean a whole lot more.
+
+862
+01:07:57,449 --> 01:07:58,991
+But if you're a Marine...
+
+863
+01:07:59,159 --> 01:08:03,454
+...assigned to Rifle Security Company
+Windward, Guantánamo Bay, Cuba...
+
+864
+01:08:03,621 --> 01:08:06,999
+...you follow orders,
+or you pack your bags.
+
+865
+01:08:07,208 --> 01:08:12,421
+Make no mistake about it.
+Dawson and Downey are sitting here...
+
+866
+01:08:12,589 --> 01:08:15,841
+...because they did their job.
+
+867
+01:08:19,429 --> 01:08:22,514
+Is the government ready to
+call its first witness?
+
+868
+01:08:22,682 --> 01:08:26,351
+Please the court,
+government calls Mr. R.C. Mc.Guire.
+
+869
+01:08:30,857 --> 01:08:33,025
+Raise your right hand, please.
+
+870
+01:08:33,193 --> 01:08:38,864
+Do you swear to tell the truth, the whole
+truth, and nothing but the truth?
+
+871
+01:08:39,032 --> 01:08:41,408
+-I do.
+-Have a seat, please.
+
+872
+01:08:42,494 --> 01:08:45,704
+Would you state
+your full name and occupation?
+
+873
+01:08:45,872 --> 01:08:50,209
+Robert C. Mc.Guire, special agent,
+Naval Investigative Service.
+
+874
+01:08:50,376 --> 01:08:56,715
+Did you receive a letter from PFC
+Santiago on 3 September of this year?
+
+875
+01:08:56,883 --> 01:08:58,967
+-We did.
+-What did it say?
+
+876
+01:08:59,135 --> 01:09:03,847
+That a member of Santiago's unit
+had illegally fired across the fenceline.
+
+877
+01:09:04,015 --> 01:09:06,058
+Was that Marine identified in the letter?
+
+878
+01:09:06,226 --> 01:09:11,730
+No. I told Colonel Jessep that I
+would be coming down to investigate.
+
+879
+01:09:11,898 --> 01:09:13,565
+And what did you find?
+
+880
+01:09:13,733 --> 01:09:16,819
+The shift reported only one sentry
+returned his weapon...
+
+881
+01:09:16,986 --> 01:09:18,529
+...with ammo missing.
+
+882
+01:09:18,696 --> 01:09:21,990
+-Who was that?
+-Lance Corporal Harold Dawson.
+
+883
+01:09:22,158 --> 01:09:23,742
+Your Witness.
+
+884
+01:09:26,329 --> 01:09:29,665
+Mr. McGuire, have you questioned
+Dawson about the shooting?
+
+885
+01:09:29,916 --> 01:09:33,544
+Yes, he claims to have been engaged
+in some manner by the enemy.
+
+886
+01:09:33,711 --> 01:09:35,963
+-But you don't believe him?
+-It's not my place--
+
+887
+01:09:36,130 --> 01:09:41,009
+Why wasn't Dawson charged with
+firing at the enemy without cause?
+
+888
+01:09:42,804 --> 01:09:45,681
+There wasn't enough evidence
+to support such a charge.
+
+889
+01:09:45,849 --> 01:09:47,474
+Thank you.
+
+890
+01:09:48,893 --> 01:09:55,941
+Why was there not enough evidence?
+You had William Santiago's letter.
+
+891
+01:09:57,110 --> 01:10:02,614
+Santiago was the only eyewitness.
+I had no chance to interview him.
+
+892
+01:10:02,782 --> 01:10:05,784
+And now we'll never know,
+will we, Mr. McGuire?
+
+893
+01:10:06,536 --> 01:10:07,995
+No.
+
+894
+01:10:09,414 --> 01:10:13,584
+-No more questions.
+-The witness is excused.
+
+895
+01:10:16,504 --> 01:10:18,964
+Corporal Carl Hammaker,
+Marine barracks...
+
+896
+01:10:19,132 --> 01:10:22,467
+...Rifle Security Company Windward,
+2nd Platoon Bravo.
+
+897
+01:10:22,635 --> 01:10:24,970
+Were you present at a meeting...
+
+898
+01:10:25,138 --> 01:10:29,433
+...held by Lieutenant Kendrick
+on September 6th?
+
+899
+01:10:29,601 --> 01:10:33,478
+-Yes, sir.
+-What was the substance of it?
+
+900
+01:10:33,646 --> 01:10:36,690
+Lieutenant Kendrick told us
+we had an informer in our group.
+
+901
+01:10:36,858 --> 01:10:42,487
+That Santiago had reported to
+the NIS on a member of our platoon.
+
+902
+01:10:42,655 --> 01:10:44,865
+Did that make you mad?
+
+903
+01:10:45,033 --> 01:10:48,327
+-You can tell the truth. Did it?
+-Yes, sir.
+
+904
+01:10:48,494 --> 01:10:49,661
+How mad?
+
+905
+01:10:49,829 --> 01:10:53,582
+Santiago betrayed a code
+we believe in.
+
+906
+01:10:53,750 --> 01:10:56,376
+-Were other men also angry?
+-Object. Speculation.
+
+907
+01:10:56,628 --> 01:10:58,211
+Were Dawson and Downey?
+
+908
+01:10:58,463 --> 01:11:00,714
+Is the counsel asking this witness
+to testify...
+
+909
+01:11:00,882 --> 01:11:03,508
+...as to how my clients felt
+on Sept. 6th?
+
+910
+01:11:03,927 --> 01:11:05,510
+Sustained.
+
+911
+01:11:07,388 --> 01:11:11,350
+Did Lieutenant Kendrick leave
+a standing order at that meeting?
+
+912
+01:11:11,517 --> 01:11:13,769
+-Yes, sir.
+-What was it?
+
+913
+01:11:15,897 --> 01:11:19,316
+It was clear he didn't want us
+taking matters into our own hands.
+
+914
+01:11:19,484 --> 01:11:26,198
+-What was the order?
+-Santiago wasn't to be touched.
+
+915
+01:11:27,617 --> 01:11:30,452
+Your witness.
+
+916
+01:11:30,620 --> 01:11:34,373
+Were you in Dawson and Downey's
+room five minutes later?
+
+917
+01:11:34,540 --> 01:11:35,874
+No, sir.
+
+918
+01:11:36,250 --> 01:11:40,879
+-Thanks. No more questions.
+-The witness is excused.
+
+919
+01:11:44,842 --> 01:11:47,260
+Government calls
+Corporal Raymond Thomas.
+
+920
+01:11:47,428 --> 01:11:52,933
+Captain Ross is planning to call all
+the members of the platoon to testify.
+
+921
+01:11:53,101 --> 01:11:55,477
+In light of the defense
+Kaffee is planning...
+
+922
+01:11:55,645 --> 01:11:59,314
+...the platoon leader's instructions
+seems relevant testimony.
+
+923
+01:11:59,482 --> 01:12:04,069
+The defense concedes that all 22
+will confirm Hammaker's account...
+
+924
+01:12:04,237 --> 01:12:06,488
+...if the government concedes
+none of them...
+
+925
+01:12:06,656 --> 01:12:10,409
+...were in Dawson and Downey's room
+at 1620.
+
+926
+01:12:10,576 --> 01:12:14,913
+-Captain?
+-The government will stipulate.
+
+927
+01:12:15,081 --> 01:12:19,001
+Then we will adjourn. You can
+call your next witness tomorrow.
+
+928
+01:12:19,168 --> 01:12:20,919
+All rise.
+
+929
+01:12:32,598 --> 01:12:35,308
+-Let's go over the doctor again.
+-It's the right approach.
+
+930
+01:12:35,560 --> 01:12:37,352
+We've been over this already.
+
+931
+01:12:37,520 --> 01:12:41,231
+At 3:00, Stone says he doesn't know
+what killed Santiago.
+
+932
+01:12:41,399 --> 01:12:46,111
+Then he meets with Jessep, and at
+5:00 he says it was poison? He's lying.
+
+933
+01:12:46,279 --> 01:12:47,362
+That's a relief.
+
+934
+01:12:47,530 --> 01:12:50,991
+I was afraid I couldn't use
+the “liar, liar, pants on fire” defense.
+
+935
+01:12:51,159 --> 01:12:57,414
+We can't prove coercion.
+Let's go over what we have.
+
+936
+01:13:06,049 --> 01:13:09,634
+Private Santiago was
+admitted to the ER at 00:12...
+
+937
+01:13:09,802 --> 01:13:13,680
+...and he was pronounced dead
+at 00:37.
+
+938
+01:13:13,848 --> 01:13:17,142
+Dr. Stone, what is lactic acidosis?
+
+939
+01:13:17,310 --> 01:13:20,896
+If the muscles and other cells
+burn sugar instead of oxygen...
+
+940
+01:13:21,064 --> 01:13:22,564
+...lactic acid is produced.
+
+941
+01:13:22,732 --> 01:13:26,151
+That lactic acid is what caused
+Santiago's lungs to bleed.
+
+942
+01:13:26,319 --> 01:13:31,656
+How long does it take before
+the muscles start burning sugar?
+
+943
+01:13:32,533 --> 01:13:38,121
+-Twenty to 30 minutes.
+-What made it faster with Santiago?
+
+944
+01:13:38,289 --> 01:13:43,502
+-An ingested poison of some kind.
+-Object. The witness is speculating.
+
+945
+01:13:43,669 --> 01:13:45,378
+He is an expert medical witness.
+
+946
+01:13:45,546 --> 01:13:48,173
+In this court,
+his opinion is not speculation.
+
+947
+01:13:48,341 --> 01:13:53,845
+He is not a criminologist.
+The medical facts are inconclusive.
+
+948
+01:13:54,013 --> 01:13:57,682
+A point I'm confident you'll illustrate
+on your cross-examination.
+
+949
+01:13:57,850 --> 01:14:00,852
+So I'm sure you won't mind
+if his opinion is admitted now?
+
+950
+01:14:01,437 --> 01:14:03,522
+Not at all, sir.
+
+951
+01:14:05,066 --> 01:14:11,154
+-Did Willy Santiago die of poisoning?
+-Absolutely.
+
+952
+01:14:11,322 --> 01:14:15,325
+You're aware that the lab and coroner's
+reports show no traces of poison?
+
+953
+01:14:15,493 --> 01:14:17,953
+-Yes, I am.
+-Then how do you justify--?
+
+954
+01:14:18,121 --> 01:14:23,583
+There are literally dozens of toxins
+which are virtually undetectable.
+
+955
+01:14:23,751 --> 01:14:27,462
+The nature of the acidosis
+is the compelling factor here.
+
+956
+01:14:28,047 --> 01:14:30,173
+Thank you, sir.
+
+957
+01:14:32,260 --> 01:14:36,888
+Commander, is it possible for a person
+to have an affliction, some condition...
+
+958
+01:14:37,056 --> 01:14:39,891
+...which might also speed up acidosis?
+
+959
+01:14:42,728 --> 01:14:46,481
+-Is it possible?
+-It's possible.
+
+960
+01:14:46,649 --> 01:14:50,110
+What might
+some of those conditions be?
+
+961
+01:14:50,278 --> 01:14:53,405
+If a person had a coronary
+or cerebral disorder...
+
+962
+01:14:53,573 --> 01:14:55,657
+...the process would be more rapid.
+
+963
+01:14:55,825 --> 01:14:57,909
+If I had a coronary condition...
+
+964
+01:14:58,077 --> 01:15:01,663
+...and a perfectly clean rag was placed
+in my mouth and pushed too far...
+
+965
+01:15:01,831 --> 01:15:04,749
+...is it possible my cells would continue
+burning sugar...
+
+966
+01:15:04,917 --> 01:15:06,418
+...after the rag was taken out?
+
+967
+01:15:06,919 --> 01:15:09,379
+It would have to be
+a very serious condition.
+
+968
+01:15:09,547 --> 01:15:11,673
+Is it possible to have
+a serious condition...
+
+969
+01:15:11,841 --> 01:15:13,800
+...where initial symptoms
+were so mild...
+
+970
+01:15:13,968 --> 01:15:18,221
+...as to escape a physician
+during a routine medical exam?
+
+971
+01:15:18,389 --> 01:15:21,099
+Possibly.
+There would still be symptoms.
+
+972
+01:15:21,267 --> 01:15:22,601
+What kind of symptoms?
+
+973
+01:15:23,019 --> 01:15:25,228
+-There are hundreds of--
+-Chest pains?
+
+974
+01:15:25,396 --> 01:15:28,607
+-Yes. Yes.
+-Shortness of breath? Fatigue?
+
+975
+01:15:29,066 --> 01:15:30,442
+Of course.
+
+976
+01:15:36,240 --> 01:15:40,744
+-Doctor, is this your signature?
+-Yes, it is.
+
+977
+01:15:41,287 --> 01:15:45,123
+This is an order for Private Santiago
+to be put on restricted duty.
+
+978
+01:15:45,291 --> 01:15:49,127
+Would you read your handwritten
+remarks at the bottom of the page?
+
+979
+01:15:49,295 --> 01:15:55,634
+“Patient complains of chest pains,
+shortness of breath, and fatigue.
+
+980
+01:15:55,801 --> 01:16:00,138
+Restricted from running distances
+over five miles for one week.”
+
+981
+01:16:02,308 --> 01:16:05,644
+Isn't it possible Santiago had
+a serious coronary condition...
+
+982
+01:16:05,811 --> 01:16:08,313
+...and it was that condition,
+not poison...
+
+983
+01:16:08,481 --> 01:16:10,815
+...that caused
+the rapid chemical reaction?
+
+984
+01:16:10,983 --> 01:16:14,152
+-No.
+-It's not possible?
+
+985
+01:16:14,654 --> 01:16:19,157
+No. I personally give each man
+a thorough physical examination.
+
+986
+01:16:19,325 --> 01:16:22,327
+Private Santiago was given
+a clean bill of health.
+
+987
+01:16:22,495 --> 01:16:24,829
+That's why it had to be poison, right?
+
+988
+01:16:24,997 --> 01:16:27,791
+Because if you gave a man
+with a serious condition...
+
+989
+01:16:27,959 --> 01:16:31,670
+...a clean bill of health and he died
+from a heart-related incident...
+
+990
+01:16:31,837 --> 01:16:33,755
+...you'd have a lot to answer for.
+
+991
+01:16:33,923 --> 01:16:36,800
+-Object! Move to strike!
+-Sustained.
+
+992
+01:16:38,052 --> 01:16:41,179
+I have no more questions, Your Honor.
+
+993
+01:16:41,347 --> 01:16:44,683
+You've held a license
+to practice medicine for 17 years.
+
+994
+01:16:44,850 --> 01:16:48,478
+You're certified in internal medicine,
+you're chief of internal medicine...
+
+995
+01:16:48,646 --> 01:16:52,691
+...at a hospital which has served
+5426 people.
+
+996
+01:16:52,858 --> 01:16:57,654
+In your professional opinion,
+was Willy Santiago poisoned?
+
+997
+01:16:57,822 --> 01:17:02,575
+We ask that the doctor's testimony
+be stricken from the record.
+
+998
+01:17:02,743 --> 01:17:08,373
+-The court should disregard it.
+-The objection's overruled.
+
+999
+01:17:08,541 --> 01:17:13,420
+We strenuously object,
+and requests an 802 conference...
+
+1000
+01:17:13,587 --> 01:17:16,798
+...so His Honor can hear discussion
+before ruling on this objection.
+
+1001
+01:17:16,966 --> 01:17:21,636
+-The objection has been overruled.
+-Move to reconsider.
+
+1002
+01:17:21,804 --> 01:17:27,058
+Noted. The witness is an expert,
+and the court will hear his opinion!
+
+1003
+01:17:31,480 --> 01:17:39,029
+In your expert professional opinion,
+was Willy Santiago poisoned?
+
+1004
+01:17:39,989 --> 01:17:44,868
+-Yes.
+-Thank you, sir. No more questions.
+
+1005
+01:17:45,119 --> 01:17:47,370
+You may step down.
+
+1006
+01:17:51,083 --> 01:17:57,380
+While we reserve the right to call
+rebuttal witnesses, government rests.
+
+1007
+01:17:57,548 --> 01:18:00,050
+We'll recess until Monday the 19th...
+
+1008
+01:18:00,217 --> 01:18:04,596
+...when the defense
+will call its first witness.
+
+1009
+01:18:05,139 --> 01:18:07,265
+All rise.
+
+1010
+01:18:15,816 --> 01:18:21,071
+“I strenuously object”?
+Is that how it works?
+
+1011
+01:18:21,238 --> 01:18:25,283
+“Objection.” “Overruled!”
+“No, I strenuously object!”
+
+1012
+01:18:25,451 --> 01:18:29,454
+-”Oh, then I'll reconsider!”
+-I got it on the record.
+
+1013
+01:18:29,622 --> 01:18:32,082
+You got the court thinking
+we're afraid of the doctor.
+
+1014
+01:18:32,249 --> 01:18:34,793
+You object once, so we can say
+he's not a criminologist.
+
+1015
+01:18:35,002 --> 01:18:38,296
+You keep after it, our cross looks like
+a bunch of fancy lawyer tricks.
+
+1016
+01:18:38,547 --> 01:18:41,716
+It's the difference between
+paper law and trial law!
+
+1017
+01:18:41,967 --> 01:18:45,387
+-The judge called him an expert!
+-Sam, she made a mistake.
+
+1018
+01:18:45,554 --> 01:18:47,222
+Let's not relive it.
+
+1019
+01:18:48,974 --> 01:18:53,436
+I'm gonna go call my wife.
+I'll see you tonight.
+
+1020
+01:18:54,814 --> 01:18:59,401
+-Why do you hate them so much?
+-They beat up on a weakling.
+
+1021
+01:18:59,568 --> 01:19:02,654
+The rest is this just
+smoke-filled-coffeehouse crap.
+
+1022
+01:19:02,822 --> 01:19:05,907
+They tortured and tormented
+a weaker kid!
+
+1023
+01:19:06,075 --> 01:19:08,743
+They didn't like him, so they killed him.
+Why?
+
+1024
+01:19:08,911 --> 01:19:10,954
+Because he couldn't run very fast!
+
+1025
+01:19:11,122 --> 01:19:16,668
+-Everybody take the night off.
+-I'm sorry...
+
+1026
+01:19:16,836 --> 01:19:23,007
+We've been working 20 hours a day.
+Go see your wife and daughter.
+
+1027
+01:19:23,175 --> 01:19:30,181
+Jo, go do.... Whatever it is you do
+when you're not here.
+
+1028
+01:19:30,433 --> 01:19:32,767
+-What day is tomorrow?
+-Saturday.
+
+1029
+01:19:32,935 --> 01:19:34,936
+We'll start at 10.
+
+1030
+01:19:38,941 --> 01:19:42,026
+Why do you like them so much?
+
+1031
+01:19:45,489 --> 01:19:49,617
+Because they stand on a wall and say,
+“Nothing's gonna hurt you tonight.
+
+1032
+01:19:49,785 --> 01:19:51,661
+Not on my watch.”
+
+1033
+01:19:56,750 --> 01:20:01,171
+Don't worry about the doctor.
+This trial starts Monday.
+
+1034
+01:20:28,782 --> 01:20:32,076
+I'm sorry to bother you.
+I should have called first.
+
+1035
+01:20:32,244 --> 01:20:37,624
+No, I was just watching the ball game.
+Come on in.
+
+1036
+01:20:51,347 --> 01:20:56,893
+I was wondering how you'd feel
+if I took you to dinner tonight?
+
+1037
+01:20:57,061 --> 01:20:59,938
+-Are you asking me out on a date?
+-No.
+
+1038
+01:21:00,105 --> 01:21:02,065
+-It sounded like you were.
+-I wasn't.
+
+1039
+01:21:02,233 --> 01:21:05,109
+I've been asked out before,
+and that's what it sounded like.
+
+1040
+01:21:06,237 --> 01:21:09,280
+Do you like seafood?
+I know a good seafood place.
+
+1041
+01:21:09,448 --> 01:21:10,949
+Okay.
+
+1042
+01:21:17,456 --> 01:21:20,625
+My third case was a “drunk
+and disorderly”. It lasted nine weeks.
+
+1043
+01:21:20,793 --> 01:21:23,461
+I rounded up 31 people
+from the bar that night.
+
+1044
+01:21:23,629 --> 01:21:26,965
+Nine weeks on a D and D?
+What was the prosecutor offering?
+
+1045
+01:21:27,132 --> 01:21:29,592
+Fifteen days.
+
+1046
+01:21:31,428 --> 01:21:33,429
+You sure hustled the shit out of him.
+
+1047
+01:21:33,597 --> 01:21:35,723
+After that, I got shifted
+to Internal Affairs.
+
+1048
+01:21:35,891 --> 01:21:36,891
+Tough to blame them.
+
+1049
+01:21:37,059 --> 01:21:41,729
+Where I have earned two medals
+and two letters of commendation.
+
+1050
+01:21:42,147 --> 01:21:44,816
+Why are you always
+giving me your résumé?
+
+1051
+01:21:48,821 --> 01:21:52,740
+-I want you to think I'm a good lawyer.
+-I do.
+
+1052
+01:21:52,992 --> 01:21:54,993
+No, you don't.
+
+1053
+01:21:58,539 --> 01:22:06,129
+I think you're an exceptional lawyer.
+The court members respond to you.
+
+1054
+01:22:06,297 --> 01:22:11,509
+I see you convince them. Dawson
+and Downey will owe you their lives.
+
+1055
+01:22:15,222 --> 01:22:17,890
+Jo, I think....
+
+1056
+01:22:18,809 --> 01:22:22,478
+I think you should prepare yourself
+for the fact we're gonna lose.
+
+1057
+01:22:22,688 --> 01:22:26,024
+Ross's opening statement was all true.
+
+1058
+01:22:26,191 --> 01:22:28,693
+Let's pretend it would matter
+to the court...
+
+1059
+01:22:28,861 --> 01:22:30,945
+...that the guys were given an order.
+
+1060
+01:22:31,113 --> 01:22:33,615
+I can't prove it ever happened.
+
+1061
+01:22:33,782 --> 01:22:36,284
+We'll keep doing what we're doing
+and put on a show...
+
+1062
+01:22:36,452 --> 01:22:41,664
+...but all we have is the testimony of
+two people accused of murder.
+
+1063
+01:22:42,916 --> 01:22:49,464
+-We'll find Markinson.
+-Jo, we're gonna lose, and lose huge.
+
+1064
+01:22:52,801 --> 01:22:57,889
+Corporal Barnes, Windward Barracks,
+Guantánamo Bay, Cuba.
+
+1065
+01:22:58,057 --> 01:23:02,352
+Name some reasons why a Marine
+would receive a Code Red.
+
+1066
+01:23:02,519 --> 01:23:05,688
+Being late for platoon
+or company meetings...
+
+1067
+01:23:05,856 --> 01:23:09,817
+...keeping barracks in disorder,
+falling back on a run....
+
+1068
+01:23:09,985 --> 01:23:12,362
+-Have you ever received a Code Red?
+-Yes, sir.
+
+1069
+01:23:12,529 --> 01:23:15,990
+I dropped my weapon in a drill.
+
+1070
+01:23:16,158 --> 01:23:23,081
+It was over 100 degrees. My palms
+were sweaty and I hadn't used resin.
+
+1071
+01:23:23,248 --> 01:23:28,002
+-What happened?
+-The guys threw a blanket over me.
+
+1072
+01:23:28,170 --> 01:23:33,466
+They punched me on the arms
+and poured glue on my hands.
+
+1073
+01:23:33,634 --> 01:23:38,596
+And it worked.
+I ain't never dropped my weapon since.
+
+1074
+01:23:38,847 --> 01:23:42,517
+-Was Private Santiago ever late?
+-Yes, sir.
+
+1075
+01:23:42,685 --> 01:23:45,395
+-Was his barracks ever in disorder?
+-Yes, sir.
+
+1076
+01:23:45,562 --> 01:23:47,980
+-Did he ever fall back on a run?
+-All the time.
+
+1077
+01:23:48,148 --> 01:23:53,277
+Did he ever, prior to September 6th,
+receive a Code Red?
+
+1078
+01:23:53,445 --> 01:23:54,737
+No, sir.
+
+1079
+01:23:54,947 --> 01:23:56,864
+-Never?
+-No, sir.
+
+1080
+01:23:58,492 --> 01:24:00,952
+You got a Code Red because
+your palms were sweaty.
+
+1081
+01:24:01,120 --> 01:24:04,789
+Why didn't Santiago,
+this burden to his unit, ever get one?
+
+1082
+01:24:06,625 --> 01:24:11,713
+-Dawson wouldn't allow it, sir.
+-Dawson wouldn't allow it.
+
+1083
+01:24:11,880 --> 01:24:17,468
+The guys talked tough about Santiago,
+but they were too afraid of Dawson.
+
+1084
+01:24:17,636 --> 01:24:19,971
+Object. Witness is speculating.
+
+1085
+01:24:20,139 --> 01:24:23,307
+Did you want to give Santiago
+a Code Red?
+
+1086
+01:24:23,475 --> 01:24:24,559
+Yes, sir.
+
+1087
+01:24:24,727 --> 01:24:28,646
+-Why didn't you?
+-Because Dawson would kick my butt.
+
+1088
+01:24:28,814 --> 01:24:34,110
+Good enough. Captain Ross is gonna
+will ask you some questions.
+
+1089
+01:24:34,278 --> 01:24:36,863
+Corporal Barnes...
+
+1090
+01:24:37,030 --> 01:24:41,325
+...I hold here the Marine Recruit
+Outline. Are you familiar with it?
+
+1091
+01:24:41,493 --> 01:24:43,494
+-Have you read it? Good.
+-Yes, sir.
+
+1092
+01:24:43,662 --> 01:24:47,832
+Turn to the chapter that deals
+with Code Reds, please.
+
+1093
+01:24:48,625 --> 01:24:53,004
+-Sir?
+-Just flip to the page with Code Reds.
+
+1094
+01:24:55,090 --> 01:25:00,511
+Well, “Code Red” is a term that we use
+down at Gitmo. I don't know if it's--
+
+1095
+01:25:00,679 --> 01:25:02,930
+Oh, we're in luck, then.
+
+1096
+01:25:06,101 --> 01:25:08,770
+“Standard Operating Procedure,
+Rifle Security Company...
+
+1097
+01:25:08,937 --> 01:25:10,605
+...Guantánamo Bay, Cuba.”
+
+1098
+01:25:10,773 --> 01:25:14,484
+I assume we'll find “Code Red”
+in there?
+
+1099
+01:25:14,651 --> 01:25:16,444
+-No, sir.
+-No?
+
+1100
+01:25:16,612 --> 01:25:22,617
+I'm a Marine. Is there no book,
+no set of orders or regulations...
+
+1101
+01:25:22,785 --> 01:25:27,121
+...telling me that one of my duties
+is to perform Code Reds?
+
+1102
+01:25:27,956 --> 01:25:30,625
+No, sir. No book, sir.
+
+1103
+01:25:30,793 --> 01:25:33,461
+No further questions.
+
+1104
+01:25:34,880 --> 01:25:39,717
+Would you turn to the page that says
+where the mess hall is, please?
+
+1105
+01:25:39,885 --> 01:25:42,887
+Lieutenant Kaffee,
+that's not in the book, sir.
+
+1106
+01:25:44,556 --> 01:25:50,603
+-You mean you've never had a meal?
+-No, sir. Three squares a day, sir.
+
+1107
+01:25:51,396 --> 01:25:56,150
+I don't understand. How did you find
+the mess hall if it's not in this book?
+
+1108
+01:25:58,779 --> 01:26:05,076
+-I guess I just followed the crowd.
+-No more questions.
+
+1109
+01:26:05,244 --> 01:26:08,830
+-Corporal Barnes, you may step down.
+-Thank you, sir.
+
+1110
+01:26:14,503 --> 01:26:17,129
+Seven tonight,
+we'll do a final Kendrick review.
+
+1111
+01:26:17,297 --> 01:26:19,882
+I wanna slam-dunk this guy.
+
+1112
+01:26:31,436 --> 01:26:35,731
+-Hey, Luther.
+-Admiral! How's the big case going?
+
+1113
+01:26:35,899 --> 01:26:38,484
+-Nose to the grindstone.
+-No flies on you.
+
+1114
+01:26:38,735 --> 01:26:40,570
+Rolling stone gathers no moss.
+
+1115
+01:26:40,821 --> 01:26:43,489
+Well, it ain't over till the fat lady sings.
+
+1116
+01:26:43,657 --> 01:26:45,616
+You can say that again.
+
+1117
+01:26:46,201 --> 01:26:49,954
+-It ain't over till the fat lady sings.
+-Till the fat lady sings.
+
+1118
+01:26:50,122 --> 01:26:52,290
+I walked into that one.
+
+1119
+01:27:03,886 --> 01:27:09,307
+-Jesus Christ!
+-You left the door unlocked.
+
+1120
+01:27:09,474 --> 01:27:12,268
+-You scared the shit out of me.
+-Just keep driving.
+
+1121
+01:27:12,519 --> 01:27:14,312
+Are you aware you're under subpoena?
+
+1122
+01:27:14,479 --> 01:27:18,190
+Yes. I'm also aware the lives
+of two Marines are in your hands.
+
+1123
+01:27:18,358 --> 01:27:20,484
+If I could do something about that,
+I would.
+
+1124
+01:27:20,652 --> 01:27:22,778
+Since I can't, all I can do is help you.
+
+1125
+01:27:22,946 --> 01:27:25,239
+-What do you know?
+-I know everything.
+
+1126
+01:27:25,449 --> 01:27:27,742
+-Was it a Code Red?
+-Yes.
+
+1127
+01:27:27,993 --> 01:27:29,994
+-Did Kendrick give the order?
+-Yes.
+
+1128
+01:27:30,162 --> 01:27:32,079
+Did you witness it? Did you witness it?
+
+1129
+01:27:32,247 --> 01:27:33,664
+-No.
+-Then how do you know?
+
+1130
+01:27:33,832 --> 01:27:35,499
+-I know.
+-Yeah, you know shit.
+
+1131
+01:27:35,667 --> 01:27:37,960
+He was never gonna be transferred
+off that base.
+
+1132
+01:27:43,926 --> 01:27:47,178
+Jessep was gonna keep him on
+the base, said he wanted him “trained.”
+
+1133
+01:27:47,346 --> 01:27:49,847
+-You signed the transfer order.
+-Yeah, I know.
+
+1134
+01:27:50,015 --> 01:27:55,394
+I signed them when you got to Cuba,
+five days after Santiago's death.
+
+1135
+01:27:57,648 --> 01:28:04,570
+I'll get you immunity. In about four days
+you can tell the court what you told me.
+
+1136
+01:28:04,738 --> 01:28:08,950
+Right now I'll check you into a motel.
+We're gonna start from the beginning.
+
+1137
+01:28:09,117 --> 01:28:12,870
+I don't want a deal,
+and I don't want immunity.
+
+1138
+01:28:13,038 --> 01:28:19,293
+I'm not proud of what I have done,
+nor of what I am doing.
+
+1139
+01:28:20,587 --> 01:28:22,463
+-Where is he?
+-The Downtown Lodge.
+
+1140
+01:28:22,631 --> 01:28:24,715
+-I want him guarded.
+-That's a good idea.
+
+1141
+01:28:24,883 --> 01:28:27,385
+-My clearance code is 4115273.
+-Clearance code?
+
+1142
+01:28:28,220 --> 01:28:29,887
+I don't have a clearance code. You?
+
+1143
+01:28:30,055 --> 01:28:32,139
+It's Galloway.
+I need to secure a witness.
+
+1144
+01:28:32,307 --> 01:28:35,476
+He also said Jessep's lying about
+transportation off the base.
+
+1145
+01:28:35,644 --> 01:28:38,479
+Jessep said that 6 the next morning
+was the first flight.
+
+1146
+01:28:38,647 --> 01:28:41,899
+Markinson says there was one
+that left seven hours earlier.
+
+1147
+01:28:42,067 --> 01:28:45,027
+-That was impressive. You hear that?
+-Yeah.
+
+1148
+01:28:45,195 --> 01:28:47,738
+Sam, isn't there a record of flights?
+
+1149
+01:28:47,906 --> 01:28:50,574
+You need the tower chief's log
+from Gitmo.
+
+1150
+01:28:50,742 --> 01:28:52,368
+-Get it.
+-We're gonna win.
+
+1151
+01:28:52,536 --> 01:28:55,997
+Jo, don't get crazy. We don't
+know Markinson, or the log book.
+
+1152
+01:28:56,164 --> 01:28:59,333
+You concentrate on Downey,
+I'll talk to Ross.
+
+1153
+01:29:04,381 --> 01:29:09,635
+Hey, Danny. Nice work today.
+The redirect on Barnes.
+
+1154
+01:29:09,803 --> 01:29:14,056
+-I have Markinson.
+-Where is he?
+
+1155
+01:29:14,224 --> 01:29:18,436
+Motel room in Northeast, six marshals
+outside the door. Take a sip.
+
+1156
+01:29:18,603 --> 01:29:20,896
+The transfer Markinson signed
+is phony.
+
+1157
+01:29:21,064 --> 01:29:24,483
+And Jessep lied about the first flight.
+We're getting the log.
+
+1158
+01:29:24,651 --> 01:29:26,110
+-Can I get you something?
+-Beer.
+
+1159
+01:29:26,695 --> 01:29:29,572
+In the meantime,
+I'm gonna put Kendrick on the stand...
+
+1160
+01:29:29,740 --> 01:29:31,574
+...and have some fun.
+
+1161
+01:29:31,742 --> 01:29:36,662
+If you accuse Kendrick or Jessep
+of any crime without evidence...
+
+1162
+01:29:36,830 --> 01:29:39,457
+...you'll be court-martialled
+for misconduct...
+
+1163
+01:29:39,624 --> 01:29:44,045
+...and that's gonna be stapled to
+every job application you ever fill out.
+
+1164
+01:29:45,839 --> 01:29:49,633
+Markinson won't hold up,
+he's a crazy man.
+
+1165
+01:29:49,801 --> 01:29:52,970
+I'm not saying this to intimidate you,
+I'm being your lawyer here.
+
+1166
+01:29:53,138 --> 01:29:56,974
+Thanks. And I wanna tell you I think the
+whole fucking bunch of you are insane.
+
+1167
+01:29:57,142 --> 01:29:59,560
+This code of honor makes me
+wanna beat someone!
+
+1168
+01:29:59,728 --> 01:30:03,481
+Don't you dare lump me in
+with Kendrick and Jessep.
+
+1169
+01:30:03,648 --> 01:30:08,611
+I'm your friend. Your clients don't
+belong in jail, but it's not my decision.
+
+1170
+01:30:08,779 --> 01:30:13,157
+I represent the U.S. government
+without passion or prejudice...
+
+1171
+01:30:13,325 --> 01:30:16,243
+-...and my client has a case.
+-Here you go.
+
+1172
+01:30:20,290 --> 01:30:23,542
+I want you to acknowledge that the
+judge advocate has made you aware...
+
+1173
+01:30:23,710 --> 01:30:28,255
+...of the consequences of accusing
+a Marine officer without evidence.
+
+1174
+01:30:29,091 --> 01:30:30,966
+I've been so advised.
+
+1175
+01:30:35,222 --> 01:30:42,103
+You got bullied into that courtroom.
+By everyone. By Dawson. By Galloway.
+
+1176
+01:30:42,270 --> 01:30:44,522
+Shit, I practically dared you.
+
+1177
+01:30:45,941 --> 01:30:51,278
+You got bullied into that courtroom
+by the memory of a dead lawyer.
+
+1178
+01:30:55,450 --> 01:31:00,454
+You're a lousy fucking
+softball player, Jack!
+
+1179
+01:31:01,957 --> 01:31:07,503
+Your boys are going down, Danny.
+I can't stop it anymore.
+
+1180
+01:31:11,466 --> 01:31:16,846
+-Was Santiago a good Marine?
+-I'd say he was average.
+
+1181
+01:31:17,013 --> 01:31:23,936
+Your proficiency and conduct reports
+all indicate he was below average.
+
+1182
+01:31:27,524 --> 01:31:31,277
+Yes, he was below average.
+
+1183
+01:31:31,444 --> 01:31:34,238
+I did not see the need
+to trample on his grave.
+
+1184
+01:31:35,407 --> 01:31:37,408
+We appreciate it,
+but you're under oath.
+
+1185
+01:31:37,576 --> 01:31:40,161
+I think we'd all like to hear the truth.
+
+1186
+01:31:40,328 --> 01:31:42,079
+I'm aware of my oath.
+
+1187
+01:31:42,247 --> 01:31:44,999
+These are the last three
+pro-con reports you signed...
+
+1188
+01:31:45,167 --> 01:31:47,293
+...for Lance Corporal Dawson.
+
+1189
+01:31:47,460 --> 01:31:53,549
+He rated exceptional twice,
+but on June 9th he's below average.
+
+1190
+01:31:53,717 --> 01:31:57,595
+-I'd like to discuss that.
+-That would be fine.
+
+1191
+01:31:57,762 --> 01:32:01,348
+Dawson's ranking after
+the School of Infantry was perfect.
+
+1192
+01:32:01,516 --> 01:32:06,729
+But unlike most of his class,
+he hasn't been promoted.
+
+1193
+01:32:06,897 --> 01:32:11,775
+-Was this report the reason?
+-I'm sure it was.
+
+1194
+01:32:11,943 --> 01:32:16,238
+-Do you recall why he got this grade?
+-I'm sure I don't.
+
+1195
+01:32:16,406 --> 01:32:20,117
+I have many men in my charge.
+I write many reports.
+
+1196
+01:32:20,285 --> 01:32:25,956
+Do you recall an incident
+involving a PFC Curtis Bell...
+
+1197
+01:32:26,124 --> 01:32:28,751
+...stealing liquor
+from the officers' club?
+
+1198
+01:32:29,044 --> 01:32:30,753
+Yes, I do.
+
+1199
+01:32:30,921 --> 01:32:35,049
+Did you report Private Bell
+to the proper authorities?
+
+1200
+01:32:35,217 --> 01:32:37,259
+I have two books at my bedside:
+
+1201
+01:32:37,427 --> 01:32:40,221
+the Marine Code
+and the King James Bible.
+
+1202
+01:32:40,388 --> 01:32:45,851
+The only proper authorities I'm
+aware of are Colonel Jessep and God.
+
+1203
+01:32:47,395 --> 01:32:52,733
+Then you don't recognize this court
+as a proper authority?
+
+1204
+01:32:52,901 --> 01:32:57,780
+-Objection. Argumentative.
+-Sustained. Watch yourself.
+
+1205
+01:32:57,948 --> 01:33:03,744
+-Did you report Private Bell?
+-I thought very highly of him.
+
+1206
+01:33:03,912 --> 01:33:06,664
+I didn't want his record tarnished
+by a charge.
+
+1207
+01:33:07,749 --> 01:33:10,668
+You preferred it be handled in the unit?
+
+1208
+01:33:12,462 --> 01:33:14,338
+Yes, I most certainly did.
+
+1209
+01:33:15,382 --> 01:33:18,801
+-Do you know what a Code Red is?
+-Yes, I do.
+
+1210
+01:33:18,969 --> 01:33:22,096
+-Have you ever ordered one?
+-No, I have not.
+
+1211
+01:33:22,264 --> 01:33:28,519
+Did you order that Private Bell receive
+no food or drink except water...
+
+1212
+01:33:28,687 --> 01:33:30,771
+...for a period of seven days?
+
+1213
+01:33:30,939 --> 01:33:35,526
+You're distorting the truth.
+He was on barracks restriction.
+
+1214
+01:33:35,694 --> 01:33:42,658
+He was given water and vitamins.
+His health was never in danger.
+
+1215
+01:33:42,867 --> 01:33:48,205
+I'm sure it was lovely for him.
+But you did order the restriction.
+
+1216
+01:33:48,373 --> 01:33:52,459
+-You denied him food?
+-Yes, I did.
+
+1217
+01:33:52,627 --> 01:33:59,049
+-Wouldn't this be called a Code Red?
+-No.
+
+1218
+01:33:59,217 --> 01:34:02,845
+Would the other 478 Marines
+at Guantánamo...
+
+1219
+01:34:03,013 --> 01:34:04,555
+...consider it a Code Red?
+
+1220
+01:34:04,723 --> 01:34:09,184
+The witness can't testify as to
+what 478 other men would say.
+
+1221
+01:34:09,352 --> 01:34:15,566
+These questions are argumentative,
+and irrelevant badgering of the witness.
+
+1222
+01:34:15,734 --> 01:34:19,403
+Sustained. And I would remind you...
+
+1223
+01:34:19,571 --> 01:34:23,574
+...that you're questioning an officer
+with an impeccable service record.
+
+1224
+01:34:23,742 --> 01:34:25,326
+Thank you, Your Honor.
+
+1225
+01:34:26,202 --> 01:34:32,916
+Was Dawson rated below average
+for sneaking food to Private Bell?
+
+1226
+01:34:33,084 --> 01:34:36,420
+-Object!
+-Not so fast. Lieutenant?
+
+1227
+01:34:38,089 --> 01:34:45,220
+Dawson was given a below average
+rating for committing a crime.
+
+1228
+01:34:45,388 --> 01:34:49,558
+Crime? What crime did he commit?
+
+1229
+01:34:50,352 --> 01:34:56,523
+Lieutenant Kendrick, Dawson
+brought a hungry guy some food.
+
+1230
+01:34:56,691 --> 01:35:01,779
+-What crime did he commit?
+-He disobeyed an order.
+
+1231
+01:35:01,946 --> 01:35:07,493
+And because he made a decision about
+the welfare of a Marine...
+
+1232
+01:35:07,660 --> 01:35:11,121
+...that conflicted with your order,
+he was punished, right?
+
+1233
+01:35:11,289 --> 01:35:14,750
+Lance Corporal Dawson
+disobeyed an order!
+
+1234
+01:35:14,918 --> 01:35:19,671
+It wasn't a real order, was it?
+After all, it's peacetime.
+
+1235
+01:35:19,839 --> 01:35:22,966
+He wasn't asked
+to advance on a beachhead.
+
+1236
+01:35:23,134 --> 01:35:27,471
+Surely a Marine
+of Dawson's intelligence...
+
+1237
+01:35:27,639 --> 01:35:30,474
+...can be trusted to
+distinguish important orders...
+
+1238
+01:35:30,642 --> 01:35:34,603
+...from those that might be
+morally questionable?
+
+1239
+01:35:35,980 --> 01:35:39,775
+Lieutenant Kendrick? Can he?
+
+1240
+01:35:39,943 --> 01:35:43,404
+Can Dawson determine on his own
+which orders to follow?
+
+1241
+01:35:43,571 --> 01:35:45,155
+No, he cannot.
+
+1242
+01:35:45,323 --> 01:35:47,950
+A lesson he learned
+after the Bell incident.
+
+1243
+01:35:48,118 --> 01:35:50,452
+-I would think so.
+-You know so, don't you?
+
+1244
+01:35:50,662 --> 01:35:52,663
+-Object!
+-Sustained.
+
+1245
+01:35:55,166 --> 01:35:57,876
+Lieutenant Kendrick,
+one final question.
+
+1246
+01:35:58,878 --> 01:36:02,256
+If you had ordered Dawson
+to give Santiago a Code Red...
+
+1247
+01:36:02,424 --> 01:36:06,510
+-I ordered them not to touch him!
+-...would he dare disobey you again?
+
+1248
+01:36:06,678 --> 01:36:10,681
+-Lieutenant, don't answer that!
+-You don't have to. I'm through.
+
+1249
+01:36:11,141 --> 01:36:18,856
+Did you order Dawson and Downey
+to give Willy Santiago a Code Red?
+
+1250
+01:36:20,275 --> 01:36:24,611
+-Lieutenant Kendrick, did you--?
+-No, I did not.
+
+1251
+01:36:28,533 --> 01:36:31,410
+-What's the word?
+-Well...
+
+1252
+01:36:31,578 --> 01:36:35,038
+...I got the tower chief's log.
+Jessep's telling the truth.
+
+1253
+01:36:35,206 --> 01:36:38,375
+-Six a.m. flight was the first plane.
+-Let me see this.
+
+1254
+01:36:49,512 --> 01:36:54,141
+-Working late tonight, lieutenant?
+-Oh, yeah.
+
+1255
+01:36:56,978 --> 01:37:00,606
+There was no flight at 11:00!
+What the fuck are you trying to pull?!
+
+1256
+01:37:00,773 --> 01:37:07,779
+The first flight left at 23:00.
+It arrived at Andrews at 2 a.m.
+
+1257
+01:37:07,947 --> 01:37:11,074
+Really? Then why isn't it listed
+in the tower chief's log?
+
+1258
+01:37:13,077 --> 01:37:18,916
+-Jessep.
+-What? He fixed the logbook?
+
+1259
+01:37:19,083 --> 01:37:22,669
+Maybe he can make it so it didn't
+take off, but I can prove it landed.
+
+1260
+01:37:22,837 --> 01:37:25,297
+I'll get the logbook from Andrews.
+
+1261
+01:37:25,465 --> 01:37:30,260
+-You won't find anything.
+-He can make a flight disappear?
+
+1262
+01:37:30,887 --> 01:37:32,804
+Nathan Jessep is
+about to be appointed...
+
+1263
+01:37:32,972 --> 01:37:34,932
+...to the National Security Council.
+
+1264
+01:37:35,099 --> 01:37:38,894
+You don't get there without knowing
+how to sidestep a few landmines.
+
+1265
+01:37:39,062 --> 01:37:41,480
+He won't be able to sidestep you.
+
+1266
+01:37:42,023 --> 01:37:44,274
+You still intend
+to put me on the stand?
+
+1267
+01:37:44,442 --> 01:37:47,277
+Thursday morning. Ten o'clock.
+
+1268
+01:37:51,866 --> 01:37:55,619
+There's gotta be someone
+who can testify to the flight.
+
+1269
+01:37:55,787 --> 01:38:01,917
+This isn't TWA. You know how many
+planes take off and land every day?
+
+1270
+01:38:02,085 --> 01:38:04,920
+The ground crew isn't gonna
+remember it.
+
+1271
+01:38:05,088 --> 01:38:06,255
+Well, how do you know--
+
+1272
+01:38:06,506 --> 01:38:08,674
+Forget the flight. Forget the flight.
+
+1273
+01:38:08,925 --> 01:38:13,679
+Markinson will testify that
+the transfer was forged.
+
+1274
+01:38:13,846 --> 01:38:17,599
+That and Downey's testimony
+really ought to be enough.
+
+1275
+01:38:23,356 --> 01:38:27,317
+Why did you go into Santiago's room
+on the night of the 6th?
+
+1276
+01:38:27,485 --> 01:38:32,656
+-To give him a Code Red.
+-And why did you do that?
+
+1277
+01:38:33,241 --> 01:38:37,828
+I was ordered to
+by the platoon commander...
+
+1278
+01:38:37,996 --> 01:38:40,455
+...Lieutenant
+Jonathan James Kendrick.
+
+1279
+01:38:41,624 --> 01:38:43,667
+You're gonna do fine.
+
+1280
+01:38:45,837 --> 01:38:51,508
+-Think we can rejoin the platoon soon?
+-Absolutely.
+
+1281
+01:38:54,804 --> 01:39:00,225
+Remember the order of the questions?
+Are you sure? And use small words.
+
+1282
+01:39:00,393 --> 01:39:02,185
+-Just go slow.
+-I'm gonna go slow.
+
+1283
+01:39:02,437 --> 01:39:06,148
+Okay. And get him off
+as fast as you can.
+
+1284
+01:39:06,399 --> 01:39:08,775
+What? It's gonna be fine.
+
+1285
+01:39:11,571 --> 01:39:17,367
+Dear Mr. and Mrs. Santiago,
+l was William's executive officer.
+
+1286
+01:39:17,535 --> 01:39:20,871
+I knew your son vaguely,
+which is to say I knew his name.
+
+1287
+01:39:21,873 --> 01:39:26,793
+Soon, the trial of the two men charged
+with his death will be concluded...
+
+1288
+01:39:26,961 --> 01:39:33,342
+...and the jury will try to offer you
+an explanation as to why he's dead.
+
+1289
+01:39:33,509 --> 01:39:37,346
+For my part, I've done as much
+as I can to bring the truth to light.
+
+1290
+01:39:37,513 --> 01:39:39,222
+And the truth is this:
+
+1291
+01:39:39,390 --> 01:39:41,892
+Your son is dead for only one reason...
+
+1292
+01:39:42,268 --> 01:39:44,895
+...I wasn't strong enough to stop it.
+
+1293
+01:39:45,063 --> 01:39:49,024
+Always, Lieutenant Colonel
+Matthew Andrew Markinson...
+
+1294
+01:39:49,192 --> 01:39:50,901
+...United States Marine Corps.
+
+1295
+01:39:56,199 --> 01:39:59,826
+Private, I want you to tell us
+one last time:
+
+1296
+01:39:59,994 --> 01:40:05,916
+Why did you go to Santiago's room
+on the night of September 6th?
+
+1297
+01:40:06,084 --> 01:40:10,379
+A Code Red was ordered
+by Platoon Commander Kendrick.
+
+1298
+01:40:10,546 --> 01:40:14,424
+Thank you. Your witness.
+
+1299
+01:40:18,930 --> 01:40:22,015
+The week of 2 September,
+the switch log...
+
+1300
+01:40:22,183 --> 01:40:25,936
+...has you down at Post 39
+until 16:00. Right?
+
+1301
+01:40:26,104 --> 01:40:32,609
+-They keep that log pretty good.
+-How far is Post 39 from barracks?
+
+1302
+01:40:32,777 --> 01:40:38,990
+-It's a ways, sir. It's a hike.
+-About how far by jeep?
+
+1303
+01:40:40,576 --> 01:40:42,536
+About 10, 15 minutes, sir.
+
+1304
+01:40:42,704 --> 01:40:46,623
+-You ever had to walk it?
+-Yes, sir, that day. Friday.
+
+1305
+01:40:46,791 --> 01:40:51,712
+The pickup private-- That's what
+we call the guy that drops us off.
+
+1306
+01:40:51,879 --> 01:40:55,841
+Also because he can get the girls
+in New York City.
+
+1307
+01:40:56,008 --> 01:41:03,056
+--he got a flat tire at Post 39,
+so we had to jog back to barracks.
+
+1308
+01:41:03,224 --> 01:41:09,938
+And if it's 10 or 15 minutes by jeep,
+it must be an hour by foot, right?
+
+1309
+01:41:10,106 --> 01:41:16,027
+-We did it in 45 flat, sir.
+-Not bad.
+
+1310
+01:41:16,195 --> 01:41:22,617
+You've said your assault on Santiago
+was ordered by Lieutenant Kendrick...
+
+1311
+01:41:22,785 --> 01:41:27,622
+...in your barracks room at 16:20,
+am I right?
+
+1312
+01:41:27,790 --> 01:41:28,957
+Yes, sir.
+
+1313
+01:41:29,125 --> 01:41:34,171
+You said you weren't back
+before 16:45.
+
+1314
+01:41:34,338 --> 01:41:35,589
+Sir?
+
+1315
+01:41:35,757 --> 01:41:39,509
+If you weren't back till 16:45...
+
+1316
+01:41:39,677 --> 01:41:42,012
+...how could you be in your room
+at 16:20?
+
+1317
+01:41:42,764 --> 01:41:45,849
+Well, you see, sir,
+there was a blow-out....
+
+1318
+01:41:46,017 --> 01:41:47,851
+Did you ever actually hear...
+
+1319
+01:41:48,019 --> 01:41:49,853
+...Lieutenant Kendrick order
+a Code Red?
+
+1320
+01:41:50,021 --> 01:41:52,189
+Well, Hal said that--
+
+1321
+01:41:52,356 --> 01:41:54,274
+Did you ever actually hear...
+
+1322
+01:41:54,442 --> 01:41:57,027
+...Lieutenant Kendrick order
+a Code Red?
+
+1323
+01:41:58,070 --> 01:42:02,157
+-No, sir.
+-I'd like to request a recess.
+
+1324
+01:42:02,325 --> 01:42:06,369
+-The witness has rights!
+-He has been read his rights.
+
+1325
+01:42:06,537 --> 01:42:07,954
+The question will be repeated.
+
+1326
+01:42:08,206 --> 01:42:13,460
+Why did you go to Santiago's room?
+Did Dawson tell you to?
+
+1327
+01:42:13,628 --> 01:42:17,214
+-Don't look at him!
+-Answer the captain's question.
+
+1328
+01:42:20,551 --> 01:42:25,722
+Yes. I was given an order by
+Lance Corporal Dawson...
+
+1329
+01:42:25,890 --> 01:42:27,641
+...and I followed it.
+
+1330
+01:42:49,247 --> 01:42:52,123
+Where do you think he is?
+
+1331
+01:42:52,917 --> 01:42:56,127
+As far as Downey was concerned,
+it was an order from Kendrick.
+
+1332
+01:42:56,295 --> 01:42:59,631
+It doesn't matter that
+he didn't hear firsthand.
+
+1333
+01:43:05,137 --> 01:43:09,891
+-Danny, I'm sorry.
+-Don't worry about it.
+
+1334
+01:43:10,059 --> 01:43:13,228
+All we need to do is call
+some witnesses...
+
+1335
+01:43:13,396 --> 01:43:15,188
+...to talk about implied orders...
+
+1336
+01:43:15,356 --> 01:43:18,108
+...or call Downey back before
+we get to Dawson.
+
+1337
+01:43:18,776 --> 01:43:23,613
+Maybe we could get Dawson charged
+with the Kennedy assassination?
+
+1338
+01:43:26,784 --> 01:43:33,290
+-Are you drunk?
+-Pretty much. Yeah.
+
+1339
+01:43:34,166 --> 01:43:37,627
+I'll put on a pot of coffee.
+We've got a long night's work ahead.
+
+1340
+01:43:38,796 --> 01:43:44,259
+She's gonna make coffee?
+That's nice.
+
+1341
+01:43:48,180 --> 01:43:54,394
+Downey wasn't in his room.
+He wasn't even there.
+
+1342
+01:43:54,562 --> 01:43:59,357
+That was important information,
+don't you think?
+
+1343
+01:44:00,109 --> 01:44:04,696
+Danny, it was a setback.
+And I'm sorry.
+
+1344
+01:44:04,864 --> 01:44:08,950
+But we fix it and move on to Markinson.
+
+1345
+01:44:09,118 --> 01:44:10,619
+Markinson's dead.
+
+1346
+01:44:16,542 --> 01:44:20,879
+You really got to hand it
+to those federal marshals, boy.
+
+1347
+01:44:21,047 --> 01:44:23,423
+He didn't hang himself
+by his shoelaces...
+
+1348
+01:44:23,591 --> 01:44:27,177
+...or slash his wrists
+with a butter knife.
+
+1349
+01:44:29,388 --> 01:44:36,144
+This guy got into full dress uniform,
+drew a nickel-plated pistol...
+
+1350
+01:44:36,312 --> 01:44:38,813
+...and fired a bullet into his mouth.
+
+1351
+01:44:42,693 --> 01:44:47,322
+Anyway, since we're out of witnesses,
+I thought I'd drink a little.
+
+1352
+01:44:47,490 --> 01:44:52,535
+-I still think we can win.
+-Maybe you should drink a little.
+
+1353
+01:44:52,787 --> 01:44:57,624
+In the morning, we'll ask Randolph
+for a continuance, 24 hours.
+
+1354
+01:44:57,792 --> 01:45:00,961
+-Why would we do that?
+-To subpoena Colonel Jessep.
+
+1355
+01:45:02,046 --> 01:45:03,755
+-What?
+-Listen for a second.
+
+1356
+01:45:03,923 --> 01:45:06,675
+No! I won't listen.
+
+1357
+01:45:06,842 --> 01:45:09,427
+Your passion is compelling,
+but useless.
+
+1358
+01:45:09,595 --> 01:45:13,515
+Louden Downey
+needed a trial lawyer today.
+
+1359
+01:45:15,810 --> 01:45:20,105
+You chickenshit.
+You just want an excuse to give up.
+
+1360
+01:45:21,273 --> 01:45:23,149
+It's over.
+
+1361
+01:45:23,317 --> 01:45:25,652
+Why did you ask Jessep
+for the transfer order?
+
+1362
+01:45:25,820 --> 01:45:28,446
+-In Cuba, why did you ask him?
+-What does it matter?
+
+1363
+01:45:28,614 --> 01:45:31,199
+-I wanted the damn transfer order!
+-Bullshit!
+
+1364
+01:45:31,367 --> 01:45:34,744
+You could have gotten it by calling
+any one of a dozen departments.
+
+1365
+01:45:34,912 --> 01:45:39,582
+You didn't want the order.
+You wanted to see Jessep's reaction.
+
+1366
+01:45:39,750 --> 01:45:42,711
+You had an instinct
+and it was confirmed by Markinson.
+
+1367
+01:45:42,878 --> 01:45:45,714
+Now let's put Jessep on the stand
+and end this thing.
+
+1368
+01:45:45,881 --> 01:45:52,178
+-What possible good would that do?
+-He ordered the Code Red.
+
+1369
+01:45:52,346 --> 01:45:58,643
+He did? That's great!
+And of course, you have proof?
+
+1370
+01:45:58,811 --> 01:46:02,939
+I'm sorry, I forgot.
+You were sick that day at law school.
+
+1371
+01:46:03,107 --> 01:46:05,442
+You put him on the stand
+and get it from him.
+
+1372
+01:46:05,609 --> 01:46:09,821
+We get it from him!
+Yes, no problem. We get it from him.
+
+1373
+01:46:09,989 --> 01:46:14,200
+Colonel Jessep, isn't it true you
+ordered the Code Red on Santiago?
+
+1374
+01:46:14,368 --> 01:46:18,455
+I'm sorry, time's run out!
+What do we have for the losers, judge?
+
+1375
+01:46:18,622 --> 01:46:22,834
+“Well, for the defendants,
+it's life at exotic Fort Leavenworth!
+
+1376
+01:46:23,002 --> 01:46:28,757
+And for Defense Counsel Kaffee,
+that's right, it's a court-martial!
+
+1377
+01:46:28,924 --> 01:46:34,345
+After falsely accusing a decorated
+officer of conspiracy and perjury...
+
+1378
+01:46:34,513 --> 01:46:38,016
+...Lieutenant Kaffee will have
+a long and prosperous career...
+
+1379
+01:46:38,184 --> 01:46:43,271
+...teaching typewriter maintenance
+at a women's school!
+
+1380
+01:46:43,439 --> 01:46:49,652
+Thank you for playing Follow the
+Advice of the Galactically Stupid!”
+
+1381
+01:47:11,467 --> 01:47:14,636
+I'm sorry I lost you
+your set of steak knives.
+
+1382
+01:47:31,612 --> 01:47:35,281
+Stop cleaning up.
+
+1383
+01:47:37,201 --> 01:47:41,412
+Sam, stop cleaning up.
+
+1384
+01:47:49,004 --> 01:47:54,008
+-You want a drink?
+-Yeah.
+
+1385
+01:48:10,067 --> 01:48:13,111
+-Is your father proud of you?
+-Don't do this to yourself.
+
+1386
+01:48:13,279 --> 01:48:15,029
+I'll bet he is.
+
+1387
+01:48:15,906 --> 01:48:19,117
+I'll bet he bores the shit out of
+the neighbors and relatives.
+
+1388
+01:48:19,285 --> 01:48:21,703
+“Sam's made law review.
+
+1389
+01:48:21,871 --> 01:48:27,959
+He's got a big case he's making.
+He's making an argument.”
+
+1390
+01:48:32,381 --> 01:48:38,261
+I think my father would have enjoyed
+seeing me graduate from law school.
+
+1391
+01:48:40,222 --> 01:48:44,309
+I think he would have liked that a lot.
+
+1392
+01:48:45,394 --> 01:48:48,396
+I ever tell you I wrote a paper
+about your father in college?
+
+1393
+01:48:49,398 --> 01:48:50,899
+Yeah?
+
+1394
+01:48:51,567 --> 01:48:56,946
+-One of the best trial lawyers ever.
+-Yes, he was.
+
+1395
+01:48:57,198 --> 01:49:02,243
+But if I were Dawson and Downey,
+and had to choose you or him...
+
+1396
+01:49:02,411 --> 01:49:05,455
+...I'd choose you any day of the week,
+and twice on Sunday.
+
+1397
+01:49:06,123 --> 01:49:09,626
+You should have seen yourself
+thunder away at Kendrick.
+
+1398
+01:49:12,087 --> 01:49:16,799
+-Would you put Jessep on the stand?
+-No.
+
+1399
+01:49:17,426 --> 01:49:22,347
+Do you think my father would have?
+-With the evidence we got?
+
+1400
+01:49:22,514 --> 01:49:25,308
+Not in a million years.
+
+1401
+01:49:25,476 --> 01:49:29,020
+But here's the thing,
+and we can't get around this:
+
+1402
+01:49:29,188 --> 01:49:31,105
+Neither Lionel Kaffee nor
+Sam Weinberg...
+
+1403
+01:49:31,273 --> 01:49:36,361
+...are lead counsel for the defense
+in U.S. v. Dawson and Downey.
+
+1404
+01:49:36,528 --> 01:49:40,990
+So there's really only one question:
+What would you do?
+
+1405
+01:49:49,375 --> 01:49:53,753
+Jo. Joanne! Jo, get in the car.
+
+1406
+01:49:53,921 --> 01:49:57,298
+Joanne, please get in the car! Look....
+
+1407
+01:49:58,759 --> 01:50:02,929
+JoAnne! I apologize. I was angry.
+
+1408
+01:50:03,097 --> 01:50:05,682
+I'm sorry about what I said.
+
+1409
+01:50:05,849 --> 01:50:09,936
+I'm gonna put Jessep on the stand!
+
+1410
+01:50:28,998 --> 01:50:30,206
+What do you suggest we do?
+
+1411
+01:50:30,374 --> 01:50:32,917
+Hit Jessep with
+the phony transfer order.
+
+1412
+01:50:33,085 --> 01:50:35,378
+-Without a witness?
+-We have a witness.
+
+1413
+01:50:35,546 --> 01:50:36,546
+A dead witness.
+
+1414
+01:50:36,714 --> 01:50:39,340
+To a lesser attorney,
+that'd be a problem.
+
+1415
+01:50:39,508 --> 01:50:44,387
+Look. Last night he's swimming in
+Jack Daniel's, today he's Superman!
+
+1416
+01:50:44,555 --> 01:50:49,600
+I'm getting my second wind.
+Sit down, both of you. Good.
+
+1417
+01:50:49,768 --> 01:50:51,728
+Jessep told Kendrick to order
+the Code Red...
+
+1418
+01:50:51,895 --> 01:50:53,938
+...Kendrick did,
+our clients followed orders.
+
+1419
+01:50:54,106 --> 01:50:59,360
+The cover-up isn't our case. To win,
+Jessep has to say he gave the order.
+
+1420
+01:50:59,945 --> 01:51:03,156
+-And you can get him to say it?
+-I think he wants to say it!
+
+1421
+01:51:03,324 --> 01:51:06,451
+I think he's pissed off he's gotta hide.
+I think he wants to say...
+
+1422
+01:51:06,618 --> 01:51:09,746
+...he made a decision,
+and that's the end of it!
+
+1423
+01:51:09,913 --> 01:51:15,501
+He eats breakfast 300 yards from 4000
+Cubans that are trained to kill him.
+
+1424
+01:51:15,669 --> 01:51:17,754
+And no one tells him
+how to run his unit...
+
+1425
+01:51:17,921 --> 01:51:20,840
+...least of all the Harvard mouth
+in his faggoty white uniform.
+
+1426
+01:51:21,008 --> 01:51:25,428
+I need to shake him. I'll lead him
+right where he's dying to go.
+
+1427
+01:51:25,596 --> 01:51:28,264
+-That's it? That's the plan?
+-That's the plan.
+
+1428
+01:51:28,432 --> 01:51:30,099
+How are you going to do it?
+
+1429
+01:51:30,267 --> 01:51:33,770
+-I have no idea. I need my bat.
+-Your what?
+
+1430
+01:51:33,937 --> 01:51:36,272
+I need my bat. I think better with it.
+Where is it?
+
+1431
+01:51:36,440 --> 01:51:39,609
+-I put it in the closet.
+-You put it in the closet?
+
+1432
+01:51:39,860 --> 01:51:41,527
+I was tripping on it.
+
+1433
+01:51:41,695 --> 01:51:43,780
+Don't ever put that bat in the closet.
+
+1434
+01:51:59,171 --> 01:52:01,839
+Stay here.
+I'm going to the office for a while.
+
+1435
+01:52:04,635 --> 01:52:07,220
+He does think better with that bat.
+
+1436
+01:52:28,659 --> 01:52:32,995
+-Hello?
+-Sam, I need you to do something.
+
+1437
+01:52:36,458 --> 01:52:39,752
+-What's going on?
+-Gotta go out to Andrews.
+
+1438
+01:53:03,485 --> 01:53:07,780
+-Did Sam get the guys?
+-Yes.
+
+1439
+01:53:07,948 --> 01:53:12,243
+-Can I talk to you for a second?
+-Yeah, sure.
+
+1440
+01:53:23,297 --> 01:53:24,714
+How are you feeling?
+
+1441
+01:53:26,133 --> 01:53:30,511
+Well, I think Jessep's
+gonna have his hands full today.
+
+1442
+01:53:32,931 --> 01:53:37,310
+Listen, Danny,
+when you're out there today...
+
+1443
+01:53:37,478 --> 01:53:44,358
+...if you feel like it's not gonna happen,
+like he's not going to say it...
+
+1444
+01:53:44,526 --> 01:53:49,572
+...don't go for it.
+You could get into trouble.
+
+1445
+01:53:50,324 --> 01:53:54,660
+I'm special counsel for Internal Affairs.
+I'm telling you you could get in trouble.
+
+1446
+01:53:54,828 --> 01:54:00,958
+You're not suggesting that I
+back off a material witness?
+
+1447
+01:54:01,418 --> 01:54:04,253
+If you think you can't get him, yeah.
+
+1448
+01:54:06,632 --> 01:54:08,216
+All rise!
+
+1449
+01:54:13,305 --> 01:54:15,723
+-Where's Sam?
+-He's on his way.
+
+1450
+01:54:21,647 --> 01:54:22,897
+Call your first witness.
+
+1451
+01:54:23,065 --> 01:54:25,525
+-Where is he?
+-He'll be here. Don't worry.
+
+1452
+01:54:25,692 --> 01:54:28,444
+Lieutenant! Call your witness.
+
+1453
+01:54:35,327 --> 01:54:37,745
+Defense calls Colonel Nathan Jessep.
+
+1454
+01:54:54,346 --> 01:54:57,306
+Colonel Jessep,
+raise your right hand, please, sir.
+
+1455
+01:54:57,474 --> 01:55:04,355
+Do you swear to tell the truth, the whole
+truth, and nothing but the truth?
+
+1456
+01:55:04,648 --> 01:55:09,068
+-Yes, I do.
+-Have a seat please, sir.
+
+1457
+01:55:09,236 --> 01:55:12,488
+State your name, rank
+and current billet for the record.
+
+1458
+01:55:13,323 --> 01:55:16,867
+Colonel Jessep, Commanding Officer,
+Marine Ground Forces...
+
+1459
+01:55:17,035 --> 01:55:19,078
+...Guantánamo Bay, Cuba.
+
+1460
+01:55:19,246 --> 01:55:22,665
+-Thank you, sir.
+-He's not here.
+
+1461
+01:55:27,504 --> 01:55:31,048
+When you learned
+of Santiago's letter to the NIS...
+
+1462
+01:55:31,216 --> 01:55:34,844
+...you had a meeting with
+your two senior officers, is that right?
+
+1463
+01:55:35,012 --> 01:55:36,846
+Yes.
+
+1464
+01:55:37,014 --> 01:55:39,682
+Platoon Commander Kendrick...
+
+1465
+01:55:39,850 --> 01:55:43,561
+...and the executive officer,
+Lieutenant Colonel Markinson.
+
+1466
+01:55:44,104 --> 01:55:45,187
+Yes.
+
+1467
+01:55:45,355 --> 01:55:49,775
+And, at present,
+Markinson is dead, is that right?
+
+1468
+01:55:49,943 --> 01:55:57,366
+-What is the counselor implying?
+-Simply that Markinson is not alive.
+
+1469
+01:55:57,534 --> 01:56:01,203
+Surely Colonel Jessep
+doesn't need to confirm that.
+
+1470
+01:56:01,371 --> 01:56:06,459
+He may not be aware that Markinson
+took his own life two days ago.
+
+1471
+01:56:06,627 --> 01:56:11,422
+The witness, the court
+and now the court members are aware.
+
+1472
+01:56:11,590 --> 01:56:16,552
+We thank you for bringing it up.
+Move on, lieutenant.
+
+1473
+01:56:16,720 --> 01:56:18,387
+Yes, sir.
+
+1474
+01:56:18,555 --> 01:56:22,099
+At this meeting,
+you gave Kendrick an order, right?
+
+1475
+01:56:22,267 --> 01:56:26,479
+I told him to tell his men
+not to touch Santiago.
+
+1476
+01:56:26,813 --> 01:56:29,523
+And did you give an order
+to Markinson as well?
+
+1477
+01:56:29,691 --> 01:56:35,446
+I ordered him to have Santiago
+transferred off the base immediately.
+
+1478
+01:56:35,614 --> 01:56:40,826
+-Why?
+-I felt his life might be in danger.
+
+1479
+01:56:41,244 --> 01:56:45,581
+-Grave danger?
+-Is there another kind?
+
+1480
+01:56:48,502 --> 01:56:52,588
+This is the transfer order
+that you and Markinson co-signed...
+
+1481
+01:56:52,756 --> 01:56:56,884
+...ordering that Santiago fly out
+at 6 the next morning.
+
+1482
+01:56:57,052 --> 01:57:02,014
+-Was that the first flight off the base?
+-The 06:00 was the first flight.
+
+1483
+01:57:06,228 --> 01:57:09,271
+-You flew here today, is that right?
+-Yes.
+
+1484
+01:57:09,439 --> 01:57:14,276
+-You're wearing your dress uniform.
+-As are you, lieutenant.
+
+1485
+01:57:14,444 --> 01:57:18,989
+-Did you wear it on the plane?
+-Is this dialogue relevant to anything?
+
+1486
+01:57:19,157 --> 01:57:23,285
+We didn't have a chance to depose.
+I'd ask the court for a little latitude.
+
+1487
+01:57:23,453 --> 01:57:27,581
+-A very little latitude.
+-Colonel?
+
+1488
+01:57:27,749 --> 01:57:29,667
+I wore utilities on the plane.
+
+1489
+01:57:29,835 --> 01:57:32,795
+-You brought your dress uniform?
+-Yes.
+
+1490
+01:57:32,963 --> 01:57:35,965
+-Toothbrush, shaving kit, underwear?
+-Your Honor!
+
+1491
+01:57:36,133 --> 01:57:38,551
+Is his underwear
+a matter of national security?
+
+1492
+01:57:38,719 --> 01:57:42,138
+Gentlemen. You'd better get
+somewhere fast with this, lieutenant.
+
+1493
+01:57:42,305 --> 01:57:44,306
+Yes, sir. Colonel?
+
+1494
+01:57:45,183 --> 01:57:49,145
+I brought a change of clothes
+and some personal items.
+
+1495
+01:57:49,771 --> 01:57:51,230
+Thank you.
+
+1496
+01:57:51,398 --> 01:57:54,817
+After Dawson and Downey's arrest
+on the night of the 6th...
+
+1497
+01:57:54,985 --> 01:57:59,280
+...Santiago's barracks room was
+sealed off, and its contents inventoried.
+
+1498
+01:57:59,448 --> 01:58:04,034
+Four pairs of camouflage pants,
+three khaki shirts, three pairs of boots.
+
+1499
+01:58:04,202 --> 01:58:09,498
+-Four pairs green socks--
+-Is there a question in our future?
+
+1500
+01:58:09,833 --> 01:58:12,501
+Lieutenant, state your question.
+
+1501
+01:58:13,003 --> 01:58:15,796
+I'm wondering why
+Santiago wasn't packed.
+
+1502
+01:58:18,383 --> 01:58:21,469
+Tell you what,
+we'll get back to that one in a minute.
+
+1503
+01:58:21,636 --> 01:58:25,473
+This is a record of all phone calls
+from your base in the past 24 hours.
+
+1504
+01:58:25,640 --> 01:58:28,893
+After being subpoenaed,
+you made three calls.
+
+1505
+01:58:29,060 --> 01:58:31,520
+Do you recognize those numbers?
+
+1506
+01:58:31,688 --> 01:58:37,443
+I called Colonel Fitzhughes
+to let him know I'd be in town.
+
+1507
+01:58:37,611 --> 01:58:43,282
+The second was to arrange a meeting
+with Congressman Richman.
+
+1508
+01:58:43,450 --> 01:58:48,537
+-And the third call was to my sister.
+-Why did you make that call?
+
+1509
+01:58:48,997 --> 01:58:52,041
+-I thought she might like to have dinner.
+-Your Honor.
+
+1510
+01:58:52,209 --> 01:58:53,542
+I'll put a stop to this.
+
+1511
+01:58:53,710 --> 01:58:57,463
+These are the phone records
+from Gitmo for September 6th.
+
+1512
+01:58:57,631 --> 01:59:02,927
+And these are 14 letters
+that Santiago wrote in nine months...
+
+1513
+01:59:03,094 --> 01:59:06,347
+...requesting, begging for a transfer.
+
+1514
+01:59:06,515 --> 01:59:09,308
+Upon hearing the news
+he was getting it...
+
+1515
+01:59:09,476 --> 01:59:11,268
+...Santiago was so excited...
+
+1516
+01:59:11,436 --> 01:59:15,689
+...you know how many people
+he called? Zero! Nobody.
+
+1517
+01:59:16,107 --> 01:59:19,568
+Not one call to his parents,
+saying he was coming home.
+
+1518
+01:59:19,736 --> 01:59:23,197
+Not one call to a friend,
+saying, “Can you pick me up?”
+
+1519
+01:59:23,365 --> 01:59:29,411
+He was asleep at midnight, and
+you say he had a flight in six hours.
+
+1520
+01:59:29,579 --> 01:59:35,918
+Yet everything he owned was
+in his closet or his footlocker.
+
+1521
+01:59:36,086 --> 01:59:39,588
+You were leaving for one day,
+you packed and made three calls.
+
+1522
+01:59:39,756 --> 01:59:45,970
+Santiago was leaving
+for the rest of his life...
+
+1523
+01:59:46,137 --> 01:59:50,975
+...and he hadn't called a soul,
+and he hadn't packed a thing.
+
+1524
+01:59:54,688 --> 01:59:56,272
+Can you explain that?
+
+1525
+01:59:59,150 --> 02:00:03,863
+Fact is, there was no transfer order.
+Santiago wasn't going anywhere, right?
+
+1526
+02:00:04,030 --> 02:00:09,785
+Objection! Lieutenant Kaffee is trying to
+smear a high-ranking Marine officer...
+
+1527
+02:00:09,953 --> 02:00:12,288
+...desperately hoping to
+suggest impropriety...
+
+1528
+02:00:12,455 --> 02:00:14,331
+...and win points with the court.
+
+1529
+02:00:14,499 --> 02:00:17,585
+I recommend that
+he be reprimanded...
+
+1530
+02:00:17,752 --> 02:00:21,589
+...and the witness be excused
+with apologies.
+
+1531
+02:00:22,173 --> 02:00:28,596
+-Overruled. The objection is noted.
+-Colonel?
+
+1532
+02:00:32,684 --> 02:00:37,146
+-Is this funny, sir?
+-No, it's not. It's tragic.
+
+1533
+02:00:37,314 --> 02:00:44,153
+-Do you have an answer?
+-Absolutely. I don't have a damn clue.
+
+1534
+02:00:44,321 --> 02:00:50,659
+Maybe he was an early riser.
+Maybe he didn't have any friends.
+
+1535
+02:00:50,827 --> 02:00:54,246
+I'm an educated man,
+but I can't speak intelligently...
+
+1536
+02:00:54,414 --> 02:00:58,000
+...about the travel habits
+of William Santiago.
+
+1537
+02:00:58,168 --> 02:01:02,963
+What I do know is that he was
+set to leave the base at 06:00.
+
+1538
+02:01:03,798 --> 02:01:08,719
+Now, are these really the questions
+that I was called here to answer?
+
+1539
+02:01:08,887 --> 02:01:11,347
+Phone calls and foot lockers?
+
+1540
+02:01:11,806 --> 02:01:15,142
+Please tell me you have
+something more, lieutenant.
+
+1541
+02:01:15,352 --> 02:01:18,938
+These two Marines
+are on trial for their lives.
+
+1542
+02:01:19,105 --> 02:01:25,861
+Please tell me their lawyer hasn't
+pinned their hopes to a phone bill.
+
+1543
+02:01:26,279 --> 02:01:29,365
+Do you have any other questions
+for me, counselor?
+
+1544
+02:01:38,249 --> 02:01:40,876
+Lieutenant Kaffee?
+
+1545
+02:01:48,218 --> 02:01:52,554
+Lieutenant, do you have anything
+further for this witness?
+
+1546
+02:01:59,354 --> 02:02:04,149
+-Thanks, Danny. I love Washington.
+-Excuse me. I didn't dismiss you.
+
+1547
+02:02:05,151 --> 02:02:09,780
+I beg your pardon?
+-I'm not through with my examination.
+
+1548
+02:02:09,948 --> 02:02:11,573
+Sit down.
+
+1549
+02:02:13,410 --> 02:02:15,911
+-“Colonel.”
+-What's that?
+
+1550
+02:02:16,079 --> 02:02:20,416
+I'd appreciate if he would address me
+as “colonel” or “sir.” I've earned it.
+
+1551
+02:02:21,001 --> 02:02:24,545
+Defense counsel will address him
+“colonel” or “sir”.
+
+1552
+02:02:24,713 --> 02:02:27,756
+I don't know what the hell
+kind of unit you're running here.
+
+1553
+02:02:27,924 --> 02:02:31,510
+And the witness will address me
+as “judge” or “Your Honor.”
+
+1554
+02:02:31,678 --> 02:02:33,512
+I'm quite certain I've earned it.
+
+1555
+02:02:34,264 --> 02:02:38,225
+Take your seat, colonel.
+
+1556
+02:02:41,396 --> 02:02:45,566
+What shall we discuss now?
+My favorite color?
+
+1557
+02:02:46,568 --> 02:02:49,194
+Colonel, the 6 a.m. flight
+was the first off the base?
+
+1558
+02:02:49,362 --> 02:02:50,946
+Yes.
+
+1559
+02:02:51,114 --> 02:02:55,200
+There wasn't one seven hours earlier
+and landed at Andrews at 2 a.m.?
+
+1560
+02:02:55,368 --> 02:02:58,245
+I think we've covered this,
+haven't we?
+
+1561
+02:02:59,080 --> 02:03:04,293
+These are the tower chief's logs for
+Guantánamo Bay and Andrews.
+
+1562
+02:03:04,794 --> 02:03:10,299
+There's no flight at 11 p.m.,
+and no arrival at 2 a.m.
+
+1563
+02:03:10,467 --> 02:03:13,802
+I'd like to admit them as
+Defense Exhibits Alpha and Bravo.
+
+1564
+02:03:13,970 --> 02:03:17,389
+You're admitting evidence of a flight
+that never existed.
+
+1565
+02:03:17,557 --> 02:03:19,975
+We believe it did, sir.
+
+1566
+02:03:20,143 --> 02:03:26,148
+We call Airmen O'Malley and
+Rodriguez of Andrews Air Base.
+
+1567
+02:03:26,316 --> 02:03:33,739
+-They weren't on the list.
+-They are rebuttal witnesses.
+
+1568
+02:03:33,907 --> 02:03:36,742
+-I'll allow the witnesses.
+-This is ridiculous!
+
+1569
+02:03:37,077 --> 02:03:38,410
+Colonel, a moment ago--
+
+1570
+02:03:38,578 --> 02:03:44,333
+-Check the logs, for chrissake!
+-We'll get to that in a minute.
+
+1571
+02:03:45,418 --> 02:03:51,465
+You said you ordered Kendrick to say
+that Santiago wasn't to be touched.
+
+1572
+02:03:51,633 --> 02:03:53,092
+That's right.
+
+1573
+02:03:53,259 --> 02:03:57,763
+-He was clear on what you wanted?
+-Crystal.
+
+1574
+02:03:58,681 --> 02:04:03,018
+-Could he have ignored the order?
+-Ignored the order?
+
+1575
+02:04:03,186 --> 02:04:06,188
+-Or forgot about it?
+-No.
+
+1576
+02:04:06,356 --> 02:04:10,359
+Any chance he could have thought,
+“The old man is wrong”?
+
+1577
+02:04:10,985 --> 02:04:12,361
+No.
+
+1578
+02:04:12,529 --> 02:04:18,033
+When Lt. Kendrick talked to the men,
+any chance they ignored him?
+
+1579
+02:04:19,494 --> 02:04:23,413
+-You ever served in the infantry, son?
+-No, sir.
+
+1580
+02:04:23,581 --> 02:04:27,126
+-Ever served in a forward area?
+-No, sir.
+
+1581
+02:04:27,544 --> 02:04:32,881
+Ever put your life in another
+man's hands, and his in yours?
+
+1582
+02:04:33,049 --> 02:04:34,383
+No, sir.
+
+1583
+02:04:34,551 --> 02:04:39,096
+We follow orders, son.
+We follow orders or people die.
+
+1584
+02:04:39,264 --> 02:04:42,391
+It's that simple. Are we clear?
+
+1585
+02:04:43,101 --> 02:04:44,351
+Yes, sir.
+
+1586
+02:04:44,519 --> 02:04:48,897
+-Are we clear?
+-Crystal.
+
+1587
+02:04:50,608 --> 02:04:54,820
+Just one more question, before I call
+Airmen O'Malley and Rodriguez.
+
+1588
+02:04:56,114 --> 02:05:00,409
+If you ordered that Santiago wasn't
+to be touched...
+
+1589
+02:05:00,910 --> 02:05:04,705
+...and your orders
+are always followed...
+
+1590
+02:05:04,873 --> 02:05:09,084
+...then why would Santiago
+be in danger?
+
+1591
+02:05:10,044 --> 02:05:13,755
+Why would it be necessary
+to transfer him off the base?
+
+1592
+02:05:19,554 --> 02:05:23,849
+Santiago was a substandard Marine.
+He was being transferred--
+
+1593
+02:05:24,017 --> 02:05:27,978
+You said he was being transferred
+because he was in grave danger.
+
+1594
+02:05:28,146 --> 02:05:30,272
+-That's correct.
+-You said he was in danger.
+
+1595
+02:05:30,440 --> 02:05:32,608
+-I said, “grave danger?” You said--
+-I recall--
+
+1596
+02:05:32,775 --> 02:05:34,276
+I can have the reporter read--
+
+1597
+02:05:34,444 --> 02:05:37,362
+I know what I said!
+I don't have to have it read back--
+
+1598
+02:05:37,530 --> 02:05:41,033
+Then why the two orders? Colonel?
+
+1599
+02:05:43,161 --> 02:05:45,621
+Sometimes men take matters
+into their own hands.
+
+1600
+02:05:45,788 --> 02:05:48,707
+No, sir. You made it clear
+your men never do.
+
+1601
+02:05:48,875 --> 02:05:53,587
+Your men follow orders or people die.
+So Santiago wasn't in danger, right?
+
+1602
+02:05:53,755 --> 02:05:55,881
+You snotty little bastard.
+
+1603
+02:05:56,049 --> 02:05:59,259
+-Your Honor, I ask for a recess.
+-I'd like an answer.
+
+1604
+02:05:59,427 --> 02:06:01,220
+The court will wait for an answer.
+
+1605
+02:06:02,055 --> 02:06:07,851
+If Lt. Kendrick gave an order that
+Santiago wasn't to be touched...
+
+1606
+02:06:08,019 --> 02:06:12,272
+...why did he have to be transferred?
+Colonel?
+
+1607
+02:06:12,440 --> 02:06:16,193
+Kendrick ordered a Code Red
+because that's what you told him to do!
+
+1608
+02:06:16,361 --> 02:06:17,486
+Object!
+
+1609
+02:06:17,654 --> 02:06:23,867
+And when it went bad, you signed a
+phony transfer and doctored the logs!
+
+1610
+02:06:24,035 --> 02:06:25,702
+You coerced the doctor!
+
+1611
+02:06:25,870 --> 02:06:28,997
+Colonel Jessep,
+did you order the Code Red?
+
+1612
+02:06:29,165 --> 02:06:32,417
+-You don't have to answer that.
+-I'll answer the question.
+
+1613
+02:06:32,585 --> 02:06:34,836
+-You want answers?
+-I think I'm entitled!
+
+1614
+02:06:35,004 --> 02:06:37,256
+-You want answers?
+-I want the truth!
+
+1615
+02:06:37,423 --> 02:06:40,550
+You can't handle the truth!
+
+1616
+02:06:40,718 --> 02:06:45,013
+Son, we live in a world that has walls,
+and those walls have to be guarded.
+
+1617
+02:06:45,181 --> 02:06:49,685
+Who's gonna do it? You?
+You, Lieutenant Weinberg?
+
+1618
+02:06:49,852 --> 02:06:53,689
+I have a greater responsibility
+than you can possible fathom.
+
+1619
+02:06:53,856 --> 02:06:57,192
+You weep for Santiago
+and you curse the Marines.
+
+1620
+02:06:57,360 --> 02:07:01,196
+You have that luxury.
+The luxury of not knowing what I know:
+
+1621
+02:07:01,364 --> 02:07:05,325
+That Santiago's death, while tragic,
+probably saved lives.
+
+1622
+02:07:05,493 --> 02:07:11,290
+And my existence, while grotesque and
+incomprehensible to you, saves lives!
+
+1623
+02:07:11,457 --> 02:07:13,417
+You don't want the truth
+because deep down...
+
+1624
+02:07:13,584 --> 02:07:15,711
+...in places you don't talk about
+at parties...
+
+1625
+02:07:15,878 --> 02:07:20,590
+...you want me on that wall.
+You need me on that wall.
+
+1626
+02:07:20,758 --> 02:07:25,262
+We use words like honor,
+code, loyalty.
+
+1627
+02:07:25,430 --> 02:07:28,849
+We use them as the backbone
+of a life spent defending something.
+
+1628
+02:07:29,017 --> 02:07:31,059
+You use them as a punchline!
+
+1629
+02:07:31,227 --> 02:07:34,980
+I have neither the time nor inclination
+to explain myself...
+
+1630
+02:07:35,148 --> 02:07:39,609
+...to a man who rises and sleeps under
+the blanket of the freedom I provide...
+
+1631
+02:07:39,777 --> 02:07:42,154
+...then questions the manner
+in which I provide it!
+
+1632
+02:07:42,322 --> 02:07:45,365
+I would rather you just said “thank you”
+and went on your way.
+
+1633
+02:07:45,533 --> 02:07:49,286
+Otherwise, I suggest you pick up
+a weapon and stand a post.
+
+1634
+02:07:49,454 --> 02:07:54,249
+Either way, I don't give a damn
+what you think you are entitled to!
+
+1635
+02:07:54,417 --> 02:07:56,918
+-Did you order the Code Red?
+-I did the job--
+
+1636
+02:07:57,086 --> 02:08:00,422
+-Did you order the Code Red?
+-You're goddamn right I did!
+
+1637
+02:08:11,476 --> 02:08:14,311
+I suggest the members be dismissed...
+
+1638
+02:08:14,479 --> 02:08:17,898
+...so we can move
+to an article 39A session.
+
+1639
+02:08:18,066 --> 02:08:22,694
+-The witness has rights.
+-Captain Ross?
+
+1640
+02:08:27,241 --> 02:08:28,867
+Jack?
+
+1641
+02:08:33,873 --> 02:08:37,250
+The members of the court will retire
+until further instructed.
+
+1642
+02:08:37,960 --> 02:08:39,920
+All rise.
+
+1643
+02:08:40,463 --> 02:08:42,756
+What the hell is this?
+
+1644
+02:08:42,924 --> 02:08:46,510
+Colonel, what's going on?
+I did my job, I'd do it again.
+
+1645
+02:08:46,677 --> 02:08:51,473
+-I'm going back to my base.
+-You're not going anywhere.
+
+1646
+02:08:51,641 --> 02:08:55,936
+-MP's, guard the colonel!
+-Yes, sir.
+
+1647
+02:08:57,188 --> 02:08:59,856
+-Captain Ross.
+-What the hell is this?
+
+1648
+02:09:00,108 --> 02:09:02,484
+Colonel Jessep,
+you have the right to remain silent.
+
+1649
+02:09:02,652 --> 02:09:07,072
+I'm being charged with a crime?
+Is that what this is?
+
+1650
+02:09:07,240 --> 02:09:10,492
+I'm being charged with a crime?
+
+1651
+02:09:10,660 --> 02:09:14,704
+This is funny, that's what this is!
+This is--
+
+1652
+02:09:14,872 --> 02:09:18,166
+I'm gonna rip the eyes out of your head
+and piss in your dead skull!
+
+1653
+02:09:18,334 --> 02:09:20,252
+You fucked with the wrong Marine!
+
+1654
+02:09:20,420 --> 02:09:24,881
+Colonel Jessep,
+do you understand your rights?
+
+1655
+02:09:29,846 --> 02:09:32,472
+You fucking people.
+
+1656
+02:09:32,640 --> 02:09:35,517
+You have no idea
+how to defend a nation.
+
+1657
+02:09:36,185 --> 02:09:41,148
+All you did was weaken a country
+today, Kaffee! That's all you did.
+
+1658
+02:09:41,315 --> 02:09:46,319
+You put peoples' lives in danger.
+Sweet dreams, son.
+
+1659
+02:09:46,487 --> 02:09:48,530
+Don't call me son.
+
+1660
+02:09:48,698 --> 02:09:52,868
+I'm a lawyer, and an officer
+in the United States Navy.
+
+1661
+02:09:53,035 --> 02:09:55,871
+And you're under arrest,
+you son of a bitch.
+
+1662
+02:10:00,042 --> 02:10:02,169
+The witness is excused.
+
+1663
+02:10:24,275 --> 02:10:27,736
+All rise!
+
+1664
+02:10:36,871 --> 02:10:41,583
+-Have you reached a verdict?
+-We have, sir.
+
+1665
+02:10:52,303 --> 02:10:57,849
+Lance Corporal Dawson,
+Private First Class Downey.
+
+1666
+02:10:59,018 --> 02:11:03,271
+On the charge of murder,
+the members find the accused...
+
+1667
+02:11:03,439 --> 02:11:05,690
+...not guilty.
+
+1668
+02:11:06,442 --> 02:11:10,320
+On the charge of
+conspiracy to commit murder...
+
+1669
+02:11:10,488 --> 02:11:15,742
+...the members find the accused
+not guilty.
+
+1670
+02:11:16,619 --> 02:11:20,747
+On the charge of conduct
+unbecoming a United States Marine...
+
+1671
+02:11:20,915 --> 02:11:26,836
+...the members find the accused
+guilty as charged.
+
+1672
+02:11:28,214 --> 02:11:31,466
+The accused are sentenced
+to time already served...
+
+1673
+02:11:31,634 --> 02:11:36,429
+...and are ordered to be dishonorably
+discharged from the Marine Corps.
+
+1674
+02:11:37,682 --> 02:11:40,058
+This court-martial is adjourned.
+
+1675
+02:11:40,226 --> 02:11:41,893
+All rise.
+
+1676
+02:11:57,493 --> 02:11:59,995
+What did that mean?
+
+1677
+02:12:01,789 --> 02:12:04,624
+Hal?
+
+1678
+02:12:04,792 --> 02:12:07,836
+What did that mean?
+
+1679
+02:12:09,964 --> 02:12:15,010
+I don't understand. Colonel Jessep said
+he ordered the Code Red.
+
+1680
+02:12:15,177 --> 02:12:19,431
+-He ordered it. What did we do wrong?
+-It's not that simple.
+
+1681
+02:12:19,599 --> 02:12:23,351
+-We did nothing wrong!
+-Yeah, we did.
+
+1682
+02:12:26,439 --> 02:12:31,359
+We were supposed to fight for people
+who couldn't fight for themselves.
+
+1683
+02:12:31,527 --> 02:12:34,154
+We were supposed to fight for Willy.
+
+1684
+02:12:40,536 --> 02:12:46,458
+Lieutenant Kaffee, I have to
+take these men for some paperwork.
+
+1685
+02:12:55,426 --> 02:12:58,386
+Harold?
+
+1686
+02:13:00,514 --> 02:13:03,350
+Sir?
+
+1687
+02:13:03,517 --> 02:13:06,061
+You don't need a patch on your arm
+to have honor.
+
+1688
+02:13:09,774 --> 02:13:14,736
+Ten-hut! There's an officer on deck.
+
+1689
+02:13:39,553 --> 02:13:44,891
+O'Malley and Rodriguez,
+what exactly could they testify to?
+
+1690
+02:13:45,059 --> 02:13:50,188
+Probably that they had absolutely
+no recollection of anything.
+
+1691
+02:13:50,356 --> 02:13:55,193
+-Strong witnesses.
+-And handsome too, didn't you think?
+
+1692
+02:13:55,361 --> 02:13:57,904
+I'll see you around.
+I gotta go arrest Kendrick.
+
+1693
+02:13:58,072 --> 02:14:00,532
+Tell him I say hi.
+
+1694
+02:14:00,700 --> 02:14:04,786
+Will do.
+
+1695
+02:14:04,830 --> 02:14:33,916
+<font face="Monotype Corsiva" color=#808080"> © anoXmous </ font>
+<font face="Monotype Corsiva" color=#D900D9"> @ https://thepiratebay.se/user/anoXmous </font>

@@ -1,0 +1,942 @@
+IMDB ID,Start Timestamp,End Timestamp,Dialogue
+tt0117060,"00:00:23,649","00:00:24,929",<i>It was good...</i>
+tt0117060,"00:00:28,112","00:00:29,821",<i>that you called us.</i>
+tt0117060,"00:00:31,950","00:00:34,867",<i>I don't know what happened.</i>
+tt0117060,"00:00:36,454","00:00:37,865",<i>We were at the bar...</i>
+tt0117060,"00:00:40,085","00:00:41,116",<i>drinking...</i>
+tt0117060,"00:00:42,463","00:00:43,957",<i>having fun...</i>
+tt0117060,"00:00:45,048","00:00:46,673",<i>I don't even know...</i>
+tt0117060,"00:00:47,843","00:00:50,335",<i>how I got here.</i>
+tt0117060,"00:00:52,223","00:00:54,976",Come on. She's been under too long.
+tt0117060,"00:00:55,478","00:00:57,933",<i>You're the only one who can help me.</i>
+tt0117060,"00:01:03,236","00:01:06,023",<i>Come one... come on.</i>
+tt0117060,"00:01:06,490","00:01:08,529",<i>Tell me what I need to know.</i>
+tt0117060,"00:01:08,825","00:01:09,858",<i>Come on.</i>
+tt0117060,"00:01:10,579","00:01:12,073",<i>They'll kill me.</i>
+tt0117060,"00:01:15,417","00:01:17,125",<i>You asked for my help.</i>
+tt0117060,"00:01:19,464","00:01:20,460",<i>Come on.</i>
+tt0117060,"00:01:22,050","00:01:24,126",Come on.
+tt0117060,"00:01:25,262","00:01:26,591",<i>The contact in Minsk...</i>
+tt0117060,"00:01:26,764","00:01:29,089","The name, pal. Give us the name."
+tt0117060,"00:01:30,769","00:01:32,596",<i>Dimitri...</i>
+tt0117060,"00:01:33,605","00:01:34,601",<i>Miediev.</i>
+tt0117060,"00:01:49,581","00:01:50,578",<i>What now?</i>
+tt0117060,"00:01:52,877","00:01:53,992",<i>Now we drink.</i>
+tt0117060,"00:01:54,337","00:01:56,165",Za druziye.
+tt0117060,"00:02:15,779","00:02:17,606",Get rid of that scum.
+tt0117060,"00:02:30,255","00:02:31,915",Come on...
+tt0117060,"00:02:57,244","00:02:59,616",- Did we get it? - We got it.
+tt0117060,"00:03:56,271","00:03:58,845","Would you like to watch a movie, Mr Rosen?"
+tt0117060,"00:03:58,941","00:04:00,104","No, thank you."
+tt0117060,"00:04:05,323","00:04:08,277","Would you like to watch a movie, Mr Phelps?"
+tt0117060,"00:04:08,368","00:04:10,491",No. I prefer the theatre.
+tt0117060,"00:04:10,579","00:04:14,828",Would you consider the cinema of the Ukraine?
+tt0117060,"00:04:14,918","00:04:17,705",Perhaps you'll choose one for me.
+tt0117060,"00:04:21,926","00:04:23,089",Thank you.
+tt0117060,"00:04:47,664","00:04:49,621","<i>Good morning, Mr Phelps.</i>"
+tt0117060,"00:04:49,708","00:04:52,663","<i>The man you're looking at is Alexander Golitsyn,</i>"
+tt0117060,"00:04:52,754","00:04:55,459",<i>an attache at our embassy in Prague.</i>
+tt0117060,"00:04:55,548","00:04:58,004",<i>He is also a traitor.</i>
+tt0117060,"00:04:58,092","00:05:01,260",<i>He has stolen half of a CIA NOC list -</i>
+tt0117060,"00:05:01,347","00:05:05,048",<i>a record of all our deep-cover agents in Eastern Europe.</i>
+tt0117060,"00:05:05,143","00:05:09,271","<i>For security reasons, the NOC list is divided in two.</i>"
+tt0117060,"00:05:09,356","00:05:13,354","<i>The portion that Golitsyn already has contains code names,</i>"
+tt0117060,"00:05:13,444","00:05:15,568","<i>but it is useless without its mate,</i>"
+tt0117060,"00:05:15,656","00:05:19,155",<i>which matches the code names with their true names.</i>
+tt0117060,"00:05:19,243","00:05:23,193",<i>It is this half which Golitsyn plans to steal from the embassy</i>
+tt0117060,"00:05:23,289","00:05:25,116",<i>during a reception tomorrow night.</i>
+tt0117060,"00:05:25,208","00:05:28,162","<i>Your mission, Jim, should you choose to accept it,</i>"
+tt0117060,"00:05:28,253","00:05:31,373","<i>is to obtain photographic proof of the theft,</i>"
+tt0117060,"00:05:31,465","00:05:35,879",<i>shadow Golitsyn to his buyer and apprehend them both.</i>
+tt0117060,"00:05:35,971","00:05:39,838",<i>We've already dispatched a team selected from your usual group.</i>
+tt0117060,"00:05:39,933","00:05:41,972","<i>Sarah Davies is already undercover,</i>"
+tt0117060,"00:05:42,060","00:05:44,848","<i>Jack Harmon can hack into any security system,</i>"
+tt0117060,"00:05:44,939","00:05:47,561","<i>Hannah Williams will handle surveillance,</i>"
+tt0117060,"00:05:47,651","00:05:50,272",<i>your wife Claire will cover transport...</i>
+tt0117060,"00:05:50,362","00:05:54,028",<i>and Ethan Hunt will be your point man as usual.</i>
+tt0117060,"00:05:54,117","00:05:59,075",<i>He will rendezvous in Prague at a safe house of your choosing.</i>
+tt0117060,"00:05:59,163","00:06:04,077","<i>As always, should any member of IM Force be caught or killed</i>"
+tt0117060,"00:06:04,170","00:06:07,836",<i>the secretary will disavow all knowledge of your actions.</i>
+tt0117060,"00:06:07,924","00:06:12,136","<i>This tape will self-destruct in five seconds. Good luck, Jim.</i>"
+tt0117060,"00:06:34,789","00:06:37,459",A very straightforward objective:
+tt0117060,"00:06:37,542","00:06:39,867","we photograph Golitsyn stealing the NOC list,"
+tt0117060,"00:06:39,961","00:06:42,452","follow him to his buyer,"
+tt0117060,"00:06:42,547","00:06:44,873",apprehend both of them.
+tt0117060,"00:06:44,967","00:06:46,876",Now here's the plot.
+tt0117060,"00:06:46,969","00:06:50,754","Ethan, you're going into the embassy in character during a party."
+tt0117060,"00:06:50,849","00:06:53,138",Hide in plain sight - highest possible profile.
+tt0117060,"00:06:53,227","00:06:56,846",- Are you game? - Wouldn't have it any other way.
+tt0117060,"00:06:56,940","00:07:00,106","Sarah, you're at the party already"
+tt0117060,"00:07:00,193","00:07:02,351",as the embassy's Washington visitor liaison.
+tt0117060,"00:07:02,445","00:07:05,483",Make contact with Ethan. You'll run the game together.
+tt0117060,"00:07:05,575","00:07:06,986",I have nothing to wear.
+tt0117060,"00:07:08,954","00:07:11,160","Well, you'll work it out."
+tt0117060,"00:07:12,791","00:07:14,535","You'll mark Golitsyn, hand him to Hannah."
+tt0117060,"00:07:14,627","00:07:17,877","Hannah, you'll have him for the duration of the interior."
+tt0117060,"00:07:17,964","00:07:19,079",Stay on him.
+tt0117060,"00:07:19,174","00:07:20,170",No problem.
+tt0117060,"00:07:20,259","00:07:21,587",- Jack. - Yeah?
+tt0117060,"00:07:21,677","00:07:23,254",Fingerprint security.
+tt0117060,"00:07:23,345","00:07:25,671",There's access through the elevator shaft here.
+tt0117060,"00:07:25,765","00:07:30,012","- So I'm not wearing my tux? - Open, close, get out."
+tt0117060,"00:07:30,103","00:07:32,475",Zero residual presence.
+tt0117060,"00:07:32,564","00:07:35,769","Claire, you'll cover outside in the vehicle."
+tt0117060,"00:07:35,860","00:07:38,731",Hannah will join you as Golitsyn goes exterior.
+tt0117060,"00:07:38,822","00:07:41,657",- Stay on him from there. - OK.
+tt0117060,"00:07:41,741","00:07:45,526","Anything goes wrong, I call abort - everybody walk away, immediately."
+tt0117060,"00:07:46,998","00:07:49,953",Regroup here at 4 a.m. That's 0400.
+tt0117060,"00:07:50,085","00:07:51,912",Any questions?
+tt0117060,"00:07:53,505","00:07:59,212",Yeah. Can we get a cappuccino machine? What do you call this?
+tt0117060,"00:07:59,304","00:08:03,052",- I call it cruel and unusual. - I made that coffee.
+tt0117060,"00:08:03,141","00:08:08,350",Exactly. It's even worse than the sludge you made in Kiev.
+tt0117060,"00:08:08,440","00:08:11,013",Take it easy on my wife's coffee.
+tt0117060,"00:08:11,109","00:08:14,645","- We missed you in Kiev, Jim. - You, too, Ethan."
+tt0117060,"00:08:14,739","00:08:18,867",- On one of your cushy assignments? - Where this time? The Plaza?
+tt0117060,"00:08:18,951","00:08:20,861","Drake Hotel, Chicago."
+tt0117060,"00:08:20,954","00:08:22,117",Ooh!
+tt0117060,"00:08:22,206","00:08:24,780",Cushy! 24-hour room service.
+tt0117060,"00:08:24,876","00:08:27,248",- Chauffeured cars. - Fat expense account.
+tt0117060,"00:08:27,337","00:08:30,338","- He's getting soft. - Yeah, look at him."
+tt0117060,"00:08:31,424","00:08:34,924","OK, listen. If that list gets out into the open,"
+tt0117060,"00:08:35,012","00:08:40,090",the names of our agents in Eastern Europe go to the highest bidders -
+tt0117060,"00:08:40,185","00:08:43,305","Third World terrorists, arms dealers, drug lords,"
+tt0117060,"00:08:43,772","00:08:47,817",anybody who'd love to get rid of long-term coverts like us.
+tt0117060,"00:08:47,902","00:08:51,603","If they're exposed, they'll be executed."
+tt0117060,"00:08:53,283","00:08:57,364","So, I'll run the show from here. Everyone knows their roles."
+tt0117060,"00:08:57,455","00:08:59,364",Let's punch out the details.
+tt0117060,"00:08:59,457","00:09:02,126",There's a camera built right into the bridge.
+tt0117060,"00:09:02,210","00:09:06,506","Whatever you see, it sees and transmits back here."
+tt0117060,"00:09:06,591","00:09:10,885",- See? Can you hear me? - Of course I can hear you.
+tt0117060,"00:09:10,971","00:09:13,888","No, in your... oh, you need an earpiece."
+tt0117060,"00:09:13,974","00:09:14,969",Oh.
+tt0117060,"00:09:18,020","00:09:20,974",You have lovely eyes. Can you hear me now?
+tt0117060,"00:09:21,065","00:09:22,181",Loud and clear.
+tt0117060,"00:09:22,276","00:09:27,022","If he has a car waiting and rolls, stay with him no matter what."
+tt0117060,"00:09:27,115","00:09:30,815","You should take the afternoon, drive the streets around this quarter."
+tt0117060,"00:09:30,910","00:09:34,659",- They're confusing. - What do you think I've been doing?
+tt0117060,"00:09:34,747","00:09:36,706",We're using Waltzer?
+tt0117060,"00:09:36,792","00:09:38,121",He's our guy.
+tt0117060,"00:09:38,211","00:09:41,912",Isn't he chairing the armed services hearing?
+tt0117060,"00:09:42,007","00:09:43,287",Not this week.
+tt0117060,"00:09:43,383","00:09:47,678","This week, he's fishing at the Oughterard Slough in County Kildare"
+tt0117060,"00:09:47,763","00:09:50,136",with one of our best Irish guides.
+tt0117060,"00:09:50,224","00:09:53,096",Yup. And he won't be back any time soon.
+tt0117060,"00:09:53,186","00:09:57,684","<i>..Irrelevant at best, or unconstitutional at worst.</i>"
+tt0117060,"00:09:57,775","00:10:02,402","<i>With respect, Senator, it sounds as if you want the kind of charge</i>"
+tt0117060,"00:10:02,488","00:10:05,941",<i>that Senator Frank Church led in the 1970s</i>
+tt0117060,"00:10:06,035","00:10:09,985",<i>and to destroy the intelligence capability of this country.</i>
+tt0117060,"00:10:10,081","00:10:12,703",<i>I want to know who these people are</i>
+tt0117060,"00:10:12,792","00:10:14,915",<i>and how they're spending taxpayers' money.</i>
+tt0117060,"00:10:15,003","00:10:18,705",<i>We were living in a democracy the last time I checked.</i>
+tt0117060,"00:10:19,967","00:10:21,876","Stick of gum, right?"
+tt0117060,"00:10:21,969","00:10:22,965",No?
+tt0117060,"00:10:23,055","00:10:25,296","No. Red light, green light."
+tt0117060,"00:10:25,390","00:10:28,309","You come up against a lock you can't pick,"
+tt0117060,"00:10:28,394","00:10:30,932",you mash them together -
+tt0117060,"00:10:31,022","00:10:33,727","Hasta lasagne, don't get any on ya."
+tt0117060,"00:10:33,816","00:10:35,975",You'll have about five seconds.
+tt0117060,"00:10:38,239","00:10:40,861",Just don't chew it.
+tt0117060,"00:11:18,202","00:11:21,867","Ethan, Jack's inside. Let's go."
+tt0117060,"00:11:26,503","00:11:29,125","<i>Senator. I'm Rand Housman, the Ambassador's aide.</i>"
+tt0117060,"00:11:29,215","00:11:31,457","<i>- Hello, Mr Housman. - How was the opera?</i>"
+tt0117060,"00:11:31,551","00:11:34,042","Uh, it was boring."
+tt0117060,"00:11:34,137","00:11:37,554",Let me steer you through this reception line.
+tt0117060,"00:11:46,401","00:11:49,569","<i>- How do you do, Senator? - Mrs Reed.</i>"
+tt0117060,"00:11:49,655","00:11:52,027",Windows open by 2300.
+tt0117060,"00:11:52,158","00:11:56,904","Petr Brandl, the Mayor of Prague, and Mrs Brandl."
+tt0117060,"00:11:56,998","00:12:00,699","Oh! I bet you don't remember me, do you?"
+tt0117060,"00:12:00,793","00:12:03,166","Of course. How are you, Miss Norman?"
+tt0117060,"00:12:03,254","00:12:05,543","He's in pocket, on the stairway."
+tt0117060,"00:12:10,012","00:12:12,469","Mr Golitsyn, nice to see you."
+tt0117060,"00:12:14,976","00:12:16,803",Hannah...
+tt0117060,"00:12:19,815","00:12:21,393",<i>Pull the shade.</i>
+tt0117060,"00:12:30,787","00:12:33,574","<i>Sarah, mark the package and go to two.</i>"
+tt0117060,"00:12:38,879","00:12:42,332",Your advance team mentioned you'd like a tour.
+tt0117060,"00:12:42,425","00:12:45,925",I've set one up. Excuse me. This way.
+tt0117060,"00:12:49,100","00:12:50,095",Jesus!
+tt0117060,"00:12:57,442","00:12:59,151","Oh, great."
+tt0117060,"00:12:59,237","00:13:01,810","..Which leads to the denied area,"
+tt0117060,"00:13:01,906","00:13:05,192",the only limited-access area in the whole facility.
+tt0117060,"00:13:29,689","00:13:31,349",Governor's in position now.
+tt0117060,"00:13:40,826","00:13:43,781","- Can I help you? - Oh, I'm sorry."
+tt0117060,"00:13:43,872","00:13:47,739","As you can see, there's a Marine guard and video surveillance..."
+tt0117060,"00:13:47,834","00:13:51,963",This place is like... excuse me. I'm sorry. It's here somewhere.
+tt0117060,"00:13:52,048","00:13:55,084","Sergeant, why are you not in uniform this evening?"
+tt0117060,"00:13:55,176","00:14:00,599","<i>Uh, we've been ordered to wear civilian clothes this evening, sir.</i>"
+tt0117060,"00:14:01,684","00:14:03,143",Be right back.
+tt0117060,"00:14:04,646","00:14:07,730","Senator, is anyone on your staff named Jack?"
+tt0117060,"00:14:08,817","00:14:11,771","Jack? Uh, we did have a Jack."
+tt0117060,"00:14:11,862","00:14:13,939","An unreliable fellow, as I recall -"
+tt0117060,"00:14:14,032","00:14:17,116",constantly late and behind in his work.
+tt0117060,"00:14:20,122","00:14:23,408",<i>We were forced to tie him behind a stallion</i>
+tt0117060,"00:14:23,501","00:14:26,455",<i>and drag him around for a few days.</i>
+tt0117060,"00:14:26,545","00:14:28,787",Relax your crack. I'm working on it.
+tt0117060,"00:14:42,231","00:14:45,767","Sorry, sir. Thank you. Have a nice evening."
+tt0117060,"00:14:45,860","00:14:47,900",Thank you. Ah.
+tt0117060,"00:14:58,249","00:15:01,620",That date with Sarah is definitely off.
+tt0117060,"00:15:31,122","00:15:32,118",Higher.
+tt0117060,"00:15:37,128","00:15:39,584",He's heading to the denied area.
+tt0117060,"00:15:42,009","00:15:44,844","Get moving, Ethan. He's rolling to you."
+tt0117060,"00:15:55,650","00:15:56,645",Jack.
+tt0117060,"00:15:59,236","00:16:01,029","Jack, we're in position here."
+tt0117060,"00:16:02,200","00:16:03,196",<i>Jack.</i>
+tt0117060,"00:16:03,284","00:16:05,028",I didn't touch it.
+tt0117060,"00:16:07,413","00:16:10,451","- Where's my coat? - Jack, open the doors."
+tt0117060,"00:16:20,763","00:16:23,052","He's in the box, Ethan."
+tt0117060,"00:16:23,140","00:16:27,553",- OK. Open these doors. - I don't have it.
+tt0117060,"00:16:29,897","00:16:32,140",I'm opening the doors. Go under.
+tt0117060,"00:16:34,612","00:16:35,608",Go!
+tt0117060,"00:17:15,159","00:17:16,321",He's got it.
+tt0117060,"00:17:16,410","00:17:17,690",All right.
+tt0117060,"00:17:17,786","00:17:19,827","Saved your ass again, Jack."
+tt0117060,"00:17:19,914","00:17:21,955","<i>Give me a break, pops.</i>"
+tt0117060,"00:17:22,043","00:17:23,537",Such a nice ass.
+tt0117060,"00:17:23,711","00:17:25,787",And a lonely ass.
+tt0117060,"00:17:25,880","00:17:27,754",Transport in five minutes.
+tt0117060,"00:17:27,840","00:17:29,465","Yes, indeed."
+tt0117060,"00:18:11,057","00:18:15,008","Jack, we're in position. Open the doors and let the package roll."
+tt0117060,"00:18:15,104","00:18:17,855",Roger that. Opening doors now.
+tt0117060,"00:18:18,941","00:18:20,401","Stairway, you're wrapped."
+tt0117060,"00:18:20,485","00:18:22,111",<i>Go to transport.</i>
+tt0117060,"00:18:28,077","00:18:29,073",Hey.
+tt0117060,"00:18:31,832","00:18:34,287","- Jack, what are you doing? - Nothing!"
+tt0117060,"00:18:40,383","00:18:42,293","I don't have control, Jack."
+tt0117060,"00:18:42,386","00:18:45,256",- Then I got a problem. - Cut the power.
+tt0117060,"00:18:47,933","00:18:50,092","- Cut the power. - Come on, Jack."
+tt0117060,"00:18:51,187","00:18:53,228",Cut the power. Jack?
+tt0117060,"00:18:54,900","00:18:56,181",Jack?
+tt0117060,"00:19:02,242","00:19:03,736",Jack?
+tt0117060,"00:19:05,704","00:19:06,701",Jack?
+tt0117060,"00:19:08,624","00:19:09,620",Jack?
+tt0117060,"00:19:10,752","00:19:14,086","<i>Jack, do you copy? Jack?</i>"
+tt0117060,"00:19:14,173","00:19:17,542","Man down, Ethan. Man down."
+tt0117060,"00:19:36,991","00:19:39,031","<i>Ethan, stay where you are.</i>"
+tt0117060,"00:19:39,118","00:19:41,526",I'm coming to you.
+tt0117060,"00:19:56,263","00:19:58,386",The package is in the open.
+tt0117060,"00:20:02,019","00:20:03,016",Jim.
+tt0117060,"00:20:04,481","00:20:07,731",<i>- He's in the open. - En route.</i>
+tt0117060,"00:20:27,049","00:20:29,089","Jim, he's in the open."
+tt0117060,"00:20:29,969","00:20:32,590","Jim, the package is in the open."
+tt0117060,"00:20:36,268","00:20:39,852",- I've got a shadow. - Can you lose him?
+tt0117060,"00:20:39,939","00:20:41,848",No. Abort.
+tt0117060,"00:20:41,941","00:20:43,602",He's out of pocket.
+tt0117060,"00:20:48,073","00:20:49,733",I can't do that.
+tt0117060,"00:20:49,825","00:20:52,779","We're being ambushed, Ethan. Abort. That's an order."
+tt0117060,"00:20:52,870","00:20:55,410",Negative. Golitsyn is on the move.
+tt0117060,"00:20:55,499","00:20:58,037","<i>No, damn it! No! I said abort!</i>"
+tt0117060,"00:21:07,971","00:21:10,641","Sarah, eye on the package. Jim, I'm coming."
+tt0117060,"00:21:10,725","00:21:13,014",Jim gave an abort. Walk away.
+tt0117060,"00:21:13,102","00:21:17,397",We are going to recover that disk. You understand me?
+tt0117060,"00:21:17,483","00:21:18,893","Now, go!"
+tt0117060,"00:21:50,521","00:21:51,979",Where are you?
+tt0117060,"00:21:52,064","00:21:54,057",About 200 yards from the bridge.
+tt0117060,"00:21:54,150","00:21:55,693",<i>They're covering this frequency.</i>
+tt0117060,"00:21:55,778","00:21:57,320",Cut all radio communication.
+tt0117060,"00:21:57,405","00:22:01,237",<i>Repeat - cut all radio communication.</i>
+tt0117060,"00:22:25,895","00:22:26,892",<i>Ethan!</i>
+tt0117060,"00:22:33,696","00:22:34,693",<i>Ethan...</i>
+tt0117060,"00:22:59,935","00:23:01,216",Sarah...
+tt0117060,"00:23:01,312","00:23:04,266",Abort. Repeat - abort.
+tt0117060,"00:23:07,527","00:23:10,279",Abort! Do you read me?
+tt0117060,"00:23:14,744","00:23:17,070",Sarah? God!
+tt0117060,"00:23:47,491","00:23:48,689",Claire.
+tt0117060,"00:23:48,784","00:23:52,449","Oh, my God! My God!"
+tt0117060,"00:24:40,761","00:24:43,678","Oh, no... Sarah..."
+tt0117060,"00:25:40,539","00:25:42,116",<i>Satcom seven.</i>
+tt0117060,"00:25:42,249","00:25:44,288","Central Europe, unsecured."
+tt0117060,"00:25:44,376","00:25:46,036",<i>Designator?</i>
+tt0117060,"00:25:46,128","00:25:48,253",Bravo Echo One One.
+tt0117060,"00:25:48,340","00:25:49,336",<i>Switching.</i>
+tt0117060,"00:25:50,926","00:25:52,420",<i>This is Kittridge.</i>
+tt0117060,"00:25:52,511","00:25:54,053",Go secure.
+tt0117060,"00:25:54,138","00:25:55,513",<i>OK. Go ahead.</i>
+tt0117060,"00:25:57,142","00:25:59,051",This is Ethan Hunt.
+tt0117060,"00:25:59,144","00:26:01,267",They're dead.
+tt0117060,"00:26:01,354","00:26:02,849",<i>What... who's dead?</i>
+tt0117060,"00:26:02,940","00:26:04,980",My team. My team is dead!
+tt0117060,"00:26:05,067","00:26:06,063",<i>Jesus.</i>
+tt0117060,"00:26:06,152","00:26:07,267",Golitsyn's gone.
+tt0117060,"00:26:07,362","00:26:12,357","They knew we were coming, man. They knew and the disk is gone."
+tt0117060,"00:26:12,451","00:26:15,701",<i>- Are you intact? - It's gone. Do you read me?</i>
+tt0117060,"00:26:15,787","00:26:19,573",- The list is in the open! - I read you.
+tt0117060,"00:26:19,668","00:26:23,452","<i>Let's bring you in safely, then we'll worry about that, OK?</i>"
+tt0117060,"00:26:23,547","00:26:24,626",<i>Were you followed?</i>
+tt0117060,"00:26:26,967","00:26:28,593",I don't think so.
+tt0117060,"00:26:28,678","00:26:32,094",<i>Don't think. Be sure. Are you clean?</i>
+tt0117060,"00:26:32,182","00:26:33,297",Yes.
+tt0117060,"00:26:34,518","00:26:38,683","<i>OK. Location green, one hour. I'll be there myself.</i>"
+tt0117060,"00:26:38,774","00:26:40,398",You're in Prague?
+tt0117060,"00:26:40,484","00:26:42,275",<i>One hour.</i>
+tt0117060,"00:27:38,134","00:27:40,092","I, uh..."
+tt0117060,"00:27:40,178","00:27:43,843","I can't tell you how, er... sorry I am."
+tt0117060,"00:27:43,932","00:27:48,261","I know how much Jim in particular meant to you, Ethan,"
+tt0117060,"00:27:48,353","00:27:51,356",personally as well as professionally.
+tt0117060,"00:27:52,776","00:27:53,772",Yeah.
+tt0117060,"00:27:58,533","00:28:01,984","Here's a passport, visa. Usual drill."
+tt0117060,"00:28:02,078","00:28:05,911","We'll work exfiltration through Canada, debrief you at Langley."
+tt0117060,"00:28:06,000","00:28:10,414",Throw the Prague police a bone or two. Toss them a few suspects.
+tt0117060,"00:28:15,135","00:28:16,333",You follow me?
+tt0117060,"00:28:18,388","00:28:20,881","Yeah, I follow."
+tt0117060,"00:28:20,976","00:28:24,475",I think we've lost enough agents for one night.
+tt0117060,"00:28:24,563","00:28:27,766","You mean, I'VE lost enough agents for one night."
+tt0117060,"00:28:29,444","00:28:32,694","You seem hell-bent on blaming yourself, Ethan."
+tt0117060,"00:28:32,781","00:28:35,069",Who else is left?
+tt0117060,"00:28:37,203","00:28:40,738",Yeah. I see your point.
+tt0117060,"00:28:45,337","00:28:47,045",Why was there another team?
+tt0117060,"00:28:48,090","00:28:49,085",What?
+tt0117060,"00:28:50,969","00:28:53,543","Of IMF agents at the embassy, tonight."
+tt0117060,"00:28:55,766","00:28:57,509",I don't quite follow you.
+tt0117060,"00:29:00,188","00:29:03,474","Well, see if you can follow me around the room."
+tt0117060,"00:29:03,566","00:29:07,102","The drunk Russians on the embankment at 7, 8 o'clock."
+tt0117060,"00:29:09,156","00:29:13,155",The couple waltzing around me at the embassy at 9 and 11.
+tt0117060,"00:29:13,245","00:29:16,080",The waiter standing behind Hannah at the stairs -
+tt0117060,"00:29:16,164","00:29:18,406","bow tie, 12.00."
+tt0117060,"00:29:18,500","00:29:20,577",The other IMF team.
+tt0117060,"00:29:21,170","00:29:24,042",You're worried about me. Why?
+tt0117060,"00:29:26,593","00:29:28,716","Well, for a little over two years,"
+tt0117060,"00:29:28,804","00:29:32,304",we've been spotting serious blowback in IMF operations.
+tt0117060,"00:29:32,392","00:29:34,598",We have a penetration.
+tt0117060,"00:29:34,686","00:29:37,557","The other day, we decoded a message on the Internet"
+tt0117060,"00:29:37,648","00:29:39,724","from a Czech we know as ""Max""."
+tt0117060,"00:29:39,818","00:29:40,814",The arms dealer.
+tt0117060,"00:29:41,987","00:29:43,315",That's right.
+tt0117060,"00:29:43,405","00:29:46,690","Max, it seems, has two unique gifts..."
+tt0117060,"00:29:46,783","00:29:48,859",a capacity for anonymity
+tt0117060,"00:29:48,952","00:29:51,159",and for corrupting susceptible agents.
+tt0117060,"00:29:51,247","00:29:54,284","This time, he'd gotten to someone on the inside."
+tt0117060,"00:29:54,376","00:29:57,827",He'd gotten in a position to buy our NOC list.
+tt0117060,"00:29:57,921","00:30:01,291","An operation he referred to as Job 314,"
+tt0117060,"00:30:01,384","00:30:03,958",the job he thought Golitsyn was doing tonight.
+tt0117060,"00:30:07,223","00:30:09,894",But the list Golitsyn stole was a decoy.
+tt0117060,"00:30:09,977","00:30:13,892",That's correct. The actual list is secure at Langley.
+tt0117060,"00:30:13,982","00:30:16,983",Golitsyn was a lightning rod. One of ours.
+tt0117060,"00:30:19,196","00:30:23,527",This whole operation was a mole hunt.
+tt0117060,"00:30:29,374","00:30:32,376",This whole operation was a mole hunt.
+tt0117060,"00:30:32,462","00:30:33,873",Yeah.
+tt0117060,"00:30:35,757","00:30:40,468",The mole's deep inside...
+tt0117060,"00:30:40,555","00:30:42,714",and like you said...
+tt0117060,"00:30:45,685","00:30:47,429",you survived.
+tt0117060,"00:30:49,981","00:30:53,067","I want to show you something, Ethan."
+tt0117060,"00:30:54,988","00:30:56,531","Since your father's death,"
+tt0117060,"00:30:56,615","00:31:00,316","your family's farm has been in receivership,"
+tt0117060,"00:31:00,410","00:31:04,326","and now, suddenly, they're flush with over 120 grand in the bank."
+tt0117060,"00:31:04,415","00:31:08,330",Your father's illness was supposed to have wiped out that bank account.
+tt0117060,"00:31:08,419","00:31:14,258","Dying slowly in America, after all, can be an expensive proposition."
+tt0117060,"00:31:15,804","00:31:17,796",So...
+tt0117060,"00:31:17,889","00:31:22,184",why don't we quietly get out of here and onto a plane?
+tt0117060,"00:31:25,232","00:31:27,106",I understand you're upset.
+tt0117060,"00:31:27,192","00:31:30,229","Kittridge, you've never seen me upset."
+tt0117060,"00:31:30,320","00:31:32,859","All right, Hunt. Enough is enough."
+tt0117060,"00:31:32,949","00:31:35,274","You have bribed, cajoled, and killed,"
+tt0117060,"00:31:35,368","00:31:37,693",and you've done it from the inside.
+tt0117060,"00:31:37,787","00:31:41,490","You want to court the devil, fine. Do it in hell."
+tt0117060,"00:33:43,225","00:33:46,346","Money, money. Where's the damn money?"
+tt0117060,"00:34:12,300","00:34:15,469","<i>The other day, we decoded a message on the Internet</i>"
+tt0117060,"00:34:15,555","00:34:18,722","<i>from a Czech we know as ""Max"".</i>"
+tt0117060,"00:34:18,809","00:34:22,308",<i>He'd got in a position to buy our NOC list.</i>
+tt0117060,"00:34:22,395","00:34:25,101",<i>An operation he referred to as Job 314.</i>
+tt0117060,"00:34:31,240","00:34:32,864",Job 314...
+tt0117060,"00:34:40,834","00:34:44,417",Job... Job 314... Job...
+tt0117060,"00:35:00,524","00:35:01,520",Job...
+tt0117060,"00:35:21,423","00:35:23,166",Job 3:14?
+tt0117060,"00:35:23,258","00:35:25,382",Job 3:14?
+tt0117060,"00:35:45,951","00:35:48,408","Oh, you son of a bitch."
+tt0117060,"00:37:28,070","00:37:29,066",Ethan...
+tt0117060,"00:37:31,282","00:37:32,824",what are you doing?
+tt0117060,"00:37:34,870","00:37:40,327","I needed you, Ethan. I needed you... on the bridge..."
+tt0117060,"00:37:40,418","00:37:42,327",but you weren't there.
+tt0117060,"00:37:45,340","00:37:46,835",Ethan...
+tt0117060,"00:37:49,261","00:37:50,258",Ethan...
+tt0117060,"00:37:51,848","00:37:52,844",Ethan?
+tt0117060,"00:37:58,856","00:38:00,101",Don't move.
+tt0117060,"00:38:01,651","00:38:03,394",Ethan...
+tt0117060,"00:38:03,486","00:38:04,684","Ethan, it's OK."
+tt0117060,"00:38:04,779","00:38:09,941",Just calm down. It's Claire. It's OK.
+tt0117060,"00:38:10,036","00:38:11,945",You were in the car.
+tt0117060,"00:38:12,038","00:38:13,746","No, I wasn't."
+tt0117060,"00:38:15,500","00:38:17,161",I heard on the radio...
+tt0117060,"00:38:17,294","00:38:21,163",Shut up! I saw you. You were in the car.
+tt0117060,"00:38:21,258","00:38:23,546","No, I got out of the car."
+tt0117060,"00:38:23,635","00:38:26,590",I ran to the bridge. He said someone was...
+tt0117060,"00:38:26,681","00:38:31,343",Don't give me that. I was there. There was nobody on the bridge.
+tt0117060,"00:38:31,435","00:38:34,935",- What happened to Jim? - Wake up! Jim's dead!
+tt0117060,"00:38:35,022","00:38:37,064",They're dead! They're all dead!
+tt0117060,"00:38:44,868","00:38:48,072",- Who sent you for me? - Jim's dead...
+tt0117060,"00:38:48,163","00:38:51,368",- Who sent you here? - Jim...
+tt0117060,"00:38:51,459","00:38:53,369",Take off your coat.
+tt0117060,"00:39:01,470","00:39:02,965","Where were you, huh?"
+tt0117060,"00:39:03,055","00:39:07,636",- I... - Huh? Where were you?
+tt0117060,"00:39:08,855","00:39:12,983",I walked away. He said abort. I just... walked away.
+tt0117060,"00:39:13,067","00:39:16,021",That was four hours ago. Who sent you?
+tt0117060,"00:39:16,112","00:39:18,984","- Did they send you? - Who's ""they""?"
+tt0117060,"00:39:20,534","00:39:24,284","- Look, who sent you? - No one sent me."
+tt0117060,"00:39:24,372","00:39:27,992",We were supposed to be back here at four o'clock.
+tt0117060,"00:39:28,085","00:39:32,166","If we abort, we don't return here until 4.00, 0400, 4 a.m..."
+tt0117060,"00:39:32,256","00:39:35,174","4 o'clock, Ethan. 4.00..."
+tt0117060,"00:39:35,259","00:39:39,176",If we abort... 4 a.m...
+tt0117060,"00:39:58,704","00:40:00,863",I've been disavowed.
+tt0117060,"00:40:06,837","00:40:10,374",They actually think I killed Jim and everyone else.
+tt0117060,"00:40:16,474","00:40:20,389","Somehow $100,000 finds its way into my parents' bank account."
+tt0117060,"00:40:20,479","00:40:23,434",Kittridge assumes I'm the mole they've been tracing
+tt0117060,"00:40:23,525","00:40:27,273","and I've been in the employ of an arms dealer, Max,"
+tt0117060,"00:40:27,362","00:40:31,408",for the last two years... to get him our NOC list.
+tt0117060,"00:40:31,701","00:40:36,659",- What are you going to do? - I'm going to get it for him.
+tt0117060,"00:40:38,458","00:40:40,867","Ethan, you're not making any sense."
+tt0117060,"00:40:42,881","00:40:46,712",Whoever the mole is goes by the name of Job.
+tt0117060,"00:40:46,801","00:40:51,844","I can't find him, but if he knows I have the NOC list,"
+tt0117060,"00:40:51,932","00:40:53,261",he'll find me.
+tt0117060,"00:40:53,350","00:40:58,513",I'm going in and telling Kittridge you had nothing to do with this.
+tt0117060,"00:40:58,608","00:41:04,693","Claire, if you're not dead, he's going to assume you're with me."
+tt0117060,"00:41:19,548","00:41:21,837",The message is for Job.
+tt0117060,"00:41:23,636","00:41:25,179",That's right...
+tt0117060,"00:41:25,263","00:41:27,801",and I'm going to answer it.
+tt0117060,"00:41:50,751","00:41:55,747",Excuse me. Can I trouble you for a match?
+tt0117060,"00:42:11,776","00:42:14,148","Could you remove your hat, please?"
+tt0117060,"00:42:17,198","00:42:18,277",Why?
+tt0117060,"00:42:18,366","00:42:20,573",You wish to meet Max?
+tt0117060,"00:42:20,661","00:42:23,152",The price of admission.
+tt0117060,"00:42:32,091","00:42:35,175",I thought I was going to see Max.
+tt0117060,"00:42:35,261","00:42:38,381",You misunderstood. No one sees Max.
+tt0117060,"00:42:38,472","00:42:41,640",Then what the hell am I doing here?
+tt0117060,"00:42:41,727","00:42:46,354",Allowing Max to see you and hear what you've got to say.
+tt0117060,"00:42:46,441","00:42:49,110",I don't communicate very well through a shroud.
+tt0117060,"00:42:49,193","00:42:52,314","If Max doesn't like what you have to say,"
+tt0117060,"00:42:52,406","00:42:55,989",you'll be wearing that shroud indefinitely.
+tt0117060,"00:42:56,076","00:42:59,661",I'm willing to take the chance.
+tt0117060,"00:43:04,795","00:43:06,373",Very well.
+tt0117060,"00:43:09,635","00:43:15,140",Who are you and what are you doing here?
+tt0117060,"00:43:15,225","00:43:18,640","I need $150,000."
+tt0117060,"00:43:18,728","00:43:21,600","Oh, really?"
+tt0117060,"00:43:25,152","00:43:26,148",You... you...
+tt0117060,"00:43:26,237","00:43:30,651","You thought if you simply showed up, I might give it to you?"
+tt0117060,"00:43:31,827","00:43:34,579",Why not? You gave Job 125.
+tt0117060,"00:43:36,123","00:43:41,629",Hmm... the penny drops. You are not Job.
+tt0117060,"00:43:41,797","00:43:48,132",Job is not given to quoting scripture in his communications.
+tt0117060,"00:43:48,221","00:43:50,428","Then there was its tone,"
+tt0117060,"00:43:50,516","00:43:53,137",aggressive but playful.
+tt0117060,"00:43:53,227","00:43:55,219",Job is not playful.
+tt0117060,"00:43:56,397","00:44:00,479",So you are something of a paradox.
+tt0117060,"00:44:00,570","00:44:02,230","Well, that depends."
+tt0117060,"00:44:02,321","00:44:03,317",On what?
+tt0117060,"00:44:03,406","00:44:05,979",Whether you like a paradox.
+tt0117060,"00:44:08,035","00:44:11,121","I want $150,000 today."
+tt0117060,"00:44:11,206","00:44:13,115",That's quite out of the question.
+tt0117060,"00:44:15,878","00:44:17,752",The disk Job sold you...
+tt0117060,"00:44:17,839","00:44:19,582",it's worthless.
+tt0117060,"00:44:19,674","00:44:22,925",It's bait... part of an internal mole hunt.
+tt0117060,"00:44:28,017","00:44:30,557",And how might you know that?
+tt0117060,"00:44:32,064","00:44:34,390",Are you another company man?
+tt0117060,"00:44:36,652","00:44:38,063",Like Job?
+tt0117060,"00:44:38,154","00:44:39,613",Hmm...
+tt0117060,"00:44:41,617","00:44:44,190",We're asking about you.
+tt0117060,"00:44:45,496","00:44:47,240",I'm NOC...
+tt0117060,"00:44:47,332","00:44:50,867",Was... Now disavowed.
+tt0117060,"00:44:50,961","00:44:53,631","Why, may I ask?"
+tt0117060,"00:44:53,714","00:44:56,881",That is the question I want to ask Job.
+tt0117060,"00:44:56,967","00:45:02,343",I don't know Job any more than Job knows me.
+tt0117060,"00:45:02,433","00:45:03,761",Even so...
+tt0117060,"00:45:03,851","00:45:06,389",I'm sure you could arrange an introduction.
+tt0117060,"00:45:06,479","00:45:07,890",Why should I?
+tt0117060,"00:45:07,980","00:45:10,352",I can deliver the actual NOC list.
+tt0117060,"00:45:10,441","00:45:12,933",The one you have is worthless
+tt0117060,"00:45:13,028","00:45:16,564",and certain to have a homing device to pinpoint your location.
+tt0117060,"00:45:16,658","00:45:17,772",Mm-hmm.
+tt0117060,"00:45:19,953","00:45:21,033",Mm-hmm...
+tt0117060,"00:45:21,121","00:45:23,114",Boot it up.
+tt0117060,"00:45:23,207","00:45:25,116","In 30 seconds to 10 minutes,"
+tt0117060,"00:45:25,209","00:45:28,660",you'll have Virginia farm boys hopping around you like rabbits.
+tt0117060,"00:45:30,256","00:45:33,757",It's easy to say the disk is worthless
+tt0117060,"00:45:33,844","00:45:37,842",when you say I can't look and see if it's worthless.
+tt0117060,"00:45:37,932","00:45:40,055","Not a tenable position, sir."
+tt0117060,"00:45:41,436","00:45:44,307","OK. Use it, but..."
+tt0117060,"00:45:45,399","00:45:48,235",I'd suggest you pack first.
+tt0117060,"00:46:03,379","00:46:05,917","26-27. So far, so good."
+tt0117060,"00:46:06,007","00:46:08,545","Not so good for you, my friend."
+tt0117060,"00:46:08,634","00:46:11,006",I'd say you've got about two minutes.
+tt0117060,"00:46:43,133","00:46:45,126",32 and 33.
+tt0117060,"00:46:45,218","00:46:48,505",Doesn't mean a signal. Could just be heating up.
+tt0117060,"00:46:55,272","00:46:57,395",44 and 45.
+tt0117060,"00:47:12,876","00:47:13,872",Now.
+tt0117060,"00:47:46,498","00:47:48,040","Man's gone black, Barnes."
+tt0117060,"00:47:48,125","00:47:51,874",He's under until he decides to surface.
+tt0117060,"00:47:51,963","00:47:55,712",We'll involve the local authorities. Cut off his transportation.
+tt0117060,"00:47:55,801","00:47:58,292","What can we do, Barnes?"
+tt0117060,"00:47:58,429","00:48:02,972",Put a guy at the airport? How many identities do you think Hunt has?
+tt0117060,"00:48:03,059","00:48:07,058",How many times has he slipped past customs in how many countries?
+tt0117060,"00:48:07,148","00:48:09,436",These guys are trained to be ghosts.
+tt0117060,"00:48:09,525","00:48:13,394","- We taught them, for Christ's sake. - What do you suggest?"
+tt0117060,"00:48:15,574","00:48:19,618",Let's not waste time chasing him. Let's make him come to us.
+tt0117060,"00:48:19,703","00:48:21,578","Everybody has pressure points, Barnes."
+tt0117060,"00:48:21,664","00:48:26,908",You find something that's personally important to him and you squeeze.
+tt0117060,"00:48:30,674","00:48:35,884",Gunther will never let me have one of his apartments again.
+tt0117060,"00:48:35,973","00:48:39,259","Sorry I doubted you, dear boy."
+tt0117060,"00:48:39,352","00:48:41,143",You are a good sport.
+tt0117060,"00:48:41,228","00:48:42,391","Thanks, Max."
+tt0117060,"00:48:43,439","00:48:44,899",Or is it Maxine?
+tt0117060,"00:48:45,025","00:48:48,311",Ha ha. I don't have to tell you
+tt0117060,"00:48:48,403","00:48:51,322",what a comfort anonymity can be in my profession.
+tt0117060,"00:48:52,492","00:48:55,944",It's like a warm blanket.
+tt0117060,"00:48:57,790","00:49:02,250",My deal with Job was subject to a successful boot scan.
+tt0117060,"00:49:02,336","00:49:04,543",Obviously it didn't pass muster. Deal's off.
+tt0117060,"00:49:05,757","00:49:07,916",What was your deal with Job?
+tt0117060,"00:49:08,094","00:49:10,798",Um...$6 million.
+tt0117060,"00:49:10,888","00:49:12,797","I'll give you the same,"
+tt0117060,"00:49:12,890","00:49:16,260","but I want the complete list now, not just Eastern Europe."
+tt0117060,"00:49:16,353","00:49:19,638",I won't do this piecemeal. It's too dangerous. The entire list.
+tt0117060,"00:49:19,731","00:49:20,727",10 million.
+tt0117060,"00:49:20,816","00:49:24,352",10 million in negotiable US Treasury certificates
+tt0117060,"00:49:24,446","00:49:28,658","in bearer form, coupons attached, and one more thing."
+tt0117060,"00:49:30,619","00:49:35,745",Your personal assurance that Job will be at the exchange.
+tt0117060,"00:49:47,889","00:49:48,885",Oh.
+tt0117060,"00:49:51,268","00:49:54,186",Max made a deal with you?
+tt0117060,"00:49:54,272","00:49:57,973","I deliver the NOC list, Max delivers Job."
+tt0117060,"00:49:59,778","00:50:02,696","We've got 75 rounds for your Beretta,"
+tt0117060,"00:50:02,781","00:50:04,989",but only 20 for the Sig Sauer.
+tt0117060,"00:50:05,076","00:50:09,122",One pair of Visco glasses with monitor.
+tt0117060,"00:50:09,206","00:50:10,701","Plenty of passports, and..."
+tt0117060,"00:50:15,797","00:50:16,829",What?
+tt0117060,"00:50:16,923","00:50:22,345","You said it yourself, if I'm not dead, I'm with you."
+tt0117060,"00:50:23,765","00:50:25,592",Are you sure about this?
+tt0117060,"00:50:25,684","00:50:27,724",Jim was my husband.
+tt0117060,"00:50:27,811","00:50:30,516",I want to get the son of a bitch who did this.
+tt0117060,"00:50:32,024","00:50:35,809","We're going to need some help. We don't have a lot of time,"
+tt0117060,"00:50:35,904","00:50:37,813",so they'll have to be local.
+tt0117060,"00:50:37,906","00:50:38,903",What kind of help?
+tt0117060,"00:51:12,822","00:51:14,731",Simple game.
+tt0117060,"00:51:14,824","00:51:16,698",Four players.
+tt0117060,"00:51:16,785","00:51:19,358",Exfil opens the pocket.
+tt0117060,"00:51:19,454","00:51:21,162",Cyber ops lifts the wallet.
+tt0117060,"00:51:21,248","00:51:23,287",Bank?
+tt0117060,"00:51:24,376","00:51:25,920",IMF mainframe.
+tt0117060,"00:51:27,381","00:51:28,840",Where exactly is it?
+tt0117060,"00:51:28,924","00:51:30,205",In Langley.
+tt0117060,"00:51:33,637","00:51:34,716",In Langley?
+tt0117060,"00:51:34,805","00:51:37,641","The one in Virginia, Langley?"
+tt0117060,"00:51:37,726","00:51:41,724",Inside CIA headquarters at Langley?
+tt0117060,"00:51:42,857","00:51:44,351",Is he serious?
+tt0117060,"00:51:44,442","00:51:46,435",Always.
+tt0117060,"00:51:47,863","00:51:52,738","If we're going to Virginia, why don't we drop by Fort Knox?"
+tt0117060,"00:51:52,826","00:51:57,075",I can fly a helicopter through the lobby and land inside the vault.
+tt0117060,"00:51:57,166","00:52:01,413",And it would be easier than breaking into the goddamn CIA.
+tt0117060,"00:52:01,503","00:52:02,748",What are we downloading?
+tt0117060,"00:52:02,838","00:52:04,083",Information.
+tt0117060,"00:52:04,173","00:52:05,168",What kind?
+tt0117060,"00:52:05,257","00:52:06,421",Profitable.
+tt0117060,"00:52:07,927","00:52:09,338",Payment on delivery.
+tt0117060,"00:52:11,641","00:52:16,138",I don't know. I just don't know.
+tt0117060,"00:52:17,731","00:52:22,108","Well, this doesn't sound like the Luther Stickell I heard of."
+tt0117060,"00:52:22,194","00:52:24,482","What did they call you, the Net Ranger?"
+tt0117060,"00:52:24,571","00:52:26,316",Phineas Phreak?
+tt0117060,"00:52:27,076","00:52:30,112",The only man alive who actually hacked Nato Ghostcom.
+tt0117060,"00:52:30,204","00:52:32,280",There was never any physical evidence
+tt0117060,"00:52:32,373","00:52:35,788",that I had anything to do with that... with that...
+tt0117060,"00:52:36,294","00:52:39,544",that exceptional piece of work.
+tt0117060,"00:52:43,010","00:52:45,584",You don't know what you're missing.
+tt0117060,"00:52:45,680","00:52:48,717",This is the Mount Everest of hacks.
+tt0117060,"00:52:48,809","00:52:51,097",You're all kidding yourselves.
+tt0117060,"00:52:51,186","00:52:55,563","Even with top of the line crypto, Cray access, STU 3s..."
+tt0117060,"00:52:55,649","00:52:57,774","Krieger can get it, right?"
+tt0117060,"00:52:58,946","00:53:00,855",May take a little time.
+tt0117060,"00:53:00,948","00:53:02,656","""A little time""?"
+tt0117060,"00:53:02,741","00:53:04,817",That's not what Claire tells me about you.
+tt0117060,"00:53:05,119","00:53:07,741",Thinking-machine laptops.
+tt0117060,"00:53:09,124","00:53:12,041",I'm talking about the 686 prototypes
+tt0117060,"00:53:12,127","00:53:14,879",with the artificial intelligence risk chip.
+tt0117060,"00:53:14,964","00:53:15,960",24 hours.
+tt0117060,"00:53:17,926","00:53:22,505","And, uh... I get to keep the equipment when we're done."
+tt0117060,"00:53:22,597","00:53:25,468","Luther, I guess you're all out of excuses."
+tt0117060,"00:53:30,482","00:53:34,527","Look, uh... I just can't hack my way inside."
+tt0117060,"00:53:34,611","00:53:38,480","See, there's no modem access to the mainframe."
+tt0117060,"00:53:38,575","00:53:40,947","It's in what we call the stand alone,"
+tt0117060,"00:53:41,036","00:53:45,533",which means I'll have to be physically at the terminal.
+tt0117060,"00:53:46,834","00:53:47,831","Relax, Luther."
+tt0117060,"00:53:47,919","00:53:50,707",It's much worse than you think.
+tt0117060,"00:53:50,797","00:53:53,715",The terminal is in a black vault lockdown.
+tt0117060,"00:53:53,800","00:53:56,126",The only person allowed in the room
+tt0117060,"00:53:56,219","00:53:58,891",has to pass through a series of security checks.
+tt0117060,"00:53:58,974","00:54:00,385",William Donloe.
+tt0117060,"00:54:00,476","00:54:02,717",The first is a voiceprint identification
+tt0117060,"00:54:02,811","00:54:04,934",and a six-digit access code.
+tt0117060,"00:54:08,610","00:54:11,895",This only gets him into the outer room.
+tt0117060,"00:54:11,988","00:54:14,907","Next, he has to pass a retinal scan."
+tt0117060,"00:54:17,913","00:54:20,748","And finally, the intrusion countermeasures"
+tt0117060,"00:54:20,832","00:54:24,415",are only deactivated by a double electronic key card...
+tt0117060,"00:54:24,503","00:54:26,211",which we won't have.
+tt0117060,"00:54:28,257","00:54:32,920","Now, inside the black vault, there are three systems operating"
+tt0117060,"00:54:33,013","00:54:35,421",whenever the technician is out of the room.
+tt0117060,"00:54:35,516","00:54:37,723",The first is sound sensitive -
+tt0117060,"00:54:37,811","00:54:40,218",anything above a whisper sets it off.
+tt0117060,"00:54:41,940","00:54:45,061",The second system detects any increase in temperature.
+tt0117060,"00:54:45,152","00:54:48,653",Even the body heat of an unauthorised person in the room
+tt0117060,"00:54:48,740","00:54:52,738",will trigger it if the temperature rises just a single degree.
+tt0117060,"00:54:56,081","00:54:59,036",That temperature is controlled by the air conditioning
+tt0117060,"00:54:59,127","00:55:03,208",coming in through an overhead duct 30 feet above the floor.
+tt0117060,"00:55:05,426","00:55:08,047",That vent is guarded by a laser net.
+tt0117060,"00:55:11,057","00:55:14,972",The third system is on the floor and is pressure sensitive.
+tt0117060,"00:55:15,061","00:55:19,108","The slightest increase in weight will trigger the alarm,"
+tt0117060,"00:55:19,192","00:55:22,063","and any one of these systems,"
+tt0117060,"00:55:22,154","00:55:27,658","if set off, will activate an automatic lockdown."
+tt0117060,"00:55:27,743","00:55:31,825","Now... believe me when I tell you, gentlemen, all three systems"
+tt0117060,"00:55:31,915","00:55:33,540",are state-of-the-art.
+tt0117060,"00:55:36,503","00:55:39,422",And you really think we can do this?
+tt0117060,"00:56:16,216","00:56:20,678","We picked up alarms in Sectors 3, 7, and 12."
+tt0117060,"00:56:20,764","00:56:22,970",<i>Where's the air conditioning?</i>
+tt0117060,"00:56:23,058","00:56:25,763",<i>- 21. - There's no alarm in Sector 21.</i>
+tt0117060,"00:56:25,852","00:56:29,721","<i>- I got to shut it down. - Sorry, nobody gets in there.</i>"
+tt0117060,"00:56:29,816","00:56:32,188",<i>You want fire through this building?</i>
+tt0117060,"00:56:32,276","00:56:36,227","<i>No one goes into any sector where the alarm hasn't gone off,</i>"
+tt0117060,"00:56:36,323","00:56:37,319",<i>and it hasn't...</i>
+tt0117060,"00:56:37,408","00:56:38,736",<i>Wait.</i>
+tt0117060,"00:56:41,996","00:56:43,704",<i>It's gone off.</i>
+tt0117060,"00:56:43,790","00:56:45,414",Let's move.
+tt0117060,"00:56:56,346","00:56:58,837",Can I get you anything?
+tt0117060,"00:56:58,932","00:57:00,593","No, thank you."
+tt0117060,"00:57:02,937","00:57:05,061",21's through here.
+tt0117060,"00:57:11,281","00:57:13,653",He's recruiting. For what purpose?
+tt0117060,"00:57:14,826","00:57:15,941",Survival.
+tt0117060,"00:57:16,036","00:57:19,287",Too short-sighted. This guy initiates. He's proactive.
+tt0117060,"00:57:19,373","00:57:23,454","The question is, what does he want? Where does he need to get it?"
+tt0117060,"00:57:23,545","00:57:25,419","Barnes, what's that noise?"
+tt0117060,"00:57:25,505","00:57:28,079","Uh, the fire alarm, Gene."
+tt0117060,"00:57:30,261","00:57:32,384",Do we have to evacuate?
+tt0117060,"00:58:18,775","00:58:23,154","Hey, there were three of you. Where's the other guy?"
+tt0117060,"00:58:26,410","00:58:28,319",Zero body count.
+tt0117060,"00:58:28,412","00:58:29,443",We'll see.
+tt0117060,"01:00:02,855","01:00:04,136","Hi, there."
+tt0117060,"01:01:05,052","01:01:06,712",One.
+tt0117060,"01:01:06,804","01:01:07,883",Two.
+tt0117060,"01:01:07,972","01:01:10,215",Three.
+tt0117060,"01:01:10,309","01:01:11,388",Toast.
+tt0117060,"01:01:11,769","01:01:13,180",Toast.
+tt0117060,"01:01:13,271","01:01:14,931",<i>Check.</i>
+tt0117060,"01:01:15,023","01:01:16,054",Good.
+tt0117060,"01:01:16,149","01:01:19,020","OK, Luther, I'm going in."
+tt0117060,"01:01:19,110","01:01:20,902","Everest, man."
+tt0117060,"01:01:20,987","01:01:22,981",<i>You ready to plant the flag?</i>
+tt0117060,"01:01:30,290","01:01:31,488",Damn.
+tt0117060,"01:01:31,666","01:01:35,796","Krieger, from here on in, absolute silence."
+tt0117060,"01:02:52,177","01:02:53,552",He's rolling to you.
+tt0117060,"01:02:57,809","01:02:59,885",He's at the voiceprint corridor.
+tt0117060,"01:02:59,978","01:03:01,638",William Donloe.
+tt0117060,"01:03:17,540","01:03:18,536",Outer room.
+tt0117060,"01:03:23,254","01:03:24,631",He's coming in the vault.
+tt0117060,"01:03:30,430","01:03:31,924","Come on, move."
+tt0117060,"01:04:26,036","01:04:27,946",Oh...
+tt0117060,"01:04:29,540","01:04:31,083",Oh...
+tt0117060,"01:05:00,911","01:05:02,369",He's in the bathroom.
+tt0117060,"01:06:19,919","01:06:22,493",A-W-9...
+tt0117060,"01:06:22,589","01:06:25,162",6-B-6.
+tt0117060,"01:06:43,988","01:06:46,028",Holy Mother of God.
+tt0117060,"01:06:46,115","01:06:48,359",The NOC list.
+tt0117060,"01:09:45,158","01:09:46,616",He's at the vault.
+tt0117060,"01:10:00,259","01:10:01,504",Four yellows.
+tt0117060,"01:10:04,054","01:10:05,928",One red.
+tt0117060,"01:10:17,528","01:10:18,524",Get moving.
+tt0117060,"01:10:20,407","01:10:21,949",Toast.
+tt0117060,"01:10:23,035","01:10:24,067",Toast.
+tt0117060,"01:10:27,582","01:10:28,578",Merci.
+tt0117060,"01:11:27,068","01:11:28,527","Oh, my God."
+tt0117060,"01:11:39,707","01:11:40,705",Yeah.
+tt0117060,"01:11:43,588","01:11:46,257",It's... for you.
+tt0117060,"01:11:47,717","01:11:48,713",Kittridge.
+tt0117060,"01:12:11,746","01:12:14,319",You and I know about this.
+tt0117060,"01:12:14,415","01:12:16,573","That's where it stops, you understand?"
+tt0117060,"01:12:16,667","01:12:18,826",- It never happened. - What about him?
+tt0117060,"01:12:18,920","01:12:24,163",I want him manning a radar tower in Alaska. Mail him his clothes.
+tt0117060,"01:13:03,764","01:13:05,887",You contacting your buyer?
+tt0117060,"01:13:07,726","01:13:09,636",Ethan?
+tt0117060,"01:13:15,069","01:13:16,314",Ethan.
+tt0117060,"01:13:23,078","01:13:24,276",Ethan.
+tt0117060,"01:13:25,539","01:13:26,654",Oh...
+tt0117060,"01:13:26,748","01:13:29,834",Excuse me. Mr Hunt.
+tt0117060,"01:13:39,263","01:13:41,589",You're not going to any meeting without me.
+tt0117060,"01:13:43,728","01:13:46,563",My contact is extremely shy.
+tt0117060,"01:13:48,232","01:13:52,527","I don't think you're in any position to give orders, do you?"
+tt0117060,"01:13:52,613","01:13:55,567",Not while I'm holding this.
+tt0117060,"01:13:55,657","01:13:56,772",Krieger...
+tt0117060,"01:14:03,042","01:14:04,500",You mean this?
+tt0117060,"01:14:04,585","01:14:07,040",That's not the list.
+tt0117060,"01:14:07,129","01:14:10,664",What's the matter? You've never seen this trick?
+tt0117060,"01:14:18,726","01:14:20,932",Where'd it go?
+tt0117060,"01:14:23,774","01:14:25,731",It's gone.
+tt0117060,"01:14:26,652","01:14:28,062",What?
+tt0117060,"01:14:28,153","01:14:29,149",You.
+tt0117060,"01:14:29,238","01:14:30,234",No.
+tt0117060,"01:14:30,323","01:14:31,568",No?
+tt0117060,"01:14:31,658","01:14:32,939","No, come on."
+tt0117060,"01:14:37,206","01:14:38,617",But not too far.
+tt0117060,"01:14:42,837","01:14:44,747","I know what you're thinking, Krieger."
+tt0117060,"01:14:44,839","01:14:47,414","You're thinking, back in the computer room,"
+tt0117060,"01:14:47,510","01:14:50,713","I was up here, he was... he was down there."
+tt0117060,"01:14:52,516","01:14:54,758","Yes, and he was..."
+tt0117060,"01:14:54,851","01:14:58,303",he was carrying two disks.
+tt0117060,"01:14:58,397","01:15:02,479",So hard to keep track of these things.
+tt0117060,"01:15:03,404","01:15:04,518",Where is it?
+tt0117060,"01:15:18,379","01:15:22,424",Do you actually think I'd let you have the NOC list?
+tt0117060,"01:15:24,011","01:15:28,139","Try any sleight of hand with my money, and I'll cut your throat."
+tt0117060,"01:15:53,170","01:15:56,586",<i>You're off on one of your cushy recruiting assignments again?</i>
+tt0117060,"01:15:56,673","01:15:59,544","<i>Yeah. Where'd they put you up this time, the Plaza?</i>"
+tt0117060,"01:15:59,635","01:16:01,045","<i>Drake Hotel, Chicago.</i>"
+tt0117060,"01:16:03,599","01:16:05,638",I'm so sorry.
+tt0117060,"01:16:11,899","01:16:14,355",Krieger was my call.
+tt0117060,"01:16:20,576","01:16:22,284","I'm sorry, Ethan."
+tt0117060,"01:16:27,459","01:16:30,128",We did what we had to do.
+tt0117060,"01:16:30,837","01:16:34,255",I'm going to try and get some sleep.
+tt0117060,"01:17:12,136","01:17:14,260",Krieger did have the NOC list?
+tt0117060,"01:17:23,065","01:17:26,981",- You hold on to it. - What makes you trust me?
+tt0117060,"01:17:27,070","01:17:30,274","Because if you knew about it, you never would have done it."
+tt0117060,"01:17:36,624","01:17:39,909",I'm not going to let this get out in the open.
+tt0117060,"01:17:40,002","01:17:43,501",Exactly. That's your job tomorrow on the train.
+tt0117060,"01:17:43,589","01:17:46,507",Don't let this NOC list get out in the open.
+tt0117060,"01:17:53,309","01:17:55,718",What is the range of this thing?
+tt0117060,"01:17:55,812","01:17:59,063",It's hard to tell. We're going to have to be close.
+tt0117060,"01:18:00,442","01:18:02,980","Ethan, I need to talk to you."
+tt0117060,"01:18:03,779","01:18:05,238",<i>The unlikely setting -</i>
+tt0117060,"01:18:05,324","01:18:08,740","<i>a farm in the heartland of America, the state of Wisconsin,</i>"
+tt0117060,"01:18:08,827","01:18:11,579",<i>where Federal Agents claim to have found the brains</i>
+tt0117060,"01:18:11,664","01:18:13,455",<i>behind an international drug ring.</i>
+tt0117060,"01:18:13,540","01:18:16,708",<i>The operation was masterminded by Margaret Ethan Hunt</i>
+tt0117060,"01:18:16,795","01:18:18,834",<i>and her brother-in-law Donald Hunt.</i>
+tt0117060,"01:18:18,922","01:18:20,797",<i>They were arrested this morning</i>
+tt0117060,"01:18:20,883","01:18:24,418",<i>by drug enforcement officers in a major sting operation</i>
+tt0117060,"01:18:24,512","01:18:27,182",<i>designed to expose the illegal manufacture</i>
+tt0117060,"01:18:27,266","01:18:30,101","<i>of the drug Methcathinone, known as Cat.</i>"
+tt0117060,"01:18:30,185","01:18:32,890",<i>- What we have here... - Kittridge.</i>
+tt0117060,"01:19:02,806","01:19:04,004",Kittridge.
+tt0117060,"01:19:04,099","01:19:06,638",I see you've been out visiting the folks.
+tt0117060,"01:19:06,728","01:19:09,932",It's Hunt. What do you need for a pinpoint?
+tt0117060,"01:19:10,024","01:19:13,475","You've been watching a little TV, have you?"
+tt0117060,"01:19:14,778","01:19:18,824",Hauling mom off to jail in shackles was an especially nice touch.
+tt0117060,"01:19:18,909","01:19:20,189",He's in England.
+tt0117060,"01:19:20,285","01:19:21,281",Get MI5.
+tt0117060,"01:19:21,369","01:19:23,078","Ethan, I want to assure you"
+tt0117060,"01:19:23,164","01:19:26,664",that my first order of business after you come in
+tt0117060,"01:19:26,752","01:19:30,286",is to have these ridiculous charges against your family dropped
+tt0117060,"01:19:30,380","01:19:32,706",and eliminated completely from their files.
+tt0117060,"01:19:32,799","01:19:35,718","If you, uh, if you come in now,"
+tt0117060,"01:19:35,803","01:19:39,138",we can plea down the charges against you as well.
+tt0117060,"01:19:40,684","01:19:42,760","Can I ask you something, Kittridge?"
+tt0117060,"01:19:44,271","01:19:45,765","Certainly, Ethan."
+tt0117060,"01:19:45,857","01:19:51,611","If you're dealing with someone who's crushed, stabbed,"
+tt0117060,"01:19:51,696","01:19:54,568","shot, and detonated"
+tt0117060,"01:19:54,659","01:19:57,945",five members of his own IMF team...
+tt0117060,"01:19:59,248","01:20:01,573",how devastated do you think he'll be
+tt0117060,"01:20:01,667","01:20:04,621",by marching Ma and Uncle Donald to the county courthouse?
+tt0117060,"01:20:04,711","01:20:08,046","<i>I don't know, Ethan. Why don't you tell me?</i>"
+tt0117060,"01:20:10,552","01:20:11,833",Lost him.
+tt0117060,"01:20:14,181","01:20:15,675",We needed three more seconds.
+tt0117060,"01:20:15,766","01:20:18,685",He wanted us to know he was in London.
+tt0117060,"01:20:31,702","01:20:34,572",You're a hard man to catch up with.
+tt0117060,"01:20:42,840","01:20:46,339",The next day I managed to drag myself to the safe house.
+tt0117060,"01:20:46,427","01:20:50,046","I must have just missed you. Anyway, I checked our aliases."
+tt0117060,"01:20:50,140","01:20:52,216",Then you followed us to the States.
+tt0117060,"01:20:52,309","01:20:55,097",But you left before I could get there.
+tt0117060,"01:20:55,187","01:20:57,858",Smaller countries don't computerise customs records.
+tt0117060,"01:20:57,941","01:21:00,313",So I watched Europe.
+tt0117060,"01:21:00,402","01:21:03,438","Once you turned up in England, it was easy."
+tt0117060,"01:21:03,530","01:21:06,199",You knew I liked the rentals at Liverpool Street.
+tt0117060,"01:21:06,283","01:21:08,111","Hey, I showed them to you."
+tt0117060,"01:21:10,456","01:21:11,866",I remember.
+tt0117060,"01:21:13,667","01:21:15,707",Who do you think you're kidding here?
+tt0117060,"01:21:15,794","01:21:19,046",A doctor's got to see you. You can't sit up straight.
+tt0117060,"01:21:19,132","01:21:23,082",I can sit up straight. I just can't sit up straight very well.
+tt0117060,"01:21:23,178","01:21:26,548",Sit down. Sit down. It's not important.
+tt0117060,"01:21:28,101","01:21:29,097",Ethan...
+tt0117060,"01:21:31,647","01:21:33,105",I saw who shot me.
+tt0117060,"01:21:33,190","01:21:36,144",I saw the mole.
+tt0117060,"01:21:36,234","01:21:38,027",It was Kittridge.
+tt0117060,"01:21:38,112","01:21:39,986",Kittridge.
+tt0117060,"01:21:40,073","01:21:42,113","Kittridge, Ethan."
+tt0117060,"01:21:47,749","01:21:50,501",Kittridge is the mole.
+tt0117060,"01:21:50,585","01:21:52,494","My God, of course. You're right."
+tt0117060,"01:21:58,512","01:22:00,588",He was at the embassy that night.
+tt0117060,"01:22:04,142","01:22:08,011","First, he took out Jack at the elevator."
+tt0117060,"01:22:15,739","01:22:18,148",He shot you on the bridge.
+tt0117060,"01:22:47,234","01:22:48,860",Ethan!
+tt0117060,"01:23:01,710","01:23:06,123",He must have had back-up to take out Golitsyn and Sarah at the fence.
+tt0117060,"01:23:24,569","01:23:26,728",How did he do Hannah?
+tt0117060,"01:23:51,851","01:23:55,766",No. No. He could have done Hannah himself.
+tt0117060,"01:24:22,137","01:24:23,465","Why, Jim?"
+tt0117060,"01:24:25,765","01:24:26,797",Why?
+tt0117060,"01:24:29,729","01:24:34,273","When you think about it, Ethan, it was inevitable. No more cold war."
+tt0117060,"01:24:34,359","01:24:37,775",No more secrets you keep from everyone but yourself.
+tt0117060,"01:24:37,863","01:24:42,075",Operations - you answer to no one but yourself.
+tt0117060,"01:24:42,160","01:24:44,152",And then one day you wake up.
+tt0117060,"01:24:44,245","01:24:48,160",The President is running the country without your permission.
+tt0117060,"01:24:48,250","01:24:51,122",The son of a bitch. How dare he?
+tt0117060,"01:24:51,796","01:24:53,919",Then you realise it's over.
+tt0117060,"01:24:54,007","01:24:57,127",You're an obsolete piece of hardware not worth upgrading.
+tt0117060,"01:24:57,218","01:25:00,423",You've got a lousy marriage and 62 grand a year.
+tt0117060,"01:25:02,351","01:25:03,975",Kittridge...
+tt0117060,"01:25:04,061","01:25:07,512",We'll go after the no-good son of a bitch big time.
+tt0117060,"01:25:12,445","01:25:14,936",We won't have to.
+tt0117060,"01:25:15,031","01:25:17,108",He'll come after us.
+tt0117060,"01:25:17,201","01:25:19,526",What's going to make him do that?
+tt0117060,"01:25:19,620","01:25:23,619",What he didn't get in Prague - the NOC list.
+tt0117060,"01:25:25,919","01:25:27,496",Whoa.
+tt0117060,"01:25:27,587","01:25:29,331","Jesus, Ethan."
+tt0117060,"01:25:30,883","01:25:33,553",Good for you. Phew.
+tt0117060,"01:25:33,637","01:25:36,922","I'm meeting tomorrow on the TGV, en route to Paris."
+tt0117060,"01:25:37,015","01:25:39,471",Tight security. No guns.
+tt0117060,"01:25:39,559","01:25:41,138",A real plus.
+tt0117060,"01:25:41,229","01:25:43,850","If I supposedly deliver the NOC list to Max,"
+tt0117060,"01:25:43,940","01:25:46,229",Max has agreed to deliver Job to me.
+tt0117060,"01:25:46,317","01:25:49,568",I'll have Claire and Luther Stickell with me on the train.
+tt0117060,"01:25:49,655","01:25:51,981",Krieger will have helicopter transport waiting in Paris.
+tt0117060,"01:25:55,161","01:25:56,157",Jim?
+tt0117060,"01:26:05,799","01:26:08,171","I was in a cafe waiting for you, Ethan."
+tt0117060,"01:26:11,347","01:26:13,174",And there she was...
+tt0117060,"01:26:13,266","01:26:15,757",standing in the rain...
+tt0117060,"01:26:15,852","01:26:17,180","alive and beautiful,"
+tt0117060,"01:26:17,270","01:26:20,141",thinking I'm dead and gone.
+tt0117060,"01:26:22,777","01:26:26,727","God knows what she's had to do to forget me, to keep going,"
+tt0117060,"01:26:26,823","01:26:28,103",to get the job done.
+tt0117060,"01:26:32,246","01:26:36,494","She can't know about me, Ethan. No one can until this is over."
+tt0117060,"01:26:36,585","01:26:38,577",You're probably right.
+tt0117060,"01:26:38,670","01:26:41,209",There's too much at stake.
+tt0117060,"01:26:43,843","01:26:48,256","Once we leave the safe house, Jim, you get in there and crash."
+tt0117060,"01:26:48,348","01:26:50,425",I'll call you from Paris.
+tt0117060,"01:26:50,517","01:26:51,763",You got it.
+tt0117060,"01:27:14,879","01:27:16,160",What happened?
+tt0117060,"01:27:20,344","01:27:22,384",I sent the message to Max.
+tt0117060,"01:27:26,434","01:27:28,059",We're on for tomorrow.
+tt0117060,"01:27:35,988","01:27:37,268",OK.
+tt0117060,"01:27:47,750","01:27:48,865",Come here.
+tt0117060,"01:28:31,134","01:28:32,843",Sir.
+tt0117060,"01:28:32,928","01:28:33,924",What's this?
+tt0117060,"01:28:34,013","01:28:35,472","Incoming, sir, for you."
+tt0117060,"01:28:35,556","01:28:37,965","X-ray's clean, electronics, and no explosives."
+tt0117060,"01:28:49,238","01:28:50,483",Gene?
+tt0117060,"01:28:55,830","01:28:57,622",How long to the London Terminus?
+tt0117060,"01:28:57,707","01:28:58,703","20, 25 minutes."
+tt0117060,"01:28:58,792","01:29:00,250",You've got 10 minutes. Move!
+tt0117060,"01:29:37,921","01:29:39,084",Yes?
+tt0117060,"01:29:39,172","01:29:40,797",<i>Give me Max.</i>
+tt0117060,"01:29:40,882","01:29:42,258",It's him.
+tt0117060,"01:29:45,888","01:29:47,715",This was not what we discussed.
+tt0117060,"01:29:47,807","01:29:50,013","<i>My apologies, Max. It couldn't be helped.</i>"
+tt0117060,"01:29:50,101","01:29:52,674",<i>There's a piece of black cloth under your seat.</i>
+tt0117060,"01:29:52,770","01:29:54,516","<i>Tear it away, and you'll find the disk.</i>"
+tt0117060,"01:30:29,356","01:30:32,606",Dear boy...
+tt0117060,"01:30:32,692","01:30:36,276",I hope this doesn't preclude a meeting in private.
+tt0117060,"01:30:36,364","01:30:39,615",<i>Not as long as you tell me where the money is.</i>
+tt0117060,"01:30:39,701","01:30:41,990",The mere possibility is worth 10 million.
+tt0117060,"01:30:42,079","01:30:44,072","Baggage car, rack three."
+tt0117060,"01:30:44,165","01:30:48,661","Silver briefcase, combination 314."
+tt0117060,"01:30:48,753","01:30:50,295",<i>What about Job?</i>
+tt0117060,"01:30:50,380","01:30:51,660",Wouldn't worry about him.
+tt0117060,"01:30:51,756","01:30:53,832","When you get the money, he'll find you."
+tt0117060,"01:31:11,822","01:31:13,364",What's the matter?
+tt0117060,"01:31:13,448","01:31:14,908",It's not transmitting.
+tt0117060,"01:31:14,992","01:31:16,736","Try it, try it again!"
+tt0117060,"01:31:16,828","01:31:19,449","Damn it, I've got to get this through before we hit the Channel."
+tt0117060,"01:31:31,720","01:31:33,842",What's the problem?
+tt0117060,"01:31:33,930","01:31:35,094",Connection denied.
+tt0117060,"01:31:35,182","01:31:38,219",I can see that. Did you check the batteries?
+tt0117060,"01:31:38,310","01:31:40,220",I always do.
+tt0117060,"01:31:40,312","01:31:43,896",Don't give me that. Run it through from the top.
+tt0117060,"01:31:47,530","01:31:51,148",This is bullshit. We don't even know what Max looks like.
+tt0117060,"01:31:51,242","01:31:52,440",We don't need to.
+tt0117060,"01:31:52,535","01:31:56,582","If he's got that list, he's going to check it. And that means laptops."
+tt0117060,"01:32:08,220","01:32:09,845","Excuse me, sir."
+tt0117060,"01:32:09,930","01:32:11,306",Your telephone?
+tt0117060,"01:32:11,390","01:32:12,802",Hello?
+tt0117060,"01:32:14,561","01:32:16,222",I can't hear anything.
+tt0117060,"01:32:17,774","01:32:19,184",Is everything all right?
+tt0117060,"01:32:19,275","01:32:20,390",The battery is gone.
+tt0117060,"01:32:20,485","01:32:22,062",It's working.
+tt0117060,"01:32:34,417","01:32:36,126",He's in the baggage car.
+tt0117060,"01:32:37,880","01:32:40,252","Ethan, Kittridge is on the train."
+tt0117060,"01:32:40,341","01:32:41,835",<i>I'm right behind you.</i>
+tt0117060,"01:32:41,926","01:32:44,797",<i>The money's in the baggage car. I'll meet you there.</i>
+tt0117060,"01:33:01,324","01:33:02,569",Barnes?
+tt0117060,"01:33:40,703","01:33:42,577",Ethan's right behind me.
+tt0117060,"01:33:43,748","01:33:45,575","Listen, Jim..."
+tt0117060,"01:33:45,667","01:33:48,586",Is it such a good idea to kill him?
+tt0117060,"01:33:51,799","01:33:54,041",Kittridge is here.
+tt0117060,"01:33:57,890","01:33:59,848",We take the money...
+tt0117060,"01:33:59,934","01:34:02,010",Ethan takes the blame.
+tt0117060,"01:34:04,355","01:34:06,894",No one else has seen you alive.
+tt0117060,"01:34:09,111","01:34:11,270",No one will believe him.
+tt0117060,"01:34:38,896","01:34:40,521",Of course...
+tt0117060,"01:34:40,606","01:34:43,477","I'm very sorry to hear you say that, Claire."
+tt0117060,"01:34:46,864","01:34:47,860",Ethan...
+tt0117060,"01:34:47,949","01:34:48,945",Yes.
+tt0117060,"01:34:50,410","01:34:53,494","Ethan Hunt, darling. You remember him, don't you?"
+tt0117060,"01:34:55,832","01:34:57,624",You knew about Jim?
+tt0117060,"01:34:57,709","01:34:58,908",Of course.
+tt0117060,"01:35:00,964","01:35:03,715",Just exactly when he knew is something of a question.
+tt0117060,"01:35:03,800","01:35:05,591","Mind telling me, Ethan?"
+tt0117060,"01:35:05,677","01:35:09,094",Before or after I showed up in London?
+tt0117060,"01:35:10,266","01:35:11,511",Before London.
+tt0117060,"01:35:11,600","01:35:14,886",But after you took the Bible from the Drake Hotel in Chicago.
+tt0117060,"01:35:15,896","01:35:19,599","They stamped it, didn't they? Those damn Gideons."
+tt0117060,"01:35:21,320","01:35:24,903","Ethan... if you knew about Jim, why..."
+tt0117060,"01:35:24,991","01:35:26,153",Why the masquerade?
+tt0117060,"01:35:26,242","01:35:28,319",Why take the risk?
+tt0117060,"01:35:28,412","01:35:30,036","Well, Claire..."
+tt0117060,"01:35:30,122","01:35:31,950",you've asked the question.
+tt0117060,"01:35:32,041","01:35:34,663",And you are the answer.
+tt0117060,"01:35:34,753","01:35:36,959",I knew about Jim.
+tt0117060,"01:35:37,046","01:35:39,752",But he didn't know about you.
+tt0117060,"01:35:39,842","01:35:41,466","In all fairness, Ethan,"
+tt0117060,"01:35:41,552","01:35:45,170",Claire was never convinced her charms would work on you.
+tt0117060,"01:35:45,264","01:35:46,806","But I was supremely confident,"
+tt0117060,"01:35:46,891","01:35:49,218",having tasted the goods.
+tt0117060,"01:35:51,189","01:35:57,192","""Thou shalt not covet thy neighbour's wife"", Ethan."
+tt0117060,"01:35:58,113","01:36:00,569",Let's get the money and get out.
+tt0117060,"01:36:00,657","01:36:01,820","Yes, let's get the money."
+tt0117060,"01:36:03,119","01:36:05,789",Ethan... the money.
+tt0117060,"01:36:08,626","01:36:09,824",Give her the money.
+tt0117060,"01:36:13,756","01:36:15,167",You've earned it.
+tt0117060,"01:36:22,391","01:36:24,051",All ten million.
+tt0117060,"01:36:24,185","01:36:28,053","You know, Claire was wrong about one thing, Jim."
+tt0117060,"01:36:28,148","01:36:29,940",Oh?
+tt0117060,"01:36:30,067","01:36:31,265",What's that?
+tt0117060,"01:36:50,383","01:36:52,506","Good morning, Mr Phelps."
+tt0117060,"01:36:54,178","01:36:56,420",I'm not the only one who's seen you alive.
+tt0117060,"01:36:59,977","01:37:01,934",You son of a bitch.
+tt0117060,"01:37:02,020","01:37:03,847","It's over, Jim."
+tt0117060,"01:37:10,114","01:37:12,984","Don't... Don't, Jim."
+tt0117060,"01:37:13,075","01:37:14,451","""Don't, Jim""?"
+tt0117060,"01:40:03,440","01:40:04,436",Aah!
+tt0117060,"01:40:24,799","01:40:25,997",Damn!
+tt0117060,"01:40:29,387","01:40:31,427","No, it's in the tunnel!"
+tt0117060,"01:40:31,682","01:40:34,007","No, no, don't! It'll crash into us!"
+tt0117060,"01:40:34,101","01:40:35,643",Accelerate! Accelerate!
+tt0117060,"01:42:37,870","01:42:38,949",Red light!
+tt0117060,"01:42:40,122","01:42:41,865",Green light!
+tt0117060,"01:43:34,478","01:43:36,850",I think this is what you're looking for.
+tt0117060,"01:43:43,238","01:43:45,694","Hello, Max."
+tt0117060,"01:43:45,783","01:43:48,986",My lawyers are going to have a field day with this.
+tt0117060,"01:43:49,078","01:43:51,651","Entrapment, jurisdictional conflict..."
+tt0117060,"01:43:51,747","01:43:55,580","Well, maybe we'll just leave the courts out of this one."
+tt0117060,"01:43:57,546","01:44:01,379",I'm sure we can find something I have that you need.
+tt0117060,"01:44:04,179","01:44:07,548","<i>In a freak accident, a helicopter lost altitude, veered into a tunnel,</i>"
+tt0117060,"01:44:07,641","01:44:11,805",<i>and collided with a train on its way from London to Paris.</i>
+tt0117060,"01:44:11,895","01:44:15,895","<i>The pilot was killed, but no one on the train was hurt.</i>"
+tt0117060,"01:44:15,985","01:44:19,817",<i>Authorities have attributed the accident to instrument failure...</i>
+tt0117060,"01:44:19,905","01:44:22,231",Reach your folks? How do they feel?
+tt0117060,"01:44:22,324","01:44:23,903",About what?
+tt0117060,"01:44:23,994","01:44:26,948","The apology from the Justice Department,"
+tt0117060,"01:44:27,038","01:44:30,823","VIP treatment, you know, the whole 9 yards."
+tt0117060,"01:44:30,918","01:44:32,958","Well, my mom was a little confused"
+tt0117060,"01:44:33,045","01:44:35,798",how the DEA could mistake her and Uncle Donald
+tt0117060,"01:44:35,883","01:44:38,504",for a couple of dope smugglers in the Florida Keys.
+tt0117060,"01:44:41,221","01:44:42,466",Cheers.
+tt0117060,"01:44:43,515","01:44:45,889","To you, Luther."
+tt0117060,"01:44:45,978","01:44:47,935",For being off the disavowed list.
+tt0117060,"01:44:48,022","01:44:50,477","Hey, I'm the flavour of the month."
+tt0117060,"01:44:51,984","01:44:54,310",Why don't you come back with me?
+tt0117060,"01:44:56,907","01:45:01,036",I just... l just don't know why I'd be doing it.
+tt0117060,"01:45:03,372","01:45:05,864",Got to go catch my flight.
+tt0117060,"01:45:05,959","01:45:08,711",So how does it feel to be a solid citizen again?
+tt0117060,"01:45:11,173","01:45:12,797","Man, I don't know."
+tt0117060,"01:45:14,969","01:45:17,544",I'm going to miss being disreputable.
+tt0117060,"01:45:17,640","01:45:20,309","Well, Luther, if it makes you feel any better,"
+tt0117060,"01:45:20,392","01:45:21,803",I'll always think of you that way.
+tt0117060,"01:45:33,574","01:45:35,449",Excuse me. Mr Hunt?
+tt0117060,"01:45:36,703","01:45:39,989",Would you like to watch a movie?
+tt0117060,"01:45:40,082","01:45:43,996","Oh, uh... no, thank you."
+tt0117060,"01:45:44,086","01:45:47,457",Would you consider the cinema of the Caribbean?
+tt0117060,"01:45:49,593","01:45:51,502","Aruba, perhaps?"
